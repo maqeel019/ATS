@@ -55,10 +55,7 @@ ATS/
 │
 ├── extractor/                  # Resume content & metadata extraction
 │   ├── education.py
-<<<<<<< HEAD
-=======
 │   ├── experience.py
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 │   ├── info_extractor.py
 │   ├── pdf_reader.py
 │   ├── section_segmenter.py
