@@ -1,0 +1,130 @@
+
+===== SUMMARY =====
+frontend technologies. Proven expertise in transforming Figma designs into responsive React/Next.js applications.
+Strong background in developing healthcare management systems and enterprise-level applications. Demonstrated
+ability to improve application performance and user experience through efficient state management and modern
+development practices.
+
+Technical Skills
+
+Frontend Technologies: React.js, Vue.js, Next.js, TypeScript, HTML5, CSS3, JavaScript (ES6+), GraphQL, Redux
+Backend & Database: Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, WebSocket
+Development Tools: Git, Docker, Webpack, Babel, Jest, React Testing Library, Cypress
+UI/UX: Figma, Material-UI, Tailwind CSS, Styled Components, Responsive Design
+Cloud & Deployment: AWS, Vercel, Netlify, CI/CD, GitHub Actions
+
+
+===== EXPERIENCE =====
+Innovative Full Stack Developer with 3+ years of experience specializing in MERN stack development and modern
+WiseMan Innovation
+Senior Frontend Developer
+
+2024 – Present
+Islamabad
+
+• Lead development of enterprise-level React and Vue.js applications, resulting in 40% improvement in user engagement
+• Implemented TypeScript and GraphQL integration, reducing API-related bugs by 60%
+• Architected scalable frontend solutions using Next.js and modern state management patterns
+• Mentored junior developers and established code review practices, improving team productivity by 30%
+
+Joyn Digital
+Full Stack Developer
+
+• Developed and maintained full-stack applications using MongoDB, Express.js, React, and Node.js
+• Implemented real-time features using WebSocket, improving user interaction response time by 50%
+• Integrated third-party APIs and payment gateways, expanding platform functionality
+• Optimized database queries and implemented caching strategies, reducing load times by 40%
+
+BellMedex
+Frontend Developer
+
+• Developed Electronic Health Records (EHR) system serving 10,000+ daily users
+• Implemented Redux state management, resulting in 45% faster data processing
+• Created reusable component library, reducing development time by 35%
+• Integrated telehealth features, enabling 5,000+ Islamabad consultations monthly
+
+Notable Projects
+
+2023 – 2023
+Islamabad
+
+2021 – 2022
+Islamabad
+
+Healthcare Management System | React, Redux, Node.js, MongoDB
+
+2023
+
+• Developed a comprehensive healthcare management system with electronic health records and appointment scheduling
+• Implemented real-time notifications and secure data encryption for HIPAA compliance
+
+E-commerce Platform | Next.js, TypeScript, GraphQL, Stripe
+
+2023
+
+• Built a full-featured e-commerce platform with inventory management and payment processing
+• Integrated SEO optimization resulting in 40% increase in organic traffic
+• Final Year Project: Developed a Hospital Management System using MERN Stack
+AWS Certified Developer Associate (2023)
+MongoDB Certified Developer (2023)
+MERN Stack Developer — Frontend Engineer
+
+
+===== EDUCATION =====
+Arid Agriculture University
+
+• Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development
+
+2018 – 2022
+Chakwal
+
+
+Core Competencies
+
+Frontend Development: Single Page Applications (SPA), Progressive Web Apps (PWA), Responsive Design
+Development Methodologies: Agile, Scrum, Test-Driven Development (TDD), CI/CD
+Performance Optimization: Code Splitting, Lazy Loading, Bundle Size Optimization, SEO Best Practices
+Bachelor of Science in Software Engineering
+
+
+===== CERTIFICATIONS =====
+Advanced React and Redux - Udemy (2022)
+Digital Portfolio
+Scan the QR code below to explore my complete project portfolio
+Muhammad Faizan
+
+
+Madina Town Shamsabad , Islamabad
+(cid:128) Portfolio Website § GitHub (cid:239) LinkedIn
+
+
+===== CONTACT =====
+(cid:131) +92-340-5966112 # muhammadfaizanjanjua109@gmail.com
+
+
+===== PORTFOLIO =====
+ faizan-three.vercel.app
+
+
+===== UNKNOWN =====
+Professional Summary
+Professional Experience
+WiseMan Innovation 2024 – Present
+Senior Frontend Developer Islamabad
+Joyn Digital 2023 – 2023
+Full Stack Developer Islamabad
+BellMedex 2021 – 2022
+Frontend Developer Islamabad
+Healthcare Management System | React, Redux, Node.js, MongoDB 2023
+E-commerce Platform | Next.js, TypeScript, GraphQL, Stripe 2023
+Education
+Arid Agriculture University 2018 – 2022
+Bachelor of Science in Software Engineering Chakwal
+Certifications & Professional Development
+(cid:18) faizan-three.vercel.app
+ +92-340-5966112
+# muhammadfaizanjanjua109@gmail.com
+ Portfolio Website
+§ GitHub
+ï LinkedIn
+

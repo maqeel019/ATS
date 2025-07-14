@@ -1,0 +1,384 @@
+PDF Filename: Shankar_chavan_Resume_10-08-2022-12-54-00.pdf
+Name (Extracted): Shankar Chavan
+Experience Score: 15.00
+Skill Score: 0.00 (Matched: )
+Education Score: 20.00
+Profile Score: 8.00
+Total Score: 43.00
+Experience Extraction Method: summary
+
+<<<<<<< HEAD
+===== Extracted Resume Text =====
+
+--- EXPERIENCE ---
+11/2021 – present
+Banglore, India
+Jr. Data Scientist, iNeuron.ai
+Processing, cleansing and verifying the integrity of data used for analysis.
+=======
+===== RAW EXTRACTED RESUME TEXT =====
+Shankar chavan
+Data Scientist
+shankar.chavan@gmail.com 9921xxxxxx GitHub HackerRank Linkedin
+Profile
+Data Scientist with 1.5+ years of experience comprising Deep learning, Computer vision and Machine learning. Strong
+willingness to exhibit my proficiency in Deep learning and Machine Learning Algorithms in professional environment.
+Professional Experience
+11/2021 – present Jr. Data Scientist, iNeuron.ai
+Banglore, India Processing, cleansing and verifying the integrity of data used for analysis.
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Doing analysis and presenting results in a clear manner.
+Working on building and optimizing the state-of-the-art Machine learning and Deep
+learning models.
+Working and learning on how to create and automate the project lifecycle with the help of
+creating data pipelines.
+<<<<<<< HEAD
+04/2021 – 11/2021
+Banglore, India
+Data Science Intern, iNeuron.ai
+Data Science Intern, iNeuron.ai
+
+--- PROJECTS ---
+Jr. Data Scientist, iNeuron.ai
+
+Processing, cleansing and verifying the integrity of data used for analysis.
+Doing analysis and presenting results in a clear manner.
+Working on building and optimizing the state-of-the-art Machine learning and Deep
+learning models.
+Working and learning on how to create and automate the project lifecycle with the help of
+creating data pipelines.
+
+
+Aerial Image Mismatch, iNeuron.ai
+
+=======
+04/2021 – 11/2021 Data Science Intern, iNeuron.ai
+Banglore, India
+Projects
+Aerial Image Mismatch, iNeuron.ai
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+The objective of this project is to detect the changes in the geographical co-ordinates in the different areas of the earth.
+We used Instance segmentation to extract the mask and polygons of the objects present in the satellite images.
+Decided to use U-net architecture and Detectron 2's Mask_RCNN_R_50_FPN_3x model for image segmentation.
+There were 5 objects I have segmented using Detectron 2 library.
+<<<<<<< HEAD
+
+Mask Detection
+
+=======
+Mask Detection
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+The objective of the project is to determine whether a person has worn a mask or not.
+Collected 500 + 500 (Mask, No mask) images to train the model.
+Firstly, trained Faster RCNN model, but the FPS was very low (i.e. < 1 FPS) then used SSD with Mobilenet to get better
+accuracy and achieved good FPS rate i.e. 5 FPS.
+In this project I am detecting the person in the frame first. For this I have used pre-trained model – SSD-Mobilenet, then I
+am detecting whether the person is wearing a mask or not.
+For training the model used Nvidia Quadro P-4000 GPU.
+<<<<<<< HEAD
+
+Face Recognition, iNeuron.ai
+
+=======
+Face Recognition, iNeuron.ai
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+The objective of this project is to use face recognition for door security.
+Most doors are controlled by persons with the use of keys, security cards, password or pattern to open the door. The
+purpose of building this kind of system for improvement of the door security of sensitive locations by using face detection
+and recognition.
+The Database used in the project was MonogDB.
+Custom CNN model and transfer learning algorithm was used during this project.
+Companies Data was used to create this project.
+<<<<<<< HEAD
+
+Brand Measure
+
+=======
+Brand Measure
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+The objective of this project is to give exact Marketing solution to a company.
+We collected data in the form of Surveys. (Voice call data).
+We then converted those recordings into text form and applied spelling corrector.
+Then we used Key-word spotting to extract the meaning of the sentence.
+Finally on the basis of the key words, we are generating BI report to show in which area/region company should more
+focus on spending.
+<<<<<<< HEAD
+
+
+Machine learning algorithms :
+Linear regression, Logistic regression, Decision tree,
+Random forest, XGBoost
+
+Computer Vision :
+Image Classification, Object Detection, Image
+Segmentation, OpenCV
+
+Frameworks
+Tensorflow, PyTorch
+
+MLops
+Docker, Kubernetes
+
+--- SKILLS ---
+=======
+Skills
+Programming languages : Machine learning algorithms :
+Python Linear regression, Logistic regression, Decision tree,
+Random forest, XGBoost
+Deep learning algorithms :
+ANN, CNN, RNN Computer Vision :
+Image Classification, Object Detection, Image
+Database Segmentation, OpenCV
+MySQL, MongoDB, Cassandra
+Frameworks
+Cloud Tensorflow, PyTorch
+Heroku, AWS
+MLops
+Docker, Kubernetes
+Education
+2015 – 2017 Master Degree, SPPU University
+Pune, India
+2012 – 2015 Bachelors Degree, SPPU University
+Pune, India
+Certificates
+HackerRank Problem Solving Data Science (DLCVNLP)
+iNeuron.ai
+Achievements
+Conducted 7 days workshop on Python Programming language in KIET college, Kakinada, Andhra Pradesh.
+Successfully conducted career guidance drive multiple times in current organization as a community event.
+Shankar chavan
+Data Scientist
+shankar.chavan@gmail.com
+9921xxxxxx
+GitHub
+HackerRank
+Linkedin
+Profile
+Data Scientist with 1.5+ years of experience comprising Deep learning, Computer vision and Machine learning. Strong 
+willingness to exhibit my proficiency in Deep learning and Machine Learning Algorithms in professional environment.
+Professional Experience
+11/2021 – present
+Banglore, India
+Jr. Data Scientist, iNeuron.ai
+Processing, cleansing and verifying the integrity of data used for analysis.
+Doing analysis and presenting results in a clear manner.
+Working on building and optimizing the state-of-the-art Machine learning and Deep 
+learning models.
+Working and learning on how to create and automate the project lifecycle with the help of 
+creating data pipelines.
+04/2021 – 11/2021
+Banglore, India
+Data Science Intern, iNeuron.ai
+Projects
+Aerial Image Mismatch, iNeuron.ai
+The objective of this project is to detect the changes in the geographical co-ordinates in the different areas of the earth.
+We used Instance segmentation to extract the mask and polygons of the objects present in the satellite images.
+Decided to use U-net architecture and Detectron 2's Mask_RCNN_R_50_FPN_3x model for image segmentation.
+There were 5 objects I have segmented using Detectron 2 library.
+Mask Detection
+The objective of the project is to determine whether a person has worn a mask or not.
+Collected 500 + 500 (Mask, No mask) images to train the model.
+Firstly, trained Faster RCNN model, but the FPS was very low (i.e. < 1 FPS) then used SSD with Mobilenet to get better 
+accuracy and achieved good FPS rate i.e. 5 FPS.
+In this project I am detecting the person in the frame first. For this I have used pre-trained model – SSD-Mobilenet, then I 
+am detecting whether the person is wearing a mask or not.
+For training the model used Nvidia Quadro P-4000 GPU.
+Face Recognition, iNeuron.ai
+The objective of this project is to use face recognition for door security.
+Most doors are controlled by persons with the use of keys, security cards, password or pattern to open the door. The 
+purpose of building this kind of system for improvement of the door security of sensitive locations by using face detection 
+and recognition.
+The Database used in the project was MonogDB.
+Custom CNN model and transfer learning algorithm was used during this project.
+Companies Data was used to create this project.
+Brand Measure
+The objective of this project is to give exact Marketing solution to a company.
+We collected data in the form of Surveys. (Voice call data).
+We then converted those recordings into text form and applied spelling corrector.
+Then we used Key-word spotting to extract the meaning of the sentence.
+Finally on the basis of the key words, we are generating BI report to show in which area/region company should more 
+focus on spending.
+
+Skills
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Programming languages :
+Python
+Deep learning algorithms :
+ANN, CNN, RNN
+Database
+MySQL, MongoDB, Cassandra
+Cloud
+Heroku, AWS
+Machine learning algorithms :
+<<<<<<< HEAD
+Linear regression, Logistic regression, Decision tree,
+Random forest, XGBoost
+Computer Vision :
+Image Classification, Object Detection, Image
+=======
+Linear regression, Logistic regression, Decision tree, 
+Random forest, XGBoost
+Computer Vision :
+Image Classification, Object Detection, Image 
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Segmentation, OpenCV
+Frameworks
+Tensorflow, PyTorch
+MLops
+Docker, Kubernetes
+<<<<<<< HEAD
+
+--- EDUCATION ---
+=======
+Education
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+2015 – 2017
+Pune, India
+Master Degree, SPPU University
+2012 – 2015
+Pune, India
+Bachelors Degree, SPPU University
+Certificates
+HackerRank Problem Solving
+Data Science (DLCVNLP)
+iNeuron.ai
+Achievements
+Conducted 7 days workshop on Python Programming language in KIET college, Kakinada, Andhra Pradesh.
+Successfully conducted career guidance drive multiple times in current organization as a community event.
+Shankar chavan
+Data Scientist
+
+<<<<<<< HEAD
+=======
+shankar.chavan@gmail.com
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+9921xxxxxx
+
+GitHub
+
+HackerRank
+
+Linkedin
+
+Profile
+
+<<<<<<< HEAD
+Data Scientist with 1.5+ years of experience comprising Deep learning, Computer vision and Machine learning. Strong
+willingness to exhibit my proficiency in Deep learning and Machine Learning Algorithms in professional environment.
+
+--- CONTACT ---
+shankar.chavan@gmail.com
+=======
+Data Scientist with 1.5+ years of experience comprising Deep learning, Computer vision and Machine learning. Strong 
+willingness to exhibit my proficiency in Deep learning and Machine Learning Algorithms in professional environment.
+
+Professional Experience
+
+11/2021 – present
+Banglore, India
+
+04/2021 – 11/2021
+Banglore, India
+
+Projects
+
+Jr. Data Scientist, iNeuron.ai
+
+Processing, cleansing and verifying the integrity of data used for analysis.
+Doing analysis and presenting results in a clear manner.
+Working on building and optimizing the state-of-the-art Machine learning and Deep 
+learning models.
+Working and learning on how to create and automate the project lifecycle with the help of 
+creating data pipelines.
+
+Data Science Intern, iNeuron.ai
+
+Aerial Image Mismatch, iNeuron.ai
+
+The objective of this project is to detect the changes in the geographical co-ordinates in the different areas of the earth.
+We used Instance segmentation to extract the mask and polygons of the objects present in the satellite images.
+Decided to use U-net architecture and Detectron 2's Mask_RCNN_R_50_FPN_3x model for image segmentation.
+There were 5 objects I have segmented using Detectron 2 library.
+
+Mask Detection
+
+The objective of the project is to determine whether a person has worn a mask or not.
+Collected 500 + 500 (Mask, No mask) images to train the model.
+Firstly, trained Faster RCNN model, but the FPS was very low (i.e. < 1 FPS) then used SSD with Mobilenet to get better 
+accuracy and achieved good FPS rate i.e. 5 FPS.
+In this project I am detecting the person in the frame first. For this I have used pre-trained model – SSD-Mobilenet, then I 
+am detecting whether the person is wearing a mask or not.
+For training the model used Nvidia Quadro P-4000 GPU.
+
+Face Recognition, iNeuron.ai
+
+The objective of this project is to use face recognition for door security.
+Most doors are controlled by persons with the use of keys, security cards, password or pattern to open the door. The 
+purpose of building this kind of system for improvement of the door security of sensitive locations by using face detection 
+and recognition.
+The Database used in the project was MonogDB.
+Custom CNN model and transfer learning algorithm was used during this project.
+Companies Data was used to create this project.
+
+Brand Measure
+
+The objective of this project is to give exact Marketing solution to a company.
+We collected data in the form of Surveys. (Voice call data).
+We then converted those recordings into text form and applied spelling corrector.
+Then we used Key-word spotting to extract the meaning of the sentence.
+Finally on the basis of the key words, we are generating BI report to show in which area/region company should more 
+focus on spending.
+
+Machine learning algorithms :
+Linear regression, Logistic regression, Decision tree, 
+Random forest, XGBoost
+
+Computer Vision :
+Image Classification, Object Detection, Image 
+Segmentation, OpenCV
+
+Frameworks
+Tensorflow, PyTorch
+
+MLops
+Docker, Kubernetes
+
+Skills
+
+Programming languages :
+Python
+
+Deep learning algorithms :
+ANN, CNN, RNN
+
+Database
+MySQL, MongoDB, Cassandra
+
+Cloud
+Heroku, AWS
+
+Education
+
+2015 – 2017
+Pune, India
+
+2012 – 2015
+Pune, India
+
+Certificates
+
+Master Degree, SPPU University
+
+Bachelors Degree, SPPU University
+
+HackerRank Problem Solving
+
+Data Science (DLCVNLP)
+iNeuron.ai
+
+Achievements
+
+Conducted 7 days workshop on Python Programming language in KIET college, Kakinada, Andhra Pradesh.
+Successfully conducted career guidance drive multiple times in current organization as a community event.
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

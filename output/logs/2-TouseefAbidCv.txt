@@ -1,0 +1,210 @@
+PDF Filename: 2-TouseefAbidCv.pdf
+Name (Extracted): Touseef Abid
+Experience Score: 15.00
+<<<<<<< HEAD
+Skill Score: 24.62 (Matched: javascript, git, react.js, react router, html, redux, css, react)
+=======
+Skill Score: 24.62 (Matched: css, react router, javascript, git, react.js, react, redux, html)
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Education Score: 10.00
+Profile Score: 10.00
+Total Score: 59.62
+Experience Extraction Method: date_range
+
+<<<<<<< HEAD
+===== Extracted Resume Text =====
+
+--- SUMMARY ---
+=======
+===== RAW EXTRACTED RESUME TEXT =====
+TOUSEEF ABID
+FRONT-END DEVELOPER
++92 3102939875 github.com/Touseef4705
+touseefabid737@gmail.com
+https://www.linkedin.com/in/touseefabid/
+SUMMARY
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js and a range
+of modern libraries and frameworks. I have a strong understanding of frontend development
+principles and am confident in my ability to create dynamic and responsive web applications. I
+am skilled in utilizing popular tools and technologies to build seamless user interfaces and
+enhance user experiences.
+EDUCATION
+Premier College - 2022 - 2024 Tameer-e-Millat - 2020 - 2022
+Intermediate, Business Commerce Matriculation, Science
+Saylani Mass IT Training - 2023
+Web and Application Development
+PROJECTS
+Portfolio - https://touseefabid.vercel.app/ Car Rental - carrenteal.vercel.app/
+E-commerce - dreamdazzle.vercel.app/ E-learning - elearning.vercel.app/
+EXPERIENCE
+Front-end Developer
+Nubit Software Pvt Ltd - April 2024 - Sep2024
+Front-end Developer
+Vehware Pvt Ltd - October2024 - Present
+EXPERTISE
+Stunning and responsive front-end design using HTML and CSS.
+Strong proficiency in JavaScript ES6.
+Good understanding of React.js and its popular workflows.
+Familiar with popular React.js ecosystems like React Router, Redux Toolkit, MUI, and
+Next.js.
+Knowledgeable in Firebase for authentication and real-time database management.
+Proficient with tools such as Git, GitHub, npm, Yarn, and version control.
+REFERENCE
+Bilal Raza Attari :Senior Full Stack Developer and Instructor at SMIT
+Contact : +92 313 2933803 Gmail : attari1235@gmail.com
+SUMMARY
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js and a range
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+of modern libraries and frameworks. I have a strong understanding of frontend development
+principles and am confident in my ability to create dynamic and responsive web applications. I
+am skilled in utilizing popular tools and technologies to build seamless user interfaces and
+enhance user experiences.
+EXPERTISE
+<<<<<<< HEAD
+
+--- EDUCATION ---
+Premier College - 2022 - 2024
+Intermediate, Business Commerce
+Saylani Mass IT Training - 2023
+Web and Application Development
+Tameer-e-Millat - 2020 - 2022
+Matriculation, Science
+=======
+PROJECTS
+REFERENCE
+Bilal Raza Attari :Senior Full Stack Developer and Instructor at SMIT
+EDUCATION
+Front-end Developer
+Front-end Developer
+Nubit Software Pvt Ltd - April 2024 - Sep2024
+Vehware Pvt Ltd - October2024 - Present
+Contact : +92 313 2933803 
++92 3102939875
+touseefabid737@gmail.com
+Premier College - 2022 - 2024
+Intermediate, Business Commerce
+Saylani Mass IT Training - 2023 
+Web and Application Development 
+Gmail : attari1235@gmail.com
+Tameer-e-Millat - 2020 - 2022
+Matriculation, Science
+github.com/Touseef4705
+https://www.linkedin.com/in/touseefabid/
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Stunning and responsive front-end design using HTML and CSS.
+Strong proficiency in JavaScript ES6.
+Good understanding of React.js and its popular workflows.
+Familiar with popular React.js ecosystems like React Router, Redux Toolkit, MUI, and
+Next.js.
+Knowledgeable in Firebase for authentication and real-time database management.
+Proficient with tools such as Git, GitHub, npm, Yarn, and version control.
+TOUSEEF ABID
+<<<<<<< HEAD
+
+--- EXPERIENCE ---
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js and a range
+Front-end Developer
+Front-end Developer
+Nubit Software Pvt Ltd - April 2024 - Sep2024
+Vehware Pvt Ltd - October2024 - Present
+FRONT-END DEVELOPER
+=======
+FRONT-END DEVELOPER
+Portfolio - https://touseefabid.vercel.app/
+E-commerce - dreamdazzle.vercel.app/
+Car Rental - carrenteal.vercel.app/
+E-learning - elearning.vercel.app/
+ EXPERIENCE
+TOUSEEF ABID
+
+FRONT-END DEVELOPER
+
++92 3102939875
+
+github.com/Touseef4705
+
+touseefabid737@gmail.com
+
+https://www.linkedin.com/in/touseefabid/
+
+SUMMARY
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js and a range
+of modern libraries and frameworks. I have a strong understanding of frontend development
+principles and am confident in my ability to create dynamic and responsive web applications. I
+am skilled in utilizing popular tools and technologies to build seamless user interfaces and
+enhance user experiences.
+
+EDUCATION
+
+Tameer-e-Millat - 2020 - 2022
+Matriculation, Science
+
+Premier College - 2022 - 2024
+Intermediate, Business Commerce
+
+Saylani Mass IT Training - 2023 
+Web and Application Development 
+
+PROJECTS
+
+Portfolio - https://touseefabid.vercel.app/
+
+Car Rental - carrenteal.vercel.app/
+
+E-commerce - dreamdazzle.vercel.app/
+
+E-learning - elearning.vercel.app/
+
+ EXPERIENCE
+
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Front-end Developer
+Nubit Software Pvt Ltd - April 2024 - Sep2024
+
+Front-end Developer
+Vehware Pvt Ltd - October2024 - Present
+
+EXPERTISE
+
+Stunning and responsive front-end design using HTML and CSS.
+
+Strong proficiency in JavaScript ES6.
+
+Good understanding of React.js and its popular workflows.
+
+Familiar with popular React.js ecosystems like React Router, Redux Toolkit, MUI, and
+
+Next.js.
+
+Knowledgeable in Firebase for authentication and real-time database management.
+
+Proficient with tools such as Git, GitHub, npm, Yarn, and version control.
+
+REFERENCE
+Bilal Raza Attari :Senior Full Stack Developer and Instructor at SMIT
+
+<<<<<<< HEAD
+--- CONTACT ---
+Contact : +92 313 2933803
++92 3102939875
+touseefabid737@gmail.com
+Gmail : attari1235@gmail.com
+https://www.linkedin.com/in/touseefabid/
+Contact : +92 313 2933803
+Gmail : attari1235@gmail.com
+
+--- PORTFOLIO ---
+github.com/Touseef4705
+Portfolio - https://touseefabid.vercel.app/
+E-commerce - dreamdazzle.vercel.app/
+Car Rental - carrenteal.vercel.app/
+E-learning - elearning.vercel.app/
+Portfolio - https://touseefabid.vercel.app/
+Car Rental - carrenteal.vercel.app/
+E-commerce - dreamdazzle.vercel.app/
+E-learning - elearning.vercel.app/
+=======
+Contact : +92 313 2933803 
+
+Gmail : attari1235@gmail.com
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

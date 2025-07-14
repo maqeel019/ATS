@@ -1,0 +1,353 @@
+PDF Filename: 25-Resumezeeshanzahoor3y+.pdf
+Name (Extracted): Zeeshan Zahoor
+Experience Score: 30.00
+<<<<<<< HEAD
+Skill Score: 27.69 (Matched: material ui, javascript, git, react.js, typescript, tailwind css, redux, css, react)
+Education Score: 20.00
+Profile Score: 8.00
+Total Score: 85.69
+Experience Extraction Method: summary
+
+===== Extracted Resume Text =====
+
+--- SUMMARY ---
+friendly web applications. Expertise in React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI,
+and RESTful API integration. Passionate about developing scalable applications with pixel-
+perfect UI and seamless user experience.
+=======
+Skill Score: 27.69 (Matched: tailwind css, css, typescript, git, react.js, react, material ui, redux, javascript)
+Education Score: 20.00
+Profile Score: 10.00
+Total Score: 87.69
+Experience Extraction Method: summary
+
+===== RAW EXTRACTED RESUME TEXT =====
+Zeeshan Zahoor
+Front-End React.js Developer
+📍Haripur, Pakistan | 📧zeeshanzahoor409@gmail.com |
+📞+92 342 190 52 66 / +92 336 171 65 98
+🔗LinkedIn: https://www.linkedin.com/in/zeeshan-zahoor-220b0b130/|
+🔗GitHub: https://github.com/zeeshanshaanu
+🔗Portfolio: https://zeeshan-portfolio-flame.vercel.app/
+PROFESSIONAL SUMMARY
+Front-End Developer with 3+ years of experience in building and optimizing interactive, user-
+friendly web applications. Expertise in React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI,
+and RESTful API integration. Passionate about developing scalable applications with pixel-
+perfect UI and seamless user experience.
+TECHNICAL SKILLS:
+Frontend:
+✔React.js, Next.js, React-Native, Redux Toolkit
+✔HTML5, CSS3, JavaScript (ES6+), TypeScript
+✔Tailwind CSS, Material UI, Ant Design, Bootstrap
+Backend & Database:
+✔Node.js, Express.js, MongoDB
+✔RESTful APIs, WebSockets (Socket.io)
+Development Tools & Collaboration:
+✔Git, GitHub, Postman, Swagger
+✔Jira, Slack, VS Code
+WORK EXPERIENCE
+Freelance | Front-End React.js Developer
+🗓May 2024 –Present
+Developed scalable front-end applications with React.js, Redux Toolkit, and TypeScript.
+Integrated REST APIs for seamless data flow and improved UX.
+Implemented real-time WebSockets (Socket.io) for live chat and data updates.
+Ensured cross-browser compatibility and responsive design for a 95%+ Lighthouse performance
+score.
+Notable Projects:
+1
+🔹SAIY ADMIN (Crypto Trading Management Dashboard)
+🔗Live Demo: https://saiy-admin.netlify.app/Dashboard
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal
+management.
+Implemented role-based authentication and dynamic data visualization.
+Optimized UI responsiveness with Redux Toolkit, Tailwind CSS, and Material UI.
+🔹Zonebit admin (Crypto Trading Management Dashboard )
+🔗Live Preview: https://new_admin.zonebit.com/login
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal
+management.
+Implemented role-based authentication and dynamic data visualization.
+Optimized UI responsiveness with Redux Toolkit, Tailwind CSS, and Material UI.
+Codecue Solutions | Front-End React.js Developer
+🗓April 2021 –May 2024 | Haripur, Pakistan
+Designed and built 6+ full-scale web applications from scratch with React.js & Next.js.
+Integrated payment gateways (Stripe) and chat functionality (Socket.io) for real-time
+communication.
+Translated complex UI/UX wireframes into high-performance, pixel-perfect interfaces.
+Reduced load time by 30% using React optimization techniques.
+Key Projects:
+🔹Kinderland (Wholesale Shoe Store Admin Panel)
+🔗Live Demo: https://admin.venettini.app/
+Developed a React-based admin panel for managing orders, inventory, and customer data.
+🔹Mecca of Fitness (E-commerce Store for Fitness Products)
+Built a Next.js e-commerce platform with Stripe payment integration.
+🔹PHAT Website (Fundraising & Donations Platform)
+Developed an online crowdfunding platform with secure user authentication.
+🔹HummStaffing Hospital Portal
+Designed a hospital-provider communication system with contract management.
+🔹Cars Connected (Car Showroom Management System)
+Created an admin panel where users can manage, add, update, and delete car listings.
+Codematics Inc. | Front-End Development Intern
+🗓2 Months | Abbottabad, Pakistan
+2
+Built responsive landing pages and multi-page websites using React.js & Tailwind CSS.
+Converted Figma, XD, and PSD designs into pixel-perfect UI components.
+EDUCATION
+🎓BS in Computer Science (2016 –2020) | Gov’t Post Graduate College, Haripur
+🎓Diploma in Mechanical Engineering (DAE) (2012 –2015) | Gov’t Polytechnic Institute,
+Sarai Salah
+🎓S.S.C (Science Group) (2011) | Aligarh Public School, Haripur
+CERTIFICATIONS
+✔Front-end web developer –Codematics Inc
+ADDITIONAL DETAILS
+📍Location: Haripur, Rawalpindi Pakistan (Open to Remote & On-Site Roles)
+🛠Preferred Stack: React.js, Next.js, Node.js, Redux Toolkit, MongoDB
+💡Hobbies: Learning AI, Open-Source Contributions, UI/UX Design
+3
+Zeeshan Zahoor
+Front-End React.js Developer
+📍Haripur, Pakistan | 📧zeeshanzahoor409@gmail.com | 
+📞+92 342 190 52 66 / +92 336 171 65 98
+🔗LinkedIn:  https://www.linkedin.com/in/zeeshan-zahoor-220b0b130/|
+🔗GitHub:  https://github.com/zeeshanshaanu
+🔗Portfolio: https://zeeshan-portfolio-flame.vercel.app/
+PROFESSIONAL SUMMARY
+Front-End Developer with 3+ years of experience in building and optimizing interactive, user-
+friendly web applications. Expertise in React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI, 
+and RESTful API integration. Passionate about developing scalable applications with pixel-
+perfect UI and seamless user experience.
+TECHNICAL SKILLS:
+Frontend:
+✔React.js, Next.js, React-Native, Redux Toolkit
+✔HTML5, CSS3, JavaScript (ES6+), TypeScript
+✔Tailwind CSS, Material UI, Ant Design, Bootstrap
+Backend & Database:
+✔Node.js, Express.js, MongoDB
+✔RESTful APIs, WebSockets (Socket.io)
+Development Tools & Collaboration:
+✔Git, GitHub, Postman, Swagger
+✔Jira, Slack, VS Code
+WORK EXPERIENCE
+Freelance | Front-End React.js Developer
+🗓May 2024 – Present
+Developed scalable front-end applications with React.js, Redux Toolkit, and TypeScript.
+Integrated REST APIs for seamless data flow and improved UX.
+Implemented real-time WebSockets (Socket.io) for live chat and data updates.
+Ensured cross-browser compatibility and responsive design for a 95%+ Lighthouse performance 
+score.
+Notable Projects:
+1
+
+🔹SAIY ADMIN (Crypto Trading Management Dashboard)
+🔗Live Demo: https://saiy-admin.netlify.app/Dashboard
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal 
+management.
+Implemented role-based authentication and dynamic data visualization.
+Optimized UI responsiveness with Redux Toolkit, Tailwind CSS, and Material UI.
+🔹Zonebit admin (Crypto Trading Management Dashboard )
+🔗Live Preview: https://new_admin.zonebit.com/login
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal 
+management.
+Implemented role-based authentication and dynamic data visualization.
+Optimized UI responsiveness with Redux Toolkit, Tailwind CSS, and Material UI.
+Codecue Solutions | Front-End React.js Developer
+🗓April 2021 – May 2024 | Haripur, Pakistan
+Designed and built 6+ full-scale web applications from scratch with React.js & Next.js.
+Integrated payment gateways (Stripe) and chat functionality (Socket.io) for real-time 
+communication.
+Translated complex UI/UX wireframes into high-performance, pixel-perfect interfaces.
+Reduced load time by 30% using React optimization techniques.
+Key Projects:
+🔹Kinderland (Wholesale Shoe Store Admin Panel)
+🔗Live Demo: https://admin.venettini.app/
+Developed a React-based admin panel for managing orders, inventory, and customer data.
+🔹Mecca of Fitness (E-commerce Store for Fitness Products)
+Built a Next.js e-commerce platform with Stripe payment integration.
+🔹PHAT Website (Fundraising & Donations Platform)
+Developed an online crowdfunding platform with secure user authentication.
+🔹HummStaffing Hospital Portal
+Designed a hospital-provider communication system with contract management.
+🔹Cars Connected (Car Showroom Management System)
+Created an admin panel where users can manage, add, update, and delete car listings.
+Codematics Inc. | Front-End Development Intern
+🗓2 Months | Abbottabad, Pakistan
+2
+
+Built responsive landing pages and multi-page websites using React.js & Tailwind CSS.
+Converted Figma, XD, and PSD designs into pixel-perfect UI components.
+EDUCATION
+🎓BS in Computer Science (2016 – 2020) | Gov’t Post Graduate College, Haripur
+🎓Diploma in Mechanical Engineering (DAE) (2012 – 2015) | Gov’t Polytechnic Institute,
+Sarai Salah
+🎓S.S.C (Science Group) (2011) | Aligarh Public School, Haripur
+CERTIFICATIONS
+✔Front-end web developer – Codematics Inc
+ADDITIONAL DETAILS
+📍Location: Haripur, Rawalpindi Pakistan (Open to Remote & On-Site Roles)
+🛠Preferred Stack: React.js, Next.js, Node.js, Redux Toolkit, MongoDB
+💡Hobbies: Learning AI, Open-Source Contributions, UI/UX Design
+3
+Zeeshan Zahoor
+
+Front-End React.js Developer
+
+📍 Haripur, Pakistan | 📧 zeeshanzahoor409@gmail.com | 
+📞 +92 342 190 52 66 / +92 336 171 65 98
+
+🔗 LinkedIn:  https://www.linkedin.com/in/zeeshan-zahoor-220b0b130/|
+🔗 GitHub:  https://github.com/zeeshanshaanu
+🔗 Portfolio: https://zeeshan-portfolio-flame.vercel.app/
+
+PROFESSIONAL SUMMARY
+
+Front-End Developer with 3+ years of experience in building and optimizing interactive, user-
+friendly web applications. Expertise in React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI, 
+and RESTful API integration. Passionate about developing scalable applications with pixel-
+perfect UI and seamless user experience.
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+TECHNICAL SKILLS:
+
+Frontend:
+✔ React.js, Next.js, React-Native, Redux Toolkit
+✔ HTML5, CSS3, JavaScript (ES6+), TypeScript
+✔ Tailwind CSS, Material UI, Ant Design, Bootstrap
+Backend & Database:
+✔ Node.js, Express.js, MongoDB
+✔ RESTful APIs, WebSockets (Socket.io)
+Development Tools & Collaboration:
+✔ Git, GitHub, Postman, Swagger
+✔ Jira, Slack, VS Code
+
+<<<<<<< HEAD
+--- EXPERIENCE ---
+Front-End Developer with 3+ years of experience in building and optimizing interactive, user-
+=======
+WORK EXPERIENCE
+
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Freelance | Front-End React.js Developer
+🗓 May 2024 – Present
+
+Developed scalable front-end applications with React.js, Redux Toolkit, and TypeScript.
+Integrated REST APIs for seamless data flow and improved UX.
+Implemented real-time WebSockets (Socket.io) for live chat and data updates.
+<<<<<<< HEAD
+Ensured cross-browser compatibility and responsive design for a 95%+ Lighthouse performance
+=======
+Ensured cross-browser compatibility and responsive design for a 95%+ Lighthouse performance 
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+score.
+Notable Projects:
+
+1
+
+<<<<<<< HEAD
+
+🔹 SAIY ADMIN (Crypto Trading Management Dashboard)
+🔗 Live Demo: https://saiy-admin.netlify.app/Dashboard
+
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal
+=======
+🔹 SAIY ADMIN (Crypto Trading Management Dashboard)
+🔗 Live Demo: https://saiy-admin.netlify.app/Dashboard
+
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal 
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+management.
+Implemented role-based authentication and dynamic data visualization.
+Optimized UI responsiveness with Redux Toolkit, Tailwind CSS, and Material UI.
+
+🔹 Zonebit admin (Crypto Trading Management Dashboard )
+🔗 Live Preview: https://new_admin.zonebit.com/login
+
+<<<<<<< HEAD
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal
+=======
+Developed a full-stack admin panel using MERN Stack for user, portfolio, and withdrawal 
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+management.
+Implemented role-based authentication and dynamic data visualization.
+Optimized UI responsiveness with Redux Toolkit, Tailwind CSS, and Material UI.
+
+Codecue Solutions | Front-End React.js Developer
+🗓 April 2021 – May 2024 | Haripur, Pakistan
+
+Designed and built 6+ full-scale web applications from scratch with React.js & Next.js.
+<<<<<<< HEAD
+Integrated payment gateways (Stripe) and chat functionality (Socket.io) for real-time
+=======
+Integrated payment gateways (Stripe) and chat functionality (Socket.io) for real-time 
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+communication.
+Translated complex UI/UX wireframes into high-performance, pixel-perfect interfaces.
+Reduced load time by 30% using React optimization techniques.
+Key Projects:
+
+🔹 Kinderland (Wholesale Shoe Store Admin Panel)
+🔗 Live Demo: https://admin.venettini.app/
+Developed a React-based admin panel for managing orders, inventory, and customer data.
+
+🔹 Mecca of Fitness (E-commerce Store for Fitness Products)
+Built a Next.js e-commerce platform with Stripe payment integration.
+
+🔹 PHAT Website (Fundraising & Donations Platform)
+Developed an online crowdfunding platform with secure user authentication.
+
+🔹 HummStaffing Hospital Portal
+Designed a hospital-provider communication system with contract management.
+
+🔹 Cars Connected (Car Showroom Management System)
+Created an admin panel where users can manage, add, update, and delete car listings.
+
+Codematics Inc. | Front-End Development Intern
+🗓 2 Months | Abbottabad, Pakistan
+
+2
+
+<<<<<<< HEAD
+
+Built responsive landing pages and multi-page websites using React.js & Tailwind CSS.
+Converted Figma, XD, and PSD designs into pixel-perfect UI components.
+✔Front-end web developer – Codematics Inc
+Front-End React.js Developer
+
+--- EDUCATION ---
+=======
+Built responsive landing pages and multi-page websites using React.js & Tailwind CSS.
+Converted Figma, XD, and PSD designs into pixel-perfect UI components.
+
+EDUCATION
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+🎓 BS in Computer Science (2016 – 2020) | Gov’t Post Graduate College, Haripur
+🎓 Diploma in Mechanical Engineering (DAE) (2012 – 2015) | Gov’t Polytechnic Institute,
+Sarai Salah
+🎓 S.S.C (Science Group) (2011) | Aligarh Public School, Haripur
+
+<<<<<<< HEAD
+--- CERTIFICATIONS ---
+ADDITIONAL DETAILS
+📍Location: Haripur, Rawalpindi Pakistan (Open to Remote & On-Site Roles)
+🛠Preferred Stack: React.js, Next.js, Node.js, Redux Toolkit, MongoDB
+💡Hobbies: Learning AI, Open-Source Contributions, UI/UX Design
+3
+Zeeshan Zahoor
+
+--- CONTACT ---
+📍 Haripur, Pakistan | 📧 zeeshanzahoor409@gmail.com |
+📞 +92 342 190 52 66 / +92 336 171 65 98
+🔗 LinkedIn:  https://www.linkedin.com/in/zeeshan-zahoor-220b0b130/|
+
+--- PORTFOLIO ---
+🔗 GitHub:  https://github.com/zeeshanshaanu
+🔗 Portfolio: https://zeeshan-portfolio-flame.vercel.app/
+=======
+CERTIFICATIONS
+✔ Front-end web developer – Codematics Inc
+
+ADDITIONAL DETAILS
+📍 Location: Haripur, Rawalpindi Pakistan (Open to Remote & On-Site Roles)
+🛠 Preferred Stack: React.js, Next.js, Node.js, Redux Toolkit, MongoDB
+💡 Hobbies: Learning AI, Open-Source Contributions, UI/UX Design
+
+3
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

@@ -1,0 +1,545 @@
+PDF Filename: 13-ResumeMominKhan 4y.pdf
+Name (Extracted): Momin Hyat Khan
+Experience Score: 30.00
+<<<<<<< HEAD
+Skill Score: 27.69 (Matched: material ui, javascript, git, typescript, html, tailwind css, redux, css, react)
+=======
+Skill Score: 27.69 (Matched: tailwind css, css, javascript, typescript, git, react, material ui, redux, html)
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Education Score: 20.00
+Profile Score: 10.00
+Total Score: 87.69
+Experience Extraction Method: summary
+
+<<<<<<< HEAD
+===== Extracted Resume Text =====
+
+--- EXPERIENCE ---
+KEY SKILLS
+
+Sr. Software Engineer (React JS)
+AKSA-SDS (Telenor Microﬁnance Bank - Easypaisa)
+09/2023 - Present,
+I led the front-end development team for EasyPaisa's next-generation online payment
+system, a crucial initiative aimed at revolutionizing digital ﬁnancial transactions. The
+project focused on enhancing user experience, security, and expanding payment
+options for millions of users.
+
+Islamabad
+
+Achievements/Tasks
+
+Ensuring timely delivery of front-end components while maintaining high-
+quality standards.
+
+Conducted sprint planning, daily stand-ups, and retrospectives.
+
+Adapting to rapidly evolving requirements by implementing a ﬂexible
+architecture.
+
+Utilized performance monitoring tools to identify and resolve
+bottlenecks.
+
+Leading a team of ﬁve front-end developers.
+
+Full Stack Developer
+K-Hive
+09/2022 - 09/2023,
+
+Achievements/Tasks
+
+Islamabad
+
+Developed and maintained the frontend of web applications using React,
+Next.js, and Tailwind CSS, implementing responsive designs and
+ensuring cross-browser compatibility.
+
+Designed and implemented RESTful APIs using Nest.js, handling data
+requests and responses, and ensuring data integrity and security.
+
+Implemented authentication and authorization mechanisms, such as
+JSON Web Tokens (JWT) or OAuth, to secure the application and
+control user access.
+
+Conducted unit testing and integration testing on both frontend and
+backend components, ensuring the reliability and stability of the
+application.
+
+Optimized application performance by implementing server-side
+rendering (SSR) with Next.js, reducing load times and improving search
+engine optimization (SEO).
+
+React
+
+Next JS
+
+Javascript
+
+MySql
+
+Typescript
+
+Redux/RTK
+
+Axios
+
+React Query
+
+Node JS
+
+Nest JS
+
+REST/SOAP
+
+Web3
+
+Solidity
+
+Tailwind/ Material UI
+
+Agile
+
+Git Version control
+
+HTML
+
+CSS
+
+Eslint/prettier
+
+husky
+
+Socket.io
+
+PERSONAL PROJECTS
+
+Vlaunch: The Launchpad where Leading Inﬂuencers and
+As a highly skilled web developer, I have successfully implemented the
+Developed and maintained the frontend of web applications using React, craft an intuitive user interface and seamless user experience. By
+Designed and implemented RESTful APIs using Nest.js, handling data
+Implemented authentication and authorization mechanisms, such as Easypaisa Online Paymenst System (04/2023 - 06/2023)
+JSON Web Tokens (JWT) or OAuth, to secure the application and I developed a comprehensive web portal for Easypaisa's online payment
+control user access. system, designed to streamline merchant onboarding and management
+Frontend Developer
+Advanced React - Meta Front-End Developer Professional
+Successfully implemented responsive web design techniques to ensure
+Software Engineering
+Software Engineer
+
+--- PROJECTS ---
+K-Hive
+09/2022 - 09/2023, Islamabad front end of Vlaunch, a dynamic and engaging website, utilizing the
+powerful React JS framework. Leveraging my expertise in front-end
+Achievements/Tasks development, I employed cutting-edge techniques and best practices to
+Next.js, and Tailwind CSS, implementing responsive designs and incorporating modern web development standards.
+ensuring cross-browser compatibility. Frontend: React, Tailwind, Axios, Redux, Web3, Moralis
+Backend: Java (Spring boot 2), MySql
+Link: www.vlaunch.com
+requests and responses, and ensuring data integrity and security.
+=======
+===== RAW EXTRACTED RESUME TEXT =====
+Momin Hyat Khan
+Software Engineer
+Aspiring to evolve and make a lasting impact in a professional environment that fosters individual growth, where I can
+leverage my expertise in Full Stack Development with React, Next, Nest and Tailwind CSS to drive the successful
+implementation of organizational goals.
+mominhyatkhandeveloper@gmail.com 03345674415
+G15, Islamabad, Pakistan 29 September, 1995
+linkedin.com/in/mominhyatkhan github.com/mominhyatkhan
+WORK EXPERIENCE (4 YEARS) KEY SKILLS
+Sr. Software Engineer (React JS)
+React Next JS Javascript MySql
+AKSA-SDS (Telenor Microfinance Bank - Easypaisa)
+09/2023 - Present, Islamabad Typescript Redux/RTK Axios React Query
+I led the front-end development team for EasyPaisa's next-generation online payment
+system, a crucial initiative aimed at revolutionizing digital financial transactions. The Node JS Nest JS REST/SOAP Web3
+project focused on enhancing user experience, security, and expanding payment
+options for millions of users.
+Solidity Tailwind/ Material UI Agile
+Achievements/Tasks
+Ensuring timely delivery of front-end components while maintaining high-
+Git Version control HTML CSS Eslint/prettier
+quality standards.
+Conducted sprint planning, daily stand-ups, and retrospectives. husky Socket.io
+Adapting to rapidly evolving requirements by implementing a flexible
+architecture.
+Utilized performance monitoring tools to identify and resolve
+bottlenecks.
+PERSONAL PROJECTS
+Leading a team of five front-end developers.
+Vlaunch: The Launchpad where Leading Influencers and
+Full Stack Developer
+Projects meet (09/2022 - 12/2022)
+K-Hive
+As a highly skilled web developer, I have successfully implemented the
+09/2022 - 09/2023, Islamabad front end of Vlaunch, a dynamic and engaging website, utilizing the
+powerful React JS framework. Leveraging my expertise in front-end
+Achievements/Tasks development, I employed cutting-edge techniques and best practices to
+Developed and maintained the frontend of web applications using React, craft an intuitive user interface and seamless user experience. By
+Next.js, and Tailwind CSS, implementing responsive designs and incorporating modern web development standards.
+ensuring cross-browser compatibility. Frontend: React, Tailwind, Axios, Redux, Web3, Moralis
+Backend: Java (Spring boot 2), MySql
+Designed and implemented RESTful APIs using Nest.js, handling data
+Link: www.vlaunch.com
+requests and responses, and ensuring data integrity and security.
+Implemented authentication and authorization mechanisms, such as Easypaisa Online Paymenst System (04/2023 - 06/2023)
+JSON Web Tokens (JWT) or OAuth, to secure the application and I developed a comprehensive web portal for Easypaisa's online payment
+control user access. system, designed to streamline merchant onboarding and management
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+the system features: Merchant Onboarding Portal: Facilitates easy
+Conducted unit testing and integration testing on both frontend and registration and onboarding of merchants like Foodpanda..Merchant
+backend components, ensuring the reliability and stability of the Dashboard Portal: Provides merchants with essential details and
+application. analytics..Admin Portal: Enables administrators to approve merchants
+and conduct necessary AML checks. This system enhances the efficiency
+Optimized application performance by implementing server-side and security of managing merchant relationships for Easypaisa.
+rendering (SSR) with Next.js, reducing load times and improving search Frontend : Next, Tailwind, Axios, Redux
+engine optimization (SEO). Backend : (Java Spring boot 2), Mysql
+<<<<<<< HEAD
+=======
+Frontend Developer
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Cavalier Group
+ACHIEVEMENTS
+06/2020 - 09/2022, Islamabad, Pakistan
+Achievements/Tasks
+<<<<<<< HEAD
+=======
+Advanced React - Meta Front-End Developer Professional
+Successfully implemented responsive web design techniques to ensure
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Certificate (07/2023 - 07/2023)
+optimal user experience across various devices and screen sizes.
+VERIFICATION:
+Improved website performance by optimizing code, reducing page load https://www.coursera.org/account/accomplishments/verify/MTKY8Z9F6JU
+time, and enhancing overall user experience. W
+Linkedin Badges in HTML, CSS and React
+<<<<<<< HEAD
+
+--- EDUCATION ---
+CERTIFICATES
+Comsats University
+Urdu English
+02/2016 - 06/2020, Native or Bilingual Proficiency Full Professional Proficiency
+Momin Hyat Khan
+Aspiring to evolve and make a lasting impact in a professional environment that fosters individual growth, where I can
+leverage my expertise in Full Stack Development with React, Next, Nest and Tailwind CSS to drive the successful
+implementation of organizational goals.
+03345674415
+G15, Islamabad, Pakistan
+29 September, 1995
+
+--- CONTACT ---
+mominhyatkhandeveloper@gmail.com
+linkedin.com/in/mominhyatkhan
+
+--- PORTFOLIO ---
+github.com/mominhyatkhan
+=======
+EDUCATION
+CERTIFICATES
+Software Engineering
+Comsats University
+Urdu English
+02/2016 - 06/2020, Native or Bilingual Proficiency Full Professional Proficiency
+Momin Hyat Khan 
+Software Engineer 
+Aspiring to evolve and make a lasting impact in a professional environment that fosters individual growth, where I can
+leverage my expertise in Full Stack Development with React, Next, Nest and Tailwind CSS to drive the successful
+implementation of organizational goals. 
+mominhyatkhandeveloper@gmail.com 
+03345674415 
+G15, Islamabad, Pakistan 
+29 September, 1995 
+linkedin.com/in/mominhyatkhan 
+github.com/mominhyatkhan 
+WORK EXPERIENCE (4 YEARS) 
+Sr. Software Engineer (React JS) 
+AKSA-SDS (Telenor Microﬁnance Bank - Easypaisa) 
+09/2023 - Present,  
+Islamabad 
+I led the front-end development team for EasyPaisa's next-generation online payment
+system, a crucial initiative aimed at revolutionizing digital ﬁnancial transactions. The
+project focused on enhancing user experience, security, and expanding payment
+options for millions of users. 
+Ensuring timely delivery of front-end components while maintaining high-
+quality standards. 
+Conducted sprint planning, daily stand-ups, and retrospectives. 
+Adapting to rapidly evolving requirements by implementing a ﬂexible
+architecture. 
+Utilized performance monitoring tools to identify and resolve
+bottlenecks. 
+Leading a team of ﬁve front-end developers. 
+Full Stack Developer 
+K-Hive 
+09/2022 - 09/2023,  
+Islamabad 
+Developed and maintained the frontend of web applications using React,
+Next.js, and Tailwind CSS, implementing responsive designs and
+ensuring cross-browser compatibility. 
+Designed and implemented RESTful APIs using Nest.js, handling data
+requests and responses, and ensuring data integrity and security. 
+Implemented authentication and authorization mechanisms, such as
+JSON Web Tokens (JWT) or OAuth, to secure the application and
+control user access. 
+Conducted unit testing and integration testing on both frontend and
+backend components, ensuring the reliability and stability of the
+application. 
+Optimized application performance by implementing server-side
+rendering (SSR) with Next.js, reducing load times and improving search
+engine optimization (SEO). 
+Frontend Developer 
+Cavalier Group 
+06/2020 - 09/2022,  
+Islamabad, Pakistan 
+Successfully implemented responsive web design techniques to ensure
+optimal user experience across various devices and screen sizes. 
+Improved website performance by optimizing code, reducing page load
+time, and enhancing overall user experience. 
+EDUCATION 
+Software Engineering 
+Comsats University 
+02/2016 - 06/2020,  
+KEY SKILLS 
+React 
+Next JS 
+Javascript 
+MySql 
+Typescript 
+Redux/RTK 
+Axios 
+React Query 
+Node JS 
+Nest JS 
+REST/SOAP 
+Web3 
+Solidity 
+Tailwind/ Material UI 
+Agile 
+Git Version control 
+HTML 
+CSS 
+Eslint/prettier 
+husky 
+Socket.io 
+PERSONAL PROJECTS 
+Vlaunch: The Launchpad where Leading Inﬂuencers and
+Projects meet (09/2022 - 12/2022) 
+As a highly skilled web developer, I have successfully implemented the
+front end of Vlaunch, a dynamic and engaging website, utilizing the
+powerful React JS framework. Leveraging my expertise in front-end
+development, I employed cutting-edge techniques and best practices to
+craft an intuitive user interface and seamless user experience. By
+incorporating modern web development standards. 
+Frontend: React, Tailwind, Axios, Redux, Web3, Moralis 
+Backend: Java (Spring boot 2), MySql 
+Link: www.vlaunch.com 
+Easypaisa Online Paymenst System (04/2023 - 06/2023) 
+I developed a comprehensive web portal for Easypaisa's online payment
+system, designed to streamline merchant onboarding and management
+the system features: Merchant Onboarding Portal: Facilitates easy
+registration and onboarding of merchants like Foodpanda..Merchant
+Dashboard Portal: Provides merchants with essential details and
+analytics..Admin Portal: Enables administrators to approve merchants
+and conduct necessary AML checks. This system enhances the eﬃciency
+and security of managing merchant relationships for Easypaisa. 
+Frontend : Next, Tailwind, Axios, Redux 
+Backend : (Java Spring boot 2), Mysql 
+ACHIEVEMENTS 
+Advanced React - Meta Front-End Developer Professional
+Certiﬁcate (07/2023 - 07/2023) 
+VERIFICATION:
+https://www.coursera.org/account/accomplishments/verify/MTKY8Z9F6JU
+W 
+Linkedin Badges in HTML, CSS and React 
+CERTIFICATES 
+Urdu 
+Native or Bilingual Proﬁciency 
+English 
+Full Professional Proﬁciency 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks
+Momin Hyat Khan 
+
+Software Engineer 
+
+Aspiring to evolve and make a lasting impact in a professional environment that fosters individual growth, where I can
+leverage my expertise in Full Stack Development with React, Next, Nest and Tailwind CSS to drive the successful
+implementation of organizational goals. 
+
+mominhyatkhandeveloper@gmail.com 
+
+G15, Islamabad, Pakistan 
+
+03345674415 
+
+29 September, 1995 
+
+linkedin.com/in/mominhyatkhan 
+
+github.com/mominhyatkhan 
+
+WORK EXPERIENCE (4 YEARS) 
+
+KEY SKILLS 
+
+Sr. Software Engineer (React JS) 
+AKSA-SDS (Telenor Microﬁnance Bank - Easypaisa) 
+09/2023 - Present,  
+I led the front-end development team for EasyPaisa's next-generation online payment
+system, a crucial initiative aimed at revolutionizing digital ﬁnancial transactions. The
+project focused on enhancing user experience, security, and expanding payment
+options for millions of users. 
+
+Islamabad 
+
+Achievements/Tasks 
+
+Ensuring timely delivery of front-end components while maintaining high-
+quality standards. 
+
+Conducted sprint planning, daily stand-ups, and retrospectives. 
+
+Adapting to rapidly evolving requirements by implementing a ﬂexible
+architecture. 
+
+Utilized performance monitoring tools to identify and resolve
+bottlenecks. 
+
+Leading a team of ﬁve front-end developers. 
+
+Full Stack Developer 
+K-Hive 
+09/2022 - 09/2023,  
+
+Achievements/Tasks 
+
+Islamabad 
+
+Developed and maintained the frontend of web applications using React,
+Next.js, and Tailwind CSS, implementing responsive designs and
+ensuring cross-browser compatibility. 
+
+Designed and implemented RESTful APIs using Nest.js, handling data
+requests and responses, and ensuring data integrity and security. 
+
+Implemented authentication and authorization mechanisms, such as
+JSON Web Tokens (JWT) or OAuth, to secure the application and
+control user access. 
+
+Conducted unit testing and integration testing on both frontend and
+backend components, ensuring the reliability and stability of the
+application. 
+
+Optimized application performance by implementing server-side
+rendering (SSR) with Next.js, reducing load times and improving search
+engine optimization (SEO). 
+
+React 
+
+Next JS 
+
+Javascript 
+
+MySql 
+
+Typescript 
+
+Redux/RTK 
+
+Axios 
+
+React Query 
+
+Node JS 
+
+Nest JS 
+
+REST/SOAP 
+
+Web3 
+
+Solidity 
+
+Tailwind/ Material UI 
+
+Agile 
+
+Git Version control 
+
+HTML 
+
+CSS 
+
+Eslint/prettier 
+
+husky 
+
+Socket.io 
+
+PERSONAL PROJECTS 
+
+Vlaunch: The Launchpad where Leading Inﬂuencers and
+Projects meet (09/2022 - 12/2022) 
+
+As a highly skilled web developer, I have successfully implemented the
+front end of Vlaunch, a dynamic and engaging website, utilizing the
+powerful React JS framework. Leveraging my expertise in front-end
+development, I employed cutting-edge techniques and best practices to
+craft an intuitive user interface and seamless user experience. By
+incorporating modern web development standards. 
+Frontend: React, Tailwind, Axios, Redux, Web3, Moralis 
+Backend: Java (Spring boot 2), MySql 
+Link: www.vlaunch.com 
+
+Easypaisa Online Paymenst System (04/2023 - 06/2023) 
+
+I developed a comprehensive web portal for Easypaisa's online payment
+system, designed to streamline merchant onboarding and management
+the system features: Merchant Onboarding Portal: Facilitates easy
+registration and onboarding of merchants like Foodpanda..Merchant
+Dashboard Portal: Provides merchants with essential details and
+analytics..Admin Portal: Enables administrators to approve merchants
+and conduct necessary AML checks. This system enhances the eﬃciency
+and security of managing merchant relationships for Easypaisa. 
+Frontend : Next, Tailwind, Axios, Redux 
+Backend : (Java Spring boot 2), Mysql 
+
+Frontend Developer 
+Cavalier Group 
+06/2020 - 09/2022,  
+
+Achievements/Tasks 
+
+Islamabad, Pakistan 
+
+ACHIEVEMENTS 
+
+Successfully implemented responsive web design techniques to ensure
+optimal user experience across various devices and screen sizes. 
+
+Improved website performance by optimizing code, reducing page load
+time, and enhancing overall user experience. 
+
+EDUCATION 
+
+Software Engineering 
+Comsats University 
+02/2016 - 06/2020,  
+
+Advanced React - Meta Front-End Developer Professional
+Certiﬁcate (07/2023 - 07/2023) 
+VERIFICATION:
+https://www.coursera.org/account/accomplishments/verify/MTKY8Z9F6JU
+W 
+
+Linkedin Badges in HTML, CSS and React 
+
+CERTIFICATES 
+
+Urdu 
+Native or Bilingual Proﬁciency 
+
+English 
+Full Professional Proﬁciency
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

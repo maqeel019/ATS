@@ -1,0 +1,278 @@
+PDF Filename: 1-Fahadalamresume.pdf
+Name (Extracted): Fahad Alam
+Experience Score: 12.50
+<<<<<<< HEAD
+Skill Score: 27.69 (Matched: javascript, git, react.js, typescript, html, tailwind css, redux, css, react)
+=======
+Skill Score: 27.69 (Matched: tailwind css, css, javascript, typescript, git, react.js, react, redux, html)
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Education Score: 10.00
+Profile Score: 10.00
+Total Score: 60.19
+Experience Extraction Method: date_range
+
+<<<<<<< HEAD
+===== Extracted Resume Text =====
+
+--- SUMMARY ---
+a range of modern libraries and frameworks. I have a strong understanding of frontend
+development principles and am confident in my ability to create dynamic and responsive web
+applications. I am skilled in utilizing popular tools and technologies to build seamless users.
+EXPERTISE
+
+--- EDUCATION ---
+Portfolio Website
+Live Demo
+Trademark Registration Website
+Live Demo
+Car Export Website
+Live Demo
+Frontend Development: React.js, Next.js, Vue.js, HTML, CSS, JavaScript, TypeScript
+Styling & UI Frameworks: Tailwind CSS, MUI, Styled-Components, SCSS, Bootstrap
+State Management: Redux Toolkit, React Context API
+Backend & Database: Node.js, Express.js, MongoDB, Firebase Firestore
+APIs & Integrations: REST APIs, Axios, Stripe Payment Gateway, EmailJS
+Development Tools: Git, GitHub, Vite, Webpack, PostCSS, Next-Cloudinary
+(2023 - 2024)
+SMIT- Saylani Mass It Training Program
+Dashboard Management System
+Live Demo
+CERTIFICATION
+Web Development Certificate – Saylani Mass IT Training (Received: December 2024)
+Completed a 1-year comprehensive training program covering frontend & backend development, modern web
+technologies, and project-based learning.
+FreeCodeCamp Certifications (Received: 2023)
+Legacy JavaScript Algorithms and Data Structures  algorithms, and problem-solving techniques in JavaScript.
+Responsive Web Design – Learned HTML, CSS, and Flexbox/Grid to build modern, mobile-friendly websites.
+FAHAD ALAM
+
+
+
+
+
+Intermediate, Cs
+2022 - 2024
+Matriculation, Science
+2020 - 2022
+
+--- EXPERIENCE ---
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js, Next.js, and
+Diploma In Software Engineering
+Front End Development Libraries – Worked with React, Redux, Bootstrap, jQuery, and other frontend frameworks.
+FRONT-END DEVELOPER
+=======
+===== RAW EXTRACTED RESUME TEXT =====
+FAHAD ALAM
+FRONT-END DEVELOPER
++92 327 2748498 github.com/Fahad12405/
+fahadalam12405@gmail.com https://www.linkedin.com/in/fahad-alam/
+SUMMARY
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js, Next.js, and
+a range of modern libraries and frameworks. I have a strong understanding of frontend
+development principles and am confident in my ability to create dynamic and responsive web
+applications. I am skilled in utilizing popular tools and technologies to build seamless users.
+EDUCATION
+Intermediate, Cs
+Matriculation, Science Diploma In Software Engineering
+2022 - 2024
+2020 - 2022 (2023 - 2024)
+Govt College For Men
+TMF Schooling System SMIT- Saylani Mass It Training Program
+EXPERIENCE
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Frontend Developer | Vehware Software
+(2024 April - Present)
+Developed and optimized responsive web applications
+Worked with React.js, Next.js, and Tailwind CSS
+Integrated APIs and improved UI/UX for better user experience
+<<<<<<< HEAD
+Govt College For Men
+TMF Schooling System
+Front End Development Libraries – Worked with React, Redux, Bootstrap, jQuery, and other frontend frameworks.
+
+--- PROJECTS ---
+Portfolio Website
+
+Live Demo
+
+Car Export Website
+Live Demo
+
+EXPERTISE
+
+Trademark Registration Website
+
+Live Demo
+
+Dashboard Management System
+Live Demo
+
+=======
+PROJECTS
+Portfolio Website
+Trademark Registration Website
+Live Demo
+Live Demo
+Car Export Website
+Dashboard Management System
+Live Demo
+Live Demo
+EXPERTISE
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Frontend Development: React.js, Next.js, Vue.js, HTML, CSS, JavaScript, TypeScript
+Styling & UI Frameworks: Tailwind CSS, MUI, Styled-Components, SCSS, Bootstrap
+State Management: Redux Toolkit, React Context API
+Backend & Database: Node.js, Express.js, MongoDB, Firebase Firestore
+APIs & Integrations: REST APIs, Axios, Stripe Payment Gateway, EmailJS
+Development Tools: Git, GitHub, Vite, Webpack, PostCSS, Next-Cloudinary
+<<<<<<< HEAD
+=======
+CERTIFICATION
+Web Development Certificate – Saylani Mass IT Training (Received: December 2024)
+Completed a 1-year comprehensive training program covering frontend & backend development, modern web
+technologies, and project-based learning.
+FreeCodeCamp Certifications (Received: 2023)
+Legacy JavaScript Algorithms and Data Structures algorithms, and problem-solving techniques in JavaScript.
+Responsive Web Design – Learned HTML, CSS, and Flexbox/Grid to build modern, mobile-friendly websites.
+Front End Development Libraries – Worked with React, Redux, Bootstrap, jQuery, and other frontend frameworks.
+SUMMARY
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js, Next.js, and
+a range of modern libraries and frameworks. I have a strong understanding of frontend
+development principles and am confident in my ability to create dynamic and responsive web
+applications. I am skilled in utilizing popular tools and technologies to build seamless users.
+EXPERTISE
+    EXPERIENCE
+      Frontend Developer | Vehware Software
+       (2024 April - Present)
+Developed and optimized responsive web applications
+Worked with React.js, Next.js, and Tailwind CSS
+Integrated APIs and improved UI/UX for better user experience
++92 327 2748498
+fahadalam12405@gmail.com
+Intermediate, Cs
+ 2022 - 2024
+Govt College For Men
+Matriculation, Science
+ 2020 - 2022
+TMF Schooling System
+github.com/Fahad12405/
+https://www.linkedin.com/in/fahad-alam/
+PROJECTS
+FAHAD ALAM
+FRONT-END DEVELOPER
+EDUCATION
+Portfolio Website
+Live Demo
+ Trademark Registration Website
+ Live Demo 
+Car Export Website
+ Live Demo
+ Frontend Development: React.js, Next.js, Vue.js, HTML, CSS, JavaScript, TypeScript
+ Styling & UI Frameworks: Tailwind CSS, MUI, Styled-Components, SCSS, Bootstrap
+ State Management: Redux Toolkit, React Context API
+ Backend & Database: Node.js, Express.js, MongoDB, Firebase Firestore
+ APIs & Integrations: REST APIs, Axios, Stripe Payment Gateway, EmailJS
+ Development Tools: Git, GitHub, Vite, Webpack, PostCSS, Next-Cloudinary
+Diploma In Software Engineering
+(2023 - 2024)
+SMIT- Saylani Mass It Training Program
+Dashboard Management System
+ Live Demo
+CERTIFICATION
+Web Development Certificate – Saylani Mass IT Training (Received: December 2024)
+Completed a 1-year comprehensive training program covering frontend & backend development, modern web
+technologies, and project-based learning.
+FreeCodeCamp Certifications (Received: 2023)
+Legacy JavaScript Algorithms and Data Structures  algorithms, and problem-solving techniques in JavaScript.
+Responsive Web Design – Learned HTML, CSS, and Flexbox/Grid to build modern, mobile-friendly websites.
+Front End Development Libraries – Worked with React, Redux, Bootstrap, jQuery, and other frontend frameworks.
+FAHAD ALAM
+
+FRONT-END DEVELOPER
+
++92 327 2748498
+
+github.com/Fahad12405/
+
+fahadalam12405@gmail.com
+
+https://www.linkedin.com/in/fahad-alam/
+
+SUMMARY
+A dedicated Frontend Developer with hands-on experience in JavaScript, React.js, Next.js, and
+a range of modern libraries and frameworks. I have a strong understanding of frontend
+development principles and am confident in my ability to create dynamic and responsive web
+applications. I am skilled in utilizing popular tools and technologies to build seamless users.
+
+EDUCATION
+Intermediate, Cs
+ 2022 - 2024
+Govt College For Men
+
+Matriculation, Science
+ 2020 - 2022
+TMF Schooling System
+
+Diploma In Software Engineering
+(2023 - 2024)
+SMIT- Saylani Mass It Training Program
+
+    EXPERIENCE
+      Frontend Developer | Vehware Software
+       (2024 April - Present)
+
+Developed and optimized responsive web applications
+Worked with React.js, Next.js, and Tailwind CSS
+Integrated APIs and improved UI/UX for better user experience
+
+PROJECTS
+
+Portfolio Website
+
+Live Demo
+
+Car Export Website
+ Live Demo
+
+EXPERTISE
+
+ Trademark Registration Website
+
+ Live Demo 
+
+Dashboard Management System
+ Live Demo
+
+ Frontend Development: React.js, Next.js, Vue.js, HTML, CSS, JavaScript, TypeScript
+ Styling & UI Frameworks: Tailwind CSS, MUI, Styled-Components, SCSS, Bootstrap
+ State Management: Redux Toolkit, React Context API
+ Backend & Database: Node.js, Express.js, MongoDB, Firebase Firestore
+ APIs & Integrations: REST APIs, Axios, Stripe Payment Gateway, EmailJS
+ Development Tools: Git, GitHub, Vite, Webpack, PostCSS, Next-Cloudinary
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+CERTIFICATION
+
+Web Development Certificate – Saylani Mass IT Training (Received: December 2024)
+Completed a 1-year comprehensive training program covering frontend & backend development, modern web
+technologies, and project-based learning.
+
+FreeCodeCamp Certifications (Received: 2023)
+Legacy JavaScript Algorithms and Data Structures  algorithms, and problem-solving techniques in JavaScript.
+Responsive Web Design – Learned HTML, CSS, and Flexbox/Grid to build modern, mobile-friendly websites.
+<<<<<<< HEAD
+
+--- CONTACT ---
++92 327 2748498
+fahadalam12405@gmail.com
+https://www.linkedin.com/in/fahad-alam/
++92 327 2748498
+fahadalam12405@gmail.com
+https://www.linkedin.com/in/fahad-alam/
+
+--- PORTFOLIO ---
+github.com/Fahad12405/
+github.com/Fahad12405/
+=======
+Front End Development Libraries – Worked with React, Redux, Bootstrap, jQuery, and other frontend frameworks.
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

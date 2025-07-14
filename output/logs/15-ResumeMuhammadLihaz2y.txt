@@ -1,0 +1,221 @@
+PDF Filename: 15-ResumeMuhammadLihaz2y.pdf
+Name (Extracted): Muhammad Lihaz Ali
+Experience Score: 20.00
+<<<<<<< HEAD
+Skill Score: 24.62 (Matched: material ui, javascript, react.js, typescript, html, tailwind css, css, react)
+=======
+Skill Score: 24.62 (Matched: tailwind css, css, javascript, typescript, react.js, react, material ui, html)
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Education Score: 20.00
+Profile Score: 5.00
+Total Score: 69.62
+Experience Extraction Method: summary
+
+<<<<<<< HEAD
+===== Extracted Resume Text =====
+
+--- SKILLS ---
+=======
+===== RAW EXTRACTED RESUME TEXT =====
+Muhammad Lihaz Ali
+
+Frontend Developer with 2+ years
+of experience in React.js, Nextjs,
+and modern UI/UX. Expert in
+building scalable, responsive, and
+high-performance web
+applications.
+
+Muhammad
+& Muhammad Lihaz Ali
+WW lehazalil23@gmail.com
+J 03488899315
+@ pakistan
+
+44790 Islamabad
+
+fH January 3, 2002
+Q pk kohat
+Qo Male
+
+RS pakistan
+
+[1 linkedin.com/in‘muhammad-
+lihaz-ali
+
+Skills
+
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+HTML
+
+Gs
+JAVASCRIPT
+BOOTSRAP
+TAILWIND CSS
+
+REACT JS
+
+NEXT JS
+MATERIAL UI
+SHADE CN UI
+TYPESCRIPT
+NODE JS
+EXPRESS JS
+MONGODB
+
+CMS MANAGEMENT
+HIGHGRAPH CMS
+PAYLOAD CMS
+SANITY CMS
+COREUI
+
+Languages
+
+English
+Urdu
+Pashto
+
+Hobbies
+
+<<<<<<< HEAD
+--- EDUCATION ---
+=======
+m@ Developement
+m@ Researche
+
+™@ Teaching or Mentoring
+
+@ Cricket playing
+
+Education
+
+BS Software Engineering Jan 2020 - Feb 2024
+Karakoram International University, Gilgit
+
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Ics Oct 2018 - Nov 2020
+Bithat College, Faisalabad
+
+Materic Mar 2016 - Sep 2018
+Govt high school khadizai, Kohat
+
+Employment
+
+<<<<<<< HEAD
+Qatar Living, Remotely
+=======
+Frontend Developer Feb 2024 - Jan 2025
+Qatar Living, Remotely
+e Developed and maintained responsive web applications using React.js and
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Next.js.
+e Ensured seamless backend integration and optimal performance across
+browsers and devices.
+e Collaborated with cross-functional teams to enhance UI/UX and deliver
+scalable solutions.
+
+<<<<<<< HEAD
+Design Arena, Gilgit
+=======
+Frontend Developer(freelance) Sep 2022 - Nov 2023
+Design Arena, Gilgit
+e Built interactive web interfaces using React.js, Nextjs, HTML, CSS, and
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+JavaScript.
+e Prioritized accessibility, speed, and responsive design.
+e Delivered client solutions with clean, maintainable code and optimized
+performance.
+
+<<<<<<< HEAD
+=======
+Next.Js & React.Js Developer Jun 2021 - Jul 2022
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Web Collect, Gilgit
+
+e Maintained scalable web applications with React.js and Next.js.
+
+e Delivered responsive, user-friendly designs across devices.
+
+e Collaborated with backend teams for API integration and feature delivery.
+
+Achievements
+<<<<<<< HEAD
+BS Software Engineering Jan 2020 - Feb 2024
+Karakoram International University, Gilgit
+Karakoram International University, Gilgit
+Frontend Developer Feb 2024 - Jan 2025
+bs software engineering jan 2020 - feb 2024 karakoram international university, gilgit ics oct 2018 - nov 2020 bithat college, faisalabad materic mar 2016 - sep 2018 govt high school khadizai, kohat employment frontend developer feb 2024 - jan 2025 qatar living, remotely e developed and maintained responsive web applications using react.js and next.js. e ensured seamless backend integration and optimal performance across browsers and devices. e collaborated with cross-functional teams to enhance ui/ux and deliver scalable solutions. frontend developer(freelance) sep 2022 - nov 2023 design arena, gilgit e built interactive web interfaces using react.js, nextjs, html, css, and javascript. e prioritized accessibility, speed, and responsive design. e delivered client solutions with clean, maintainable code and optimized performance. next.js & react.js developer jun 2021 - jul 2022 web collect, gilgit e maintained scalable web applications with react.js and next.js. e delivered responsive, user-friendly designs across devices. e collaborated with backend teams for api integration and feature delivery. achievements projects & achievements e zwaara portal (saudi arabia): led development of a hospital and service provider platform. delivered features like scheduling, billing, and patient management. e trainer of mern stack: mentored junior developers, reducing dev time by 20% and improving product quality
+muhammad lihaz ali frontend developer with 2+ years of experience in react.js, nextjs, and modern ui/ux. expert in building scalable, responsive, and high-performance web applications. muhammad & muhammad lihaz ali ww lehazalil23@gmail.com j 03488899315 @ pakistan 44790 islamabad fh january 3, 2002 q pk kohat qo male rs pakistan [1 linkedin.com/in‘muhammad- lihaz-ali skills html gs javascript bootsrap tailwind css react js next js material ui shade cn ui typescript node js express js mongodb cms management highgraph cms payload cms sanity cms coreui languages english urdu pashto hobbies m@ developement m@ researche ™@ teaching or mentoring @ cricket playing education bs software engineering jan 2020 - feb 2024 karakoram international university, gilgit ics oct 2018 - nov 2020 bithat college, faisalabad materic mar 2016 - sep 2018 govt high school khadizai, kohat employment frontend developer feb 2024 - jan 2025 qatar living, remotely e developed and maintained responsive web applications using react.js and next.js. e ensured seamless backend integration and optimal performance across browsers and devices. e collaborated with cross-functional teams to enhance ui/ux and deliver scalable solutions. frontend developer(freelance) sep 2022 - nov 2023 design arena, gilgit e built interactive web interfaces using react.js, nextjs, html, css, and javascript.
+
+--- PROJECTS ---
+e Zwaara Portal (Saudi Arabia): Led development of a hospital and service
+provider platform. Delivered features like scheduling, billing, and patient
+management.
+=======
+
+Projects & Achievements
+e Zwaara Portal (Saudi Arabia): Led development of a hospital and service
+provider platform. Delivered features like scheduling, billing, and patient
+management.
+e Trainer of MERN Stack: Mentored junior developers, reducing dev time by
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+20% and improving product quality by 30%.
+
+Courses
+
+Frontend Development Certification Jul 2020
+Completed at Uconnect, this course focused on building responsive web
+interfaces using HTML, CSS, JavaScript, React.js, and Next js. Emphasized
+modern UI/UX design and cross-browser compatibility.
+
+Backend Development Certification Design Mar 2022
+Arena - Mar 2022
+
+Offered by Design Arena, this program covered server-side development with
+Node js, Express.js, MongoDB, and REST APIs. Focused on scalable architecture
+and database integration.
+
+Certificates
+
+Trainer of MERN Stack Sep 2022
+Certified as a MERN Stack and Next js trainer at GB Marketer, mentoring junior
+<<<<<<< HEAD
+=======
+developers on full-stack development. Covered advanced concepts in React_js,
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Node.js, MongoDB, deployment strategies, and code optimization.
+
+Frontend Development Certification Jul 2020
+Completed an intensive frontend development program at Uconnect, covering
+<<<<<<< HEAD
+=======
+HTML, CSS, JavaScript, React.js, and Next js. Built responsive, cross-browser
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+compatible user interfaces with a focus on clean code, performance, and modern
+UI/UX practices.
+
+Backend Development Certification Design Mar 2022
+Arena
+
+Earned at Design Arena, this backend course focused on building scalable
+server-side applications using Node js, Express.js, MongoDB, and REST APIs.
+<<<<<<< HEAD
+
+--- EXPERIENCE ---
+e Developed and maintained responsive web applications using React.js and
+Frontend Developer(freelance) Sep 2022 - Nov 2023
+e Built interactive web interfaces using React.js, Nextjs, HTML, CSS, and
+Next.Js & React.Js Developer Jun 2021 - Jul 2022
+e Trainer of MERN Stack: Mentored junior developers, reducing dev time by
+developers on full-stack development. Covered advanced concepts in React_js,
+HTML, CSS, JavaScript, React.js, and Next js. Built responsive, cross-browser
+Developed skills in backend integration, database design, and AP! architecture.
+
+--- CONTACT ---
+m@ Developement
+m@ Researche
+™@ Teaching or Mentoring
+@ Cricket playing
+=======
+Developed skills in backend integration, database design, and AP! architecture.
+>>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
