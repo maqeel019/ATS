@@ -1,29 +1,3 @@
-PDF Filename: Tanjiro_Bhatia_Resume_09-08-2022-19-15-13.pdf
-Name (Extracted): Tanjiro Bhatia
-Experience Score: 30.00
-Skill Score: 0.00 (Matched: )
-Education Score: 20.00
-Profile Score: 5.00
-Total Score: 55.00
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- EXPERIENCE ---
-01/2020 – present
-Bangalore, India
-
-07/2017 – 05/2020
-Bangalore, India
-
-08/2016 – 05/2017
-Hyderabad, India
-
-Director Of Engineering, Target Corporation
-Leading efforts on building low latency and high throughput performance data
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 Tanjiro Bhatia
 Data Scientist
 Tanjiro.bhatia67@gmail.com 9923312341 Telangana
@@ -33,28 +7,16 @@ scaled systems for transactional and data processing in various cloud environmen
 Professional Experience
 01/2020 – present Director Of Engineering, Target Corporation
 Bangalore, India Leading efforts on building low latency and high throughput performance data
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 processing systems with modern technology stack as part of high
 throughput inventory management data reporting system. Also Developed an
 automated Image Segmentation algorithm to detect the infection in the lungs using the
 chest CT scans. Project helps the Doctors to diagnose CT Severity score of the Covid
 Patients from Jaipur Hospital.
-<<<<<<< HEAD
-
-Engineering Lead, Adobe Systems
-Lead the team for building transformer based deep learning approach to title generation
-of research papers and paper tags classification.
-
-Data Scientist 4(Staff Engineer)., Apple Inc
-
-One checkout Platform – Real time streaming application for Financial data
-=======
 07/2017 – 05/2020 Engineering Lead, Adobe Systems
 Bangalore, India Lead the team for building transformer based deep learning approach to title generation
 of research papers and paper tags classification.
 08/2016 – 05/2017 Data Scientist 4(Staff Engineer)., Apple Inc
 Hyderabad, India One checkout Platform – Real time streaming application for Financial data
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Tech Stack – Flink, Python, Kafka, Oracle, Kafka Connect, Docker, AWS, Airflow
 Building one checkout platform for different business domains of Expedia i.e; Vrbo,
 Hotels, Car Rentals, Lodging
@@ -62,20 +24,6 @@ Real time streaming platform captures & process financial data for Accounting an
 helps suppliers to track total amount to be paid via Auto Pay or Request Pay model
 Crafted a scalable streaming solution using Flink StateFun to handle ~800k booking
 streams each day.
-<<<<<<< HEAD
-
-Certificates
-
-Elastic Search Silver contributor
-(06/2020 - Present)
-6+ years experienced engineering leader primarily focused on distributed computing and data platforms. Built and
-
---- EDUCATION ---
-05/2005 – 04/2009 Information Technology, SASTRA University Thanjavur
-Thanjavur, India
-
---- SKILLS ---
-=======
 Certificates
 Elastic Search Silver contributor
 (06/2020 - Present)
@@ -134,7 +82,6 @@ Education
 Thanjavur, India
 Information Technology, SASTRA University Thanjavur
 Skills
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Apache Spark
 Kafka
 Event Streaming
@@ -146,11 +93,7 @@ Machine Learning
 Azure
 Distributed Computing
 Interests
-<<<<<<< HEAD
-Playing Badminton, Tennis,
-=======
 Playing Badminton, Tennis, 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Football
 Movies
 Writing Tech Blogs
@@ -158,10 +101,7 @@ Traveling
 Tanjiro Bhatia
 Data Scientist
 
-<<<<<<< HEAD
-=======
 Tanjiro.bhatia67@gmail.com
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 9923312341
 
@@ -169,12 +109,6 @@ Telangana
 
 Profile
 
-<<<<<<< HEAD
-scaled systems for transactional and data processing in various cloud environments
-
---- CONTACT ---
-Tanjiro.bhatia67@gmail.com
-=======
 6+ years experienced engineering leader primarily focused on distributed computing and data platforms. Built and 
 scaled systems for transactional and data processing in various cloud environments
 
@@ -256,4 +190,5 @@ Movies
 Writing Tech Blogs
 
 Traveling
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

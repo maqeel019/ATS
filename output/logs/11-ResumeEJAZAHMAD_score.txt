@@ -1,0 +1,197 @@
+PDF Filename: 11-ResumeEJAZAHMAD.pdf
+Name (Extracted): Ejaz Ahmad
+Experience Score: 20.00
+Skill Score: 15.38 (Matched: html, typescript, rest api, react, css)
+Education Score: 20.00
+Profile Score: 8.00
+Total Score: 63.38
+Experience Extraction Method: summary
+
+===== SEGMENTED SECTIONS =====
+
+--- EXPERIENCE ---
+React JS Developer
+Fistix-Multan
+July 2023 to Present
+
+currently working at fistix as react and node js developer
+
+Frontend Developer
+it zonetch-Multan
+May 2023 to July 2023
+
+work as frontend internee
+
+--- EDUCATION ---
+MCS
+Islamia university of Bahwalpur
+2020 to 2022
+
+university of central Punjab
+2017 to 2019
+
+--- SKILLS ---
+• React Js (2 years)
+• Prime React
+• MongoDb
+• TypeScript (2 years)
+• graphql
+• Jave Script
+• HTML & CSS
+• REST api
+• Prime Flex
+• Nodejs (Less than 1 year)
+• next js (1 year)
+• prisma (1 year)
+• pubsub (1 year)
+
+Links
+EJAZ AHMAD
+Lahore
+
+--- CONTACT ---
+linkedin.com/in/ejaz-ahmad-2359a2247
+linkedin.com/in/ejaz-ahmad-2359a2247?
+ayanejaz420fwisg_dpy@indeedemail.com
++923313322420
+
+--- UNKNOWN ---
+Work Experience
+Education
+Skills
+
+===== RAW EXTRACTED TEXT =====
+EJAZ AHMAD
+Lahore
+ayanejaz420fwisg_dpy@indeedemail.com
++923313322420
+Work Experience
+React JS Developer
+Fistix-Multan
+July 2023 to Present
+currently working at fistix as react and node js developer
+Frontend Developer
+it zonetch-Multan
+May 2023 to July 2023
+work as frontend internee
+Education
+MCS
+Islamia university of Bahwalpur
+2020 to 2022
+university of central Punjab
+2017 to 2019
+Skills
+• React Js (2 years)
+• Prime React
+• MongoDb
+• TypeScript (2 years)
+• graphql
+• Jave Script
+• HTML & CSS
+• REST api
+• Prime Flex
+• Nodejs (Less than 1 year)
+• next js (1 year)
+• prisma (1 year)
+• pubsub (1 year)
+Links
+linkedin.com/in/ejaz-ahmad-2359a2247
+linkedin.com/in/ejaz-ahmad-2359a2247?
+EJAZ AHMAD
+Lahore
+ayanejaz420fwisg_dpy@indeedemail.com
++923313322420
+Work Experience
+React JS Developer
+Fistix-Multan
+July 2023 to Present
+currently working at fistix as react and node js developer
+Frontend Developer
+it zonetch-Multan
+May 2023 to July 2023
+work as frontend internee
+Education
+MCS
+Islamia university of Bahwalpur
+2020 to 2022
+university of central Punjab
+2017 to 2019
+Skills
+• React Js (2 years)
+• Prime React
+• MongoDb
+• TypeScript (2 years)
+• graphql
+• Jave Script
+• HTML & CSS
+• REST api
+• Prime Flex
+• Nodejs (Less than 1 year)
+• next js (1 year)
+• prisma (1 year)
+• pubsub (1 year)
+
+Links
+linkedin.com/in/ejaz-ahmad-2359a2247
+linkedin.com/in/ejaz-ahmad-2359a2247?
+EJAZ AHMAD
+Lahore
+ayanejaz420fwisg_dpy@indeedemail.com
++923313322420
+
+Work Experience
+
+React JS Developer
+Fistix-Multan
+July 2023 to Present
+
+currently working at fistix as react and node js developer
+
+Frontend Developer
+it zonetch-Multan
+May 2023 to July 2023
+
+work as frontend internee
+
+Education
+
+MCS
+Islamia university of Bahwalpur
+2020 to 2022
+
+university of central Punjab
+2017 to 2019
+
+Skills
+
+• React Js (2 years)
+
+• Prime React
+
+• MongoDb
+
+• TypeScript (2 years)
+
+• graphql
+
+• Jave Script
+
+• HTML & CSS
+
+• REST api
+
+• Prime Flex
+
+• Nodejs (Less than 1 year)
+
+• next js (1 year)
+
+• prisma (1 year)
+
+• pubsub (1 year)
+
+Links
+
+linkedin.com/in/ejaz-ahmad-2359a2247
+
+linkedin.com/in/ejaz-ahmad-2359a2247?

@@ -1,0 +1,220 @@
+PDF Filename: 24-ResumeTayyabHussainshah.pdf
+Name (Extracted): Tayyab Hussain Shah
+Experience Score: 13.33
+Skill Score: 24.62 (Matched: javascript, typescript, git, tailwind css, redux, react, css, react.js)
+Education Score: 20.00
+Profile Score: 5.00
+Total Score: 62.95
+Experience Extraction Method: date_range
+
+===== SEGMENTED SECTIONS =====
+
+--- SUMMARY ---
+project leadership. Combines technical mastery (React, Node.js, Flutter, cloud platforms) with agile
+project  management  to  deliver  scalable,  user-driven  solutions.  Passionate  about  architecting
+robust  systems,  optimizing  team  workflows,  and  turning  complex  problems  into  seamless  digital
+
+--- EXPERIENCE ---
+Versatile Software Engineer with expertise in full-stack development (web/mobile) and end-to-end
+Full Stack Developer Jan 2025 - March 2025
+FalconXoft Lahore Paksitan
+Flutter App Developer May 2024 - Nov 2024
+First Light UAE (Remote)
+Full Stack Developer June 2023 - Feb 2024
+CsEra Pvt Ltd l G-13 Islamabad Pakistan
+Full Stack Developer Jan 2021 - Present
+Fiver/Upwork(Freelancing)
+Full Stack Developer
+Full Stack Developer
+Flutter App Developer
+Full Stack Developer
+
+--- EDUCATION ---
+FalconXoft Lahore Paksitan
+CsEra Pvt Ltd l G-13 Islamabad Pakistan
+First Light UAE (Remote)
+Fiver/Upwork(Freelancing)
+Jan 2025 - March 2025
+June 2023 - Feb 2024
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Soft Skills: Project Management, Team Leadership & Collaboration, Project Planning &
+Execution, Process Optimization, Problem-Solving, Decision-Making
+Languages: English, Urdu
+Programming Languages:  Python, JavaScript (ES6+), TypeScript, C++, PHP
+Frontend Development: React.js, Angular, Next.js, HTML5, CSS3, Sass, Tailwind CSS,
+Redux, Vite, Figma, Canva
+Backend Development: Node.js, Express.js, Django, Laravel, RESTful Apis
+Mobile Development: Flutter, Flutter Flow
+Databases: SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB, Firebase)
+Version Control & Tools: Git, GitHub, Slack, Jira, Trello, Postman, ClickUp
+May 2024 - Nov 2024
+Jan 2021 - Present
+The University of Poonch Rawalakot Ajk Pakistan
+Relevant coursework in Software Architecture, Systems Design, and Agile Project
+Management
+Oct 2020 - Oct 2024
+TAYYAB HUSSAIN SHAH
+
+Bachelor of Science in Software Engineering
+
+--- CONTACT ---
+City Rawalakot Ajk Pakistan • +92-336-5298230 • tayabsajid5@gmail.com
+City Rawalakot Ajk Pakistan • +92-336-5298230 • tayabsajid5@gmail.com
+
+--- PORTFOLIO ---
+https://personal-portfolio-eta-silk.vercel.app
+https://personal-portfolio-eta-silk.vercel.app
+
+--- UNKNOWN ---
+SUMMARY
+project management to deliver scalable, user-driven solutions. Passionate about architecting
+robust systems, optimizing team workflows, and turning complex problems into seamless digital
+experiences.
+WORK EXPERIENCE
+EDUCATION
+Bachelor of Science in Software Engineering Oct 2020 - Oct 2024
+Programming Languages: Python, JavaScript (ES6+), TypeScript, C++, PHP
+
+===== RAW EXTRACTED TEXT =====
+TAYYAB HUSSAIN SHAH
+City Rawalakot Ajk Pakistan • +92-336-5298230 • tayabsajid5@gmail.com
+https://personal-portfolio-eta-silk.vercel.app
+SUMMARY
+Versatile Software Engineer with expertise in full-stack development (web/mobile) and end-to-end
+project leadership. Combines technical mastery (React, Node.js, Flutter, cloud platforms) with agile
+project management to deliver scalable, user-driven solutions. Passionate about architecting
+robust systems, optimizing team workflows, and turning complex problems into seamless digital
+experiences.
+WORK EXPERIENCE
+Full Stack Developer Jan 2025 - March 2025
+FalconXoft Lahore Paksitan
+Flutter App Developer May 2024 - Nov 2024
+First Light UAE (Remote)
+Full Stack Developer June 2023 - Feb 2024
+CsEra Pvt Ltd l G-13 Islamabad Pakistan
+Full Stack Developer Jan 2021 - Present
+Fiver/Upwork(Freelancing)
+EDUCATION
+Bachelor of Science in Software Engineering Oct 2020 - Oct 2024
+The University of Poonch Rawalakot Ajk Pakistan
+Relevant coursework in Software Architecture, Systems Design, and Agile Project
+Management
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript (ES6+), TypeScript, C++, PHP
+Frontend Development: React.js, Angular, Next.js, HTML5, CSS3, Sass, Tailwind CSS,
+Redux, Vite, Figma, Canva
+Backend Development: Node.js, Express.js, Django, Laravel, RESTful Apis
+Mobile Development: Flutter, Flutter Flow
+Databases: SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB, Firebase)
+Version Control & Tools: Git, GitHub, Slack, Jira, Trello, Postman, ClickUp
+ADDITIONAL INFORMATION
+Soft Skills: Project Management, Team Leadership & Collaboration, Project Planning &
+Execution, Process Optimization, Problem-Solving, Decision-Making
+Languages: English, Urdu
+TAYYAB HUSSAIN SHAH
+SUMMARY
+Versatile Software Engineer with expertise in full-stack development (web/mobile) and end-to-end
+project leadership. Combines technical mastery (React, Node.js, Flutter, cloud platforms) with agile
+project management to deliver scalable, user-driven solutions. Passionate about architecting
+robust systems, optimizing team workflows, and turning complex problems into seamless digital
+experiences.
+WORK EXPERIENCE
+EDUCATION
+Full Stack Developer 
+FalconXoft Lahore Paksitan
+Full Stack Developer
+CsEra Pvt Ltd l G-13 Islamabad Pakistan
+Flutter App Developer
+First Light UAE (Remote)
+Full Stack Developer 
+Fiver/Upwork(Freelancing)
+Jan 2025 - March 2025
+June 2023 - Feb 2024
+ADDITIONAL INFORMATION
+TECHNICAL SKILLS
+Soft Skills: Project Management, Team Leadership & Collaboration, Project Planning &
+Execution, Process Optimization, Problem-Solving, Decision-Making
+Languages: English, Urdu
+Programming Languages:  Python, JavaScript (ES6+), TypeScript, C++, PHP
+Frontend Development: React.js, Angular, Next.js, HTML5, CSS3, Sass, Tailwind CSS,
+Redux, Vite, Figma, Canva
+Backend Development: Node.js, Express.js, Django, Laravel, RESTful Apis
+Mobile Development: Flutter, Flutter Flow
+Databases: SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB, Firebase)
+Version Control & Tools: Git, GitHub, Slack, Jira, Trello, Postman, ClickUp
+May 2024 - Nov 2024
+Jan 2021 - Present
+Bachelor of Science in Software Engineering
+The University of Poonch Rawalakot Ajk Pakistan
+Relevant coursework in Software Architecture, Systems Design, and Agile Project
+Management
+ Oct 2020 - Oct 2024
+City Rawalakot Ajk Pakistan • +92-336-5298230 • tayabsajid5@gmail.com
+https://personal-portfolio-eta-silk.vercel.app
+TAYYAB HUSSAIN SHAH
+
+City Rawalakot Ajk Pakistan • +92-336-5298230 • tayabsajid5@gmail.com
+https://personal-portfolio-eta-silk.vercel.app
+
+SUMMARY
+
+Versatile Software Engineer with expertise in full-stack development (web/mobile) and end-to-end
+project leadership. Combines technical mastery (React, Node.js, Flutter, cloud platforms) with agile
+project  management  to  deliver  scalable,  user-driven  solutions.  Passionate  about  architecting
+robust  systems,  optimizing  team  workflows,  and  turning  complex  problems  into  seamless  digital
+experiences.
+
+WORK EXPERIENCE
+
+Full Stack Developer 
+FalconXoft Lahore Paksitan
+
+Flutter App Developer
+First Light UAE (Remote)
+
+Full Stack Developer
+CsEra Pvt Ltd l G-13 Islamabad Pakistan
+
+Full Stack Developer 
+Fiver/Upwork(Freelancing)
+
+EDUCATION
+
+Jan 2025 - March 2025
+
+May 2024 - Nov 2024
+
+June 2023 - Feb 2024
+
+Jan 2021 - Present
+
+Bachelor of Science in Software Engineering
+The University of Poonch Rawalakot Ajk Pakistan
+
+ Oct 2020 - Oct 2024
+
+Relevant coursework in Software Architecture, Systems Design, and Agile Project
+Management
+
+TECHNICAL SKILLS
+
+Programming Languages:  Python, JavaScript (ES6+), TypeScript, C++, PHP
+
+Frontend Development: React.js, Angular, Next.js, HTML5, CSS3, Sass, Tailwind CSS,
+
+Redux, Vite, Figma, Canva
+
+Backend Development: Node.js, Express.js, Django, Laravel, RESTful Apis
+
+Mobile Development: Flutter, Flutter Flow
+
+Databases: SQL (PostgreSQL, MySQL, SQL Server), NoSQL (MongoDB, Firebase)
+
+Version Control & Tools: Git, GitHub, Slack, Jira, Trello, Postman, ClickUp
+
+ADDITIONAL INFORMATION
+
+Soft Skills: Project Management, Team Leadership & Collaboration, Project Planning &
+Execution, Process Optimization, Problem-Solving, Decision-Making
+Languages: English, Urdu

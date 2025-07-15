@@ -1,25 +1,3 @@
-PDF Filename: 18-ResumeMuhammadTahaYasin.pdf
-Name (Extracted): About Me
-Experience Score: 30.00
-<<<<<<< HEAD
-Skill Score: 21.54 (Matched: javascript, git, react.js, html, tailwind css, css, react)
-=======
-Skill Score: 21.54 (Matched: tailwind css, css, javascript, git, react.js, react, html)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 5.00
-Total Score: 76.54
-Experience Extraction Method: date_range
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- EXPERIENCE ---
-Matric Frontend Developer (Freelance / Project-Based)
-Fauji Foundation School Remote | Jan 2024 – Present
-Built and delivered a real-world project for a client, including a
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 M. TAHA YASIN
 Front End Developer
 About Me
@@ -36,7 +14,6 @@ Matric Frontend Developer (Freelance / Project-Based)
 Fauji Foundation School Remote | Jan 2024 – Present
 Built and delivered a real-world project for a client, including a
 2018-2020
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Percentage: 85% responsive UI, form handling, and data display using React.js and
 Tailwind CSS.
 Intermediate Non Medical
@@ -47,18 +24,12 @@ frontend development skills, including a car listing site and garage
 inventory system.
 Percentage: 70%
 Implemented features like dynamic filtering, CRUD operations,
-<<<<<<< HEAD
-custom modals, and sales analytics using Chart.js.
-Practiced version control with Git & GitHub throughout all projects.
-2022-2026
-=======
 BS Software Engineering
 custom modals, and sales analytics using Chart.js.
 Virtual University
 Practiced version control with Git & GitHub throughout all projects.
 2022-2026
 Cgpa: 3.2
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 DIGITAL SKILLS
 SOFT SKILLS
 Frontend Technologies
@@ -82,13 +53,6 @@ Matric
 Intermediate Non Medical
 Fauji Foundation School
 Laurreate Academy
-<<<<<<< HEAD
-2020-2022
-
---- EDUCATION ---
-Virtual University
-Cgpa: 3.2
-=======
 2018-2020
 2020-2022
 EDUCATION
@@ -147,7 +111,6 @@ Colony
 
 EDUCATION
 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Matric
 
 Fauji Foundation School
@@ -158,18 +121,11 @@ Percentage: 85%
 
 About Me
 
-<<<<<<< HEAD
-I’m  a  passionate  Software  Engineer
-=======
 I’m  a  passionate  Software  Engineer 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 focused  on  creating
 responsive,  user-friendly  interfaces  using  HTML,  CSS,  JavaScript,
 and  React.  I  enjoy  solving  problems,  writing  clean  code,  and
 continuously improving my skills through real-world projects.
-<<<<<<< HEAD
-BS Software Engineering
-=======
 
 WORK EXPERIENCE
 
@@ -242,4 +198,5 @@ VS Code, Figma (basic), Chrome DevTools
 Package Managers & Build Tools
 
 npm, Yarn, Vite, (basic)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

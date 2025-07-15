@@ -1,29 +1,3 @@
-PDF Filename: Naruto_uzumaki_Resume_10-08-2022-15-31-44.pdf
-Name (Extracted): Naruto Uzumaki
-Experience Score: 30.00
-Skill Score: 0.00 (Matched: )
-Education Score: 20.00
-Profile Score: 7.00
-Total Score: 57.00
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- PROJECTS ---
-challenging business problems.
-
-Data Scientist, MU SIGMA
-DATA QUALITY AND VALUE ASSESSMENT
-
-Jan 2022 – present
-Bangalore, India
-
---- EXPERIENCE ---
-Data Scientist, MU SIGMA
-DATA QUALITY AND VALUE ASSESSMENT
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 Naruto uzumaki
 Data Scientist
 hello.ineuron@gmail.com 9923312341 Telangana https://github.com/
@@ -34,7 +8,6 @@ challenging business problems.
 PROFESSIONAL EXPERIENCE
 Data Scientist, MU SIGMA Jan 2022 – present
 DATA QUALITY AND VALUE ASSESSMENT Bangalore, India
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Designed and developed a comprehensive and versatile Data quality and Value
 assessment module for a US based asset management company.
 The module developed on Jupyter notebook with a Python kernel brought down the time
@@ -51,30 +24,16 @@ conversations with customers and help them in taking better decisions to achieve
 energy efficiency goals (by generating realistic project roadmap using mixed integer
 optimization and linear programming) .
 Handled the entire backend of the application using python.
-<<<<<<< HEAD
-Jan 2022 – present
-Bangalore, India
-Software Engineer, iNeuron Intelligence
-CUSTOMER SEGMENTS
-=======
 Software Engineer, iNeuron Intelligence Jul 2020 – May 2022
 CUSTOMER SEGMENTS Bangalore, India
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 In this project, I analysed a dataset containing data on various customers' annual
 spending amounts of diverse product categories for internal structure using PCA and
 Gaussian Mixture Model clustering algorithm to best describe the variation in the
 different types of customers that a wholesale distributor interacts with to provide insight
 into how to best structure their delivery service to meet the needs of each customer.
 (GitHub)
-<<<<<<< HEAD
-Jul 2020 – May 2022
-Bangalore, India
-Software Engineer, Thales
-One checkout Platform – Real time streaming application for Financial data
-=======
 Software Engineer, Thales Aug 2020 – May 2021
 One checkout Platform – Real time streaming application for Financial data Hyderabad, India
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Tech Stack – Flink, Python, Kafka, Oracle, Kafka Connect, Docker, AWS, Airflow
 Building one checkout platform for different business domains of Expedia i.e; Vrbo, Hotels,
 Car Rentals, Lodging
@@ -82,8 +41,6 @@ Real time streaming platform captures & process financial data for Accounting an
 suppliers to track total amount to be paid via Auto Pay or Request Pay model
 Crafted a scalable streaming solution using Flink StateFun to handle ~800k booking
 streams each day.
-<<<<<<< HEAD
-=======
 Project Engineer, Wipro Technologies Jul 2015 – Aug 2016
 Worked on investment banking project for Barclays capital as client. Bangalore, India
 hello.ineuron@gmail.com 1 / 2
@@ -158,23 +115,12 @@ Real time streaming platform captures & process financial data for Accounting an
 suppliers to track total amount to be paid via Auto Pay or Request Pay model
 Crafted a scalable streaming solution using Flink StateFun to handle ~800k booking 
 streams each day.
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Aug 2020 – May 2021
 Hyderabad, India
 Project Engineer, Wipro Technologies
 Worked on investment banking project for Barclays capital as client.
 Jul 2015 – Aug 2016
 Bangalore, India
-<<<<<<< HEAD
-1 / 2
-
---- EDUCATION ---
-Bachelor Of Technology in Computer Science, Jaypee Institute Of Information Technology
-
-Cumulative GPA : 8.1/10.0
-Relevant Coursework : Algorithms and Data Structure, Database Management System,
-Operating System, Computer Network, Linear Algebra, Discrete Mathematics, Fuzzy Logic
-=======
 hello.ineuron@gmail.com
 1 / 2
 
@@ -288,19 +234,13 @@ Bachelor Of Technology in Computer Science, Jaypee Institute Of Information Tech
 Cumulative GPA : 8.1/10.0
 Relevant Coursework : Algorithms and Data Structure, Database Management System, 
 Operating System, Computer Network, Linear Algebra, Discrete Mathematics, Fuzzy Logic 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 and Neural Network, Big Data
 
 Information Technology, SASTRA University Thanjavur
 
 Cumulative GPA : 9.05/10.0
-<<<<<<< HEAD
-Relevant Coursework : Machine Learning, Deep Learning, Probability and Applied Statistics,
-Advance Data Structure and Algorithms, Natural Language Processing, Medical Image
-=======
 Relevant Coursework : Machine Learning, Deep Learning, Probability and Applied Statistics, 
 Advance Data Structure and Algorithms, Natural Language Processing, Medical Image 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Processing
 
 Jan 2013 – Aug 2017
@@ -313,36 +253,6 @@ Elastic Search Silver contributor (06/2020 - Present)
 
 CERTIFICATES
 
-<<<<<<< HEAD
---- SKILLS ---
-Apache Spark | Microservices | Kafka | Data Warehousing | Event Streaming | Machine Learning
-Deep Learning | Azure | Data Ingestion | Distributed Computing
-Data Science Pipeline ((collection, cleansing, visualization, modeling, interpretation), Statistics, Hypothesis Testing, CI/CD
-Pipeline)
-INTERESTS
-Playing Badminton, Tennis, Football | Writing Tech Blogs | Traveling | Movies
-2 / 2
-Naruto uzumaki
-Data Scientist
-
-
-9923312341
-
-Telangana
-
-
-PROFILE
-
-I have 4+ years of work experience in Data Science with a proven ability and history of developing full-stack data science
-
---- CONTACT ---
-hello.ineuron@gmail.com
-hello.ineuron@gmail.com
-hello.ineuron@gmail.com
-
---- PORTFOLIO ---
-https://github.com/
-=======
 SKILLS
 
 Apache Spark | Microservices | Kafka | Data Warehousing | Event Streaming | Machine Learning
@@ -358,5 +268,4 @@ Playing Badminton, Tennis, Football
 
 INTERESTS
 
-hello.ineuron@gmail.com2 / 2
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+hello.ineuron@gmail.com2 / 2

@@ -1,63 +1,3 @@
-PDF Filename: 5-JAWADRESUME.pdf
-Name (Extracted): Jawad Ali
-Experience Score: 4.17
-<<<<<<< HEAD
-Skill Score: 21.54 (Matched: javascript, git, typescript, tailwind css, redux, css, react)
-Education Score: 10.00
-Profile Score: 8.00
-Total Score: 43.71
-Experience Extraction Method: date_range
-
-===== Extracted Resume Text =====
-
---- SKILLS ---
-Front end Design & Development
-Pixel perfect Conversion
-API Integration & Third party Integration
-Responsive Designs
-PROGRAMMING LANGUAGES AND
-FRAMEWORKS:
-HTML5
-CSS3 (can work on all CSS frameworks such as
-Bootstrap5, Tailwind Css, MUI, AntD etc..)
-SASS/SCSS
-Javascript(es5,es6)
-jQuery
-Reactjs, Extjs, WebixJS
-React Charts
-Typescript
-Redux
-Jwts
-Axios for APIs Integration
-React Framer Motion(for animation)
-Nextjs (SSR, SSG)
-Git and Github Desktop
-Nodejs(intermediate)
-MongoDb (Intermediate)
-SQL (Intermediate)
-LANGUAGES
-Pashto(Mother Tongue), Urdu, English
-
-HOBBIES
-Badminton, Recitation of Quran
-​
-Jawad Ali
-
-responsive and user-friendly UI interfaces. I enjoy
-working with Flexbox to build responsive layouts, but
-I am equally comfortable using CSS Grid, depending
-on the layout requirements and which approach is
-more suitable.
-
---- PROJECTS ---
-=======
-Skill Score: 21.54 (Matched: tailwind css, css, typescript, git, react, redux, javascript)
-Education Score: 10.00
-Profile Score: 10.00
-Total Score: 45.71
-Experience Extraction Method: date_range
-
-===== RAW EXTRACTED RESUME TEXT =====
 Jawad Ali
 I am a JavaScript Developer specializing as a
 03139908709
@@ -78,7 +18,6 @@ End Developer(React/Nextjs/)
 API Integration & Third party Integration
 Responsive Designs
 Projects: made User Panel, Three Admin
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Dashboards, Portfolio Websites, Blog Websites,
 E-commerce Websites etc..
 October 2023 - Feb 2025
@@ -86,25 +25,15 @@ PROGRAMMING LANGUAGES AND
 FRAMEWORKS:
 Aptech Media Pvt Ltd, Peshawar, KP — Front
 HTML5
-<<<<<<< HEAD
-=======
 End Developer (Reactjs) Oct 2022 - March 2023
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 CSS3 (can work on all CSS frameworks such as
 Bootstrap5, Tailwind Css, MUI, AntD etc..)
 Tri Tech Solution, Peshawar, KP — Web
 SASS/SCSS
-<<<<<<< HEAD
-jQuery
-Reactjs, Extjs, WebixJS
-
---- EDUCATION ---
-=======
 Development Intern Oct 2022 - March 2023 Javascript(es5,es6)
 jQuery
 Reactjs, Extjs, WebixJS
 EDUCATION
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 React Charts
 University of Engineering and Technology Typescript
 Peshawar, Peshawar, KP — Computer Systems
@@ -121,28 +50,6 @@ Nodejs(intermediate)
 MongoDb (Intermediate)
 UNIVERSITY PROJECTS SQL (Intermediate)
 Online Service Management System — LANGUAGES
-<<<<<<< HEAD
-HTML5, CSS3, BOOTSTRAP4, Javascript, PHP and Used
-MYSQL for Database… HOBBIES
-Badminton, Recitation of Quran
-Jawad Ali
-responsive and user-friendly UI interfaces. I enjoy
-working with Flexbox to build responsive layouts, but
-I am equally comfortable using CSS Grid, depending
-on the layout requirements and which approach is
-more suitable.
-
---- EXPERIENCE ---
-I am a JavaScript Developer specializing as a
-Front-End Developer. I have a passion for creating
-End Developer (Reactjs) Oct 2022 - March 2023
-Development Intern Oct 2022 - March 2023 Javascript(es5,es6)
-Developed using the following stacks Pashto(Mother Tongue), Urdu, English
-I am a JavaScript Developer specializing as a
-Front-End Developer. I have a passion for creating
-Rough Copies Pvt Ltd, Lahore, Punjab — Front
-End Developer(React/Nextjs/)
-=======
 Developed using the following stacks Pashto(Mother Tongue), Urdu, English
 HTML5, CSS3, BOOTSTRAP4, Javascript, PHP and Used
 MYSQL for Database… HOBBIES
@@ -331,5 +238,14 @@ MYSQL for Database…
 
 HOBBIES  
 
-Badminton, Recitation of Quran
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Badminton, Recitation of Quran 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

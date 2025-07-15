@@ -1,35 +1,19 @@
 PDF Filename: 26-Sameer Khan Cv3y.pdf
 Name (Extracted): Sameer Khan
 Experience Score: 0.00
-<<<<<<< HEAD
-Skill Score: 9.23 (Matched: css, html, react)
-Education Score: 20.00
-Profile Score: 5.00
-Total Score: 34.23
-Experience Extraction Method: none
-
-===== Extracted Resume Text =====
-
---- SUMMARY ---
-=======
 Skill Score: 9.23 (Matched: css, react, html)
 Education Score: 20.00
 Profile Score: 8.00
 Total Score: 37.23
 Experience Extraction Method: none
 
-===== RAW EXTRACTED RESUME TEXT =====
-Sameer Khan
-sk
-Software Developer
-Summary
-I'm a website developer who focuses on achieving
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+===== Extracted Resume Text =====
+
+--- SUMMARY ---
 goals and is eager to learn and work in a team. I'm
 proactive and want to use my skills to improve the Personal Information
 organization and I'm excited to team up with a
 Email:
-<<<<<<< HEAD
 front-end technologies and gain valuable insights
 Phone Number:
 from their experience, which will help me grow and
@@ -40,19 +24,6 @@ sameer-khan-660966251/
 --- EXPERIENCE ---
 I'm a website developer who focuses on achieving
 senior developer to learn more about the latest
-=======
-senior developer to learn more about the latest
-berlanjan123@gmail.com
-front-end technologies and gain valuable insights
-Phone Number:
-from their experience, which will help me grow and
-+92-3169769253
-improve my skills.
-LinkedIn:
-https://www.linkedin.com/in/
-sameer-khan-660966251/
-Work History
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 2022-05 Front End Developer Skills
 100%
 -present Tech Creator , Swabi HTML CSS
@@ -78,7 +49,6 @@ Ui Improvement
 and I'm now eager to collaborate with a senior
 developer to further expand my knowledge and
 Languages
-<<<<<<< HEAD
 Software Developer
 
 --- SKILLS ---
@@ -164,7 +134,87 @@ https://www.linkedin.com/in/
 berlanjan123@gmail.com
 +92-3169769253
 https://www.linkedin.com/in/
-=======
+
+--- UNKNOWN ---
+Summary
+Work History
+skills, delving into new front-end technologies and
+gaining valuable insights from their experience.
+Urdu 90%
+Education
+2016-07 Degree Bs Computer Science Hobbies/Interest
+-2020-07 University of Swabi
+2014-07 FSC
+-2016-07 Jinnah group of school and college
+Total Marks : 707 Gamming
+2012-05 Matric
+-2014-05 GOVT High school Shahmansoor Swabi
+proactive and want to use my skills to improve the
+Front End Developer
+Tech Creator , Swabi
+2022-05
+-present
+Skills
+I'm  a  website  developer  who  focuses  on achieving
+organization  and  I'm  excited  to  team  up  with  a
+senior  developer  to  learn  more  about  the  latest
+front-end  technologies  and  gain  valuable  insights
+I  am  a  front-end  developer  proficient  in  crafting
+that
+visually  stunning,  pixel-perfect  websites
+seamlessly  adapt  to  various  screen  sizes,  including
+creating  captivating  user  experiences  using  the
+and  I'm  now  eager  to  collaborate  with  a  senior
+developer  to  further  expand  my  knowledge  and
+skills,  delving  into  new  front-end  technologies  and
+t React Js
+
+===== RAW EXTRACTED RESUME TEXT =====
+Sameer Khan
+sk
+Software Developer
+Summary
+I'm a website developer who focuses on achieving
+goals and is eager to learn and work in a team. I'm
+proactive and want to use my skills to improve the Personal Information
+organization and I'm excited to team up with a
+Email:
+senior developer to learn more about the latest
+berlanjan123@gmail.com
+front-end technologies and gain valuable insights
+Phone Number:
+from their experience, which will help me grow and
++92-3169769253
+improve my skills.
+LinkedIn:
+https://www.linkedin.com/in/
+sameer-khan-660966251/
+Work History
+2022-05 Front End Developer Skills
+100%
+-present Tech Creator , Swabi HTML CSS
+100%
+Bootstrap
+I am a front-end developer proficient in crafting
+8 0%
+GitHub
+visually stunning, pixel-perfect websites that
+JavaScrip
+7 0%
+seamlessly adapt to various screen sizes, including
+Rt eact Js 80%
+mobile devices, tablets, and desktops. I specialize in
+8 0%
+Next Js
+creating captivating user experiences using the
+Ant Design
+60%
+latest advancements in React and Next.js technology
+100%
+Ui Improvement
+and I'm now eager to collaborate with a senior
+developer to further expand my knowledge and
+Languages
 skills, delving into new front-end technologies and
 100%
 Pashto
@@ -389,4 +439,3 @@ Traveling
 
 Movies 
 Gamming
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

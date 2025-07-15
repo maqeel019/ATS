@@ -1,22 +1,3 @@
-PDF Filename: 14-ResumeMuhammadFaizan3y-Healthcare.pdf
-Name (Extracted): Muhammad Faizan
-Experience Score: 30.00
-<<<<<<< HEAD
-Skill Score: 24.62 (Matched: javascript, git, react.js, typescript, tailwind css, redux, css, react)
-=======
-Skill Score: 24.62 (Matched: tailwind css, css, typescript, git, react.js, react, redux, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 10.00
-Total Score: 84.62
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- SUMMARY ---
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 Muhammad Faizan
 MERN Stack Developer — Frontend Engineer
 Madina Town Shamsabad , Islamabad
@@ -160,7 +141,6 @@ Madina Town Shamsabad , Islamabad
 Professional Summary
 
 Innovative Full Stack Developer with 3+ years of experience specializing in MERN stack development and modern
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 frontend technologies. Proven expertise in transforming Figma designs into responsive React/Next.js applications.
 Strong background in developing healthcare management systems and enterprise-level applications. Demonstrated
 ability to improve application performance and user experience through efficient state management and modern
@@ -174,13 +154,8 @@ Development Tools: Git, Docker, Webpack, Babel, Jest, React Testing Library, Cyp
 UI/UX: Figma, Material-UI, Tailwind CSS, Styled Components, Responsive Design
 Cloud & Deployment: AWS, Vercel, Netlify, CI/CD, GitHub Actions
 
-<<<<<<< HEAD
---- EXPERIENCE ---
-Innovative Full Stack Developer with 3+ years of experience specializing in MERN stack development and modern
-=======
 Professional Experience
 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 WiseMan Innovation
 Senior Frontend Developer
 
@@ -229,17 +204,6 @@ E-commerce Platform | Next.js, TypeScript, GraphQL, Stripe
 
 • Built a full-featured e-commerce platform with inventory management and payment processing
 • Integrated SEO optimization resulting in 40% increase in organic traffic
-<<<<<<< HEAD
-• Final Year Project: Developed a Hospital Management System using MERN Stack
-AWS Certified Developer Associate (2023)
-MongoDB Certified Developer (2023)
-MERN Stack Developer — Frontend Engineer
-
---- EDUCATION ---
-Arid Agriculture University
-
-• Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development
-=======
 
 Education
 
@@ -248,40 +212,15 @@ Bachelor of Science in Software Engineering
 
 • Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development
 • Final Year Project: Developed a Hospital Management System using MERN Stack
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 2018 – 2022
 Chakwal
 
-<<<<<<< HEAD
-
-Core Competencies
-=======
 Core Competencies
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 Frontend Development: Single Page Applications (SPA), Progressive Web Apps (PWA), Responsive Design
 Development Methodologies: Agile, Scrum, Test-Driven Development (TDD), CI/CD
 Performance Optimization: Code Splitting, Lazy Loading, Bundle Size Optimization, SEO Best Practices
-<<<<<<< HEAD
-Bachelor of Science in Software Engineering
-
---- CERTIFICATIONS ---
-Advanced React and Redux - Udemy (2022)
-Digital Portfolio
-Scan the QR code below to explore my complete project portfolio
-Muhammad Faizan
-
-
-Madina Town Shamsabad , Islamabad
-(cid:128) Portfolio Website § GitHub (cid:239) LinkedIn
-
---- PORTFOLIO ---
- faizan-three.vercel.app
-
---- CONTACT ---
-(cid:131) +92-340-5966112 # muhammadfaizanjanjua109@gmail.com
-=======
 
 Certifications & Professional Development
 
@@ -294,4 +233,5 @@ Digital Portfolio
 Scan the QR code below to explore my complete project portfolio
 
 (cid:18) faizan-three.vercel.app
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

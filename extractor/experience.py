@@ -7,6 +7,7 @@ from config import _MONTH_MAP
 from dateutil.relativedelta import relativedelta
 from extractor.section_segmenter import segment_sections  # make sure this is imported
 
+
 def extract_years_months(exp_str):
     parts = exp_str.strip().split()
     years = int(parts[0]) if "year" in parts[1] else 0
@@ -40,22 +41,6 @@ def extract_experience_from_text(text: str) -> Tuple[int, int, str]:
     return 0, 0, "none"
 
 
-<<<<<<< HEAD
-def extract_experience_from_logs(logs_dir: str) -> dict:
-    """
-    Loop through all .txt log files in the specified directory,
-    extract experience from each, and return a mapping of filename to experience.
-    """
-    experience_map = {}
-    for filename in os.listdir(logs_dir):
-        if filename.endswith(".txt"):
-            log_path = os.path.join(logs_dir, filename)
-            with open(log_path, "r", encoding="utf-8") as f:
-                content = f.read()
-                years, months, method = extract_experience_from_text(content)
-                experience_map[filename] = (years, months, method)
-    return experience_map
-=======
 # def extract_experience_from_logs(logs_dir: str) -> dict:
 #     """
 #     Loop through all .txt log files in the specified directory,
@@ -70,7 +55,6 @@ def extract_experience_from_logs(logs_dir: str) -> dict:
 #                 years, months, method = extract_experience_from_text(content)
 #                 experience_map[filename] = (years, months, method)
 #     return experience_map
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 
 def normalize_text(text: str) -> str:
@@ -81,6 +65,7 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"\n+", " ", text)
     text = re.sub(r"\s{2,}", " ", text)
     return text.strip()
+
 
 def merge_date_ranges(ranges: List[Tuple[datetime, datetime]]) -> List[Tuple[datetime, datetime]]:
     if not ranges:
@@ -96,16 +81,7 @@ def merge_date_ranges(ranges: List[Tuple[datetime, datetime]]) -> List[Tuple[dat
             merged.append(current)
     return merged
 
-<<<<<<< HEAD
-    # 🔑 Define education keywords to filter out ranges nearby
 
-
-
-from typing import List, Tuple
-from datetime import datetime
-
-=======
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 def filter_education_like_ranges(
     work_ranges: List[Tuple[datetime, datetime]],
     edu_ranges: List[Tuple[datetime, datetime]]
@@ -143,6 +119,7 @@ def filter_education_like_ranges(
             result.append((ws, we))
 
     return result
+
 
 def extract_experience_ranges(
     text: str,
@@ -255,6 +232,7 @@ def extract_experience_ranges(
         for start, end in merged
     )
     return divmod(total_months, 12), " + ".join(sorted(used_patterns))
+
 
 def extract_experience(text: str, log_path: str = None) -> Tuple[int, int, str, str]:
     # 1) Try explicit statement in text

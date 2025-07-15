@@ -1,23 +1,3 @@
-PDF Filename: 10-ResumeAQIBZAIB-2y.pdf
-Name (Extracted): Aqib Zaib
-Experience Score: 15.00
-<<<<<<< HEAD
-Skill Score: 21.54 (Matched: javascript, git, react.js, tailwind css, redux, css, react)
-=======
-Skill Score: 21.54 (Matched: tailwind css, css, git, react.js, react, redux, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 10.00
-Total Score: 66.54
-Experience Extraction Method: date_range
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- SUMMARY ---
-01/2023 - 03/2023 +Remote
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 AQIB ZAIB
 Frontend Developer
 (+92) 3040505345 @ chaqib4u@gmail.com
@@ -26,7 +6,6 @@ SUMMARY FemSol
 01/2023 - 03/2023 +Remote
 An ambitious Front-End Developer eager to contribute
 Internship in React.js
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 expertise in front-end technologies. Skilled in complex, up-to- Responsibilities:
 date programming languages and web planning, with a strong
 Develop web pages based on Figma mock-ups.
@@ -36,21 +15,6 @@ approach to marketing and problem-solving. A strong product that meets the desir
 communicator who collaborates effectively, adaptable, and a
 driven team player with a solid work ethic. Codematics
 11/2022 - 01/2023 +Abottabad
-<<<<<<< HEAD
-
---- SKILLS ---
-Responsibilities:
-Responsible for design and development of the web
-Next JS React Js Redux Toolkit Tailwind Css pages from mock-ups.
-...........................................................................................................................................
-device cross-browser compatible.
-Materail UI JAVASCRIPT HTML5 CSS3 Git
-
---- EXPERIENCE ---
-An ambitious Front-End Developer eager to contribute
-Internship in React.js
-Designed pre-existing project according to the cross-
-=======
 SKILLS Internship in Vue.JS
 Responsibilities:
 Responsible for design and development of the web
@@ -61,7 +25,6 @@ device cross-browser compatible.
 Materail UI JAVASCRIPT HTML5 CSS3 Git
 Certifications
 EXPERIENCE
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Advance React Js
 Funsol Technologies Feb/2023 +Scrimba
 URL: https://scrimba.com/certificate/uz3DZEHM/greact
@@ -69,23 +32,6 @@ URL: https://scrimba.com/certificate/uz3DZEHM/greact
 ....................................................................................................
 Frontend Developer (Next Js)
 Next.js 15 & React -
-<<<<<<< HEAD
-Super VPN Landing Page: A responsive page built with React and Tailwind
-Geo VPN Landing Page: A responsive page built with React and Tailwind
-Frontend Developer (Next Js && React Js)
-Internship in React.js
-Internship in Vue.JS
-Designed pre-existing project according to the cross-
-Frontend Developer
-Super VPN Landing Page: A responsive page built with React and Tailwind 09/2018 - 08/2022
-Geo VPN Landing Page: A responsive page built with React and Tailwind
-Frontend Developer (Next Js && React Js)
-An ambitious Front-End Developer eager to contribute
-Frontend Developer
-Frontend Developer (Next Js)
-
---- PROJECTS ---
-=======
 Projects:
 Funsol API Dashboard: A platform for managing APIs, media content, and The Complete Guide
 user interactions, including AI art generation, media enhancements, event
@@ -165,7 +111,6 @@ Islamabad
 +
 Frontend Developer (Next Js)
 Projects:
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Funsol API Dashboard: A platform for managing APIs, media content, and
 user interactions, including AI art generation, media enhancements, event
 tracking, and content uploads.
@@ -178,25 +123,17 @@ AI CV Maker Platform (In Progress): Enables users to enhance image
 quality, view before-and-after comparisons, explore AI tools, read
 testimonials, and easily download enhanced images
 Technologies: Next Js Tailwind Css React Hook Form
-<<<<<<< HEAD
-CSS, highlighting features like privacy protection, global access, and user
-testimonials.
-=======
 Super VPN Landing Page: A responsive page built with React and Tailwind
 CSS, highlighting features like privacy protection, global access, and user
 testimonials.
 Geo VPN Landing Page: A responsive page built with React and Tailwind
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 CSS, showcasing privacy protection, fast speeds, and global access, with a
 focus on ease of use.
 Funsol Technologies
 08/2023 - 07/2024
 Abbotabad
 +
-<<<<<<< HEAD
-=======
 Frontend Developer (Next Js && React Js)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Responsibilities:
 Develop web pages based on Figma mock-ups.
 Ensure a professional approach to deliver a final product that meets the
@@ -207,21 +144,12 @@ Abottabad
 01/2023 - 03/2023
 Remote
 +
-<<<<<<< HEAD
-=======
 Internship in React.js
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Responsibilities:
 Develop web pages based on Figma mock-ups.
 Ensure a professional approach to deliver a final
 product that meets the desired standards.
 FemSol
-<<<<<<< HEAD
-Responsibilities:
-Responsible for design and development of the web
-pages from mock-ups.
-device cross-browser compatible.
-=======
 Internship in Vue.JS
 Responsibilities:
 Responsible for design and development of the web
@@ -229,7 +157,6 @@ pages from mock-ups.
 Designed pre-existing project according to the cross-
 device cross-browser compatible.
 https://aqib-zaib-frontend-dev.vercel.app/
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Islamabad
 Materail UI
 Feb/2023
@@ -247,49 +174,6 @@ ecf3b250-4ff3-49fd-adb4-300636098c83/
 +
 AQIB ZAIB
 
-<<<<<<< HEAD
-
-
-
-
-Islamabad
-
---- EDUCATION ---
-download enhanced images easily.
-Technologies: Next Js Tailwind Css React Query React Hook Form
-BS SOFTWARE
-AI CV Maker Platform (In Progress): Enables users to enhance image ENGINEERING
-quality, view before-and-after comparisons, explore AI tools, read CGPA
-testimonials, and easily download enhanced images COMSAT UNIVERSITY
-Technologies: Next Js Tailwind Css React Hook Form ISLAMBAD,ABBOTABAD 2.9 / 4.0
-CAMPUS
-CSS, highlighting features like privacy protection, global access, and user
-testimonials.
-FIND ME ONLINE
-CSS, showcasing privacy protection, fast speeds, and global access, with a
-LinkedIn
-focus on ease of use.
-Codeband
-08/2023 - 07/2024 + Abbotabad GitHub
-Responsibilities:
-Develop web pages based on Figma mock-ups.
-Ensure a professional approach to deliver a final product that meets the
-desired standards.
-11/2022 - 01/2023
-Codematics
-09/2018 - 08/2022
-COMSAT UNIVERSITY
-ISLAMBAD,ABBOTABAD
-CAMPUS
-CGPA
-BS SOFTWARE
-
---- CERTIFICATIONS ---
-HTML5
-CSS3
-Git
-Next JS
-=======
 Frontend Developer
 
 (+92) 3040505345
@@ -303,42 +187,12 @@ Islamabad
 SUMMARY
 
 An ambitious Front-End Developer eager to contribute
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 expertise in front-end technologies. Skilled in complex, up-to-
 date programming languages and web planning, with a strong
 focus on security. Innovative and resourceful, with a proactive
 approach to marketing and problem-solving. A strong
 communicator who collaborates effectively, adaptable, and a
 driven team player with a solid work ethic.
-<<<<<<< HEAD
-2.9 / 4.0
-ENGINEERING
-GitHub
-LinkedIn
-AQIB ZAIB
-...........................................................................................................................................
-Redux Toolkit
-Tailwind Css
-React Js
-JAVASCRIPT
-07/2024 - continue
-Islamabad
-+
-
---- PORTFOLIO ---
-https://aqib-zaib-frontend-dev.vercel.app/
-https://aqib-zaib-frontend-dev.vercel.app/
-https://github.com/aqibzaib
-https://github.com/aqibzaib
-
---- CONTACT ---
-(+92) 3040505345
-@   chaqib4u@gmail.com
-https://www.linkedin.com/in/aqib-zaib-/
-(+92) 3040505345
-@   chaqib4u@gmail.com
-https://www.linkedin.com/in/aqib-zaib-/
-=======
 
 SKILLS
 
@@ -493,4 +347,5 @@ https://www.linkedin.com/in/aqib-zaib-/
 GitHub
 
 https://github.com/aqibzaib
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

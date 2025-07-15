@@ -1,42 +1,16 @@
 PDF Filename: 21-ResumeRehmanZeb2y+.pdf
 Name (Extracted): Resumerehmanzeb2Y+
 Experience Score: 7.50
-<<<<<<< HEAD
-Skill Score: 18.46 (Matched: javascript, git, react.js, tailwind css, css, react)
-=======
-Skill Score: 18.46 (Matched: tailwind css, css, git, react.js, react, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Skill Score: 18.46 (Matched: css, javascript, react.js, tailwind css, git, react)
 Education Score: 20.00
 Profile Score: 8.00
 Total Score: 53.96
 Experience Extraction Method: date_range
 
-<<<<<<< HEAD
 ===== Extracted Resume Text =====
 
 --- SKILLS ---
 Languages: HTML5, CSS3, JavaScript IgTechservices.com Sept 2024 -- Present
-=======
-===== RAW EXTRACTED RESUME TEXT =====
-R E H M A N Z E B
-WEB DEVELOPER
-CONTACT PROFILE
-Motivated BS in Computer Science graduate, skilled in React JS web development
-+92 311 9449029
-and proficient in UI design principles. Enthusiastic about applying expertise to
-create visually captivating and intuitive interfaces, aiming to make a significant
-rehmanzeb2k17@gmail.com
-contribution to a progressive organization. Seeking an engaging role where I can
-utilize my web development and UI design skills to foster innovation and deliver
-https://www.linkedin.com/in/rehmanzeb/
-outstanding digital experiences for clients and users.
-Swabi, Pakistan
-WORK EXPERIENCE
-SKILLS
-React Developer
-Languages: HTML5, CSS3, JavaScript IgTechservices.com Sept 2024 -- Present
-Frameworks/Libraries: React.js,Next.js Currently working as a React JS Developer at igtechservices.com, I am responsible
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 for developing robust and user-centric web applications using modern technologies,
 Version Control: Git
 with a focus on seamless API integration and UI optimization, using React js/ts,
@@ -45,22 +19,12 @@ Responsive Design: Bootstrap ,
 Integrated RESTful APIs for enhanced functionality and seamless data
 Tailwind css
 management.
-<<<<<<< HEAD
 requirements.
 Soft Skills: Team Collaboration, Optimized performance and user experience through efficient coding practices.
 Communication, Problem Solving
 Techcreator.co Feb 2023 -- Aug 2024
 
 --- EDUCATION ---
-=======
-Collaboration: Jira, Slack Designed and implemented interactive user interfaces tailored to business
-requirements.
-Soft Skills: Team Collaboration, Optimized performance and user experience through efficient coding practices.
-Communication, Problem Solving
-React Web Developer
-Techcreator.co Feb 2023 -- Aug 2024
-EDUCATION Worked as a React JS Developer at Techcreator.co, I was responsible for developing
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 and maintaining web applications using React.js, HTML5, CSS3, and JavaScript.
 Collaborating with cross-functional teams, I gathered requirements, design user
 F.sc (pre-engineering)
@@ -73,70 +37,38 @@ Collaborated with cross-functional teams to conceptualize, design, and
 implement innovative solutions to enhance user experience.
 BS Computer Science
 Contributed to the optimization of website performance and responsiveness
-<<<<<<< HEAD
-=======
-International Islamic University, through efficient coding practices and troubleshooting.
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Actively participated in code reviews, providing constructive feedback and
 Islamabad
 suggestions to enhance code quality and maintainability.
 2017-2021
-<<<<<<< HEAD
 Techcreator.co Nov 2022 -- Feb 2023
 web applications using React.js, HTML5, CSS3, and JavaScript. I collaborated with
 the development team to implement new features, troubleshoot issues, and
-=======
-React Developer Internee
-Techcreator.co Nov 2022 -- Feb 2023
-As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
-web applications using React.js, HTML5, CSS3, and JavaScript. I collaborated with
-the development team to implement new features, troubleshoot issues, and
-optimize application performance. This internship provided me with valuable
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 LANGUAGES insights into the React JS development process and enhanced my skills in frontend
 development..
 English Gained valuable hands-on experience in software development methodologies,
 tools, and technologies.
-<<<<<<< HEAD
-=======
-Assisted senior developers in designing, coding, testing, and debugging web
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Urdu
 applications.
 Demonstrated strong problem-solving skills and attention to detail in resolving
 Hindi
 technical issues and challenges.
 R E H M A N Z E B
-<<<<<<< HEAD
 CONTACT EXPERTISE
 interfaces using React JS, HTML5, CSS3, and JavaScript.
 UI/UX Design: Skilled in applying user-centered design principles to create
 visually appealing and intuitive user interfaces.
-=======
-WEB DEVELOPER
-CONTACT EXPERTISE
-+92 311 9449029 Frontend Development: Proficient in building dynamic and responsive web
-interfaces using React JS, HTML5, CSS3, and JavaScript.
-rehmanzeb2k17@gmail.com
-UI/UX Design: Skilled in applying user-centered design principles to create
-visually appealing and intuitive user interfaces.
-https://www.linkedin.com/in/rehmanzeb/
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Problem Solving: Strong analytical and troubleshooting skills with a track record
 Swabi, Pakistan
 of efficiently resolving technical challenges.
 Collaboration: Effective communicator and team player with the ability to
 collaborate with cross-functional teams to achieve project goals.
-<<<<<<< HEAD
 Motivated BS in Computer Science graduate, skilled in React JS web development
 BS Computer Science
 Motivated BS in Computer Science graduate, skilled in React JS web development
 BS Computer Science
 
 --- CERTIFICATIONS ---
-=======
-CERTIFICATIONS
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 NACTTC - ISLAMABAD
 Advanced Web Development
 [March - September 2022]
@@ -146,12 +78,6 @@ Javascript Intermediate
 English
 Urdu
 Hindi
-<<<<<<< HEAD
-=======
-+92 311 9449029
-rehmanzeb2k17@gmail.com
-https://www.linkedin.com/in/rehmanzeb/
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Swabi, Pakistan
 C O N T A C T
 P R O F I L E
@@ -162,29 +88,17 @@ Languages: HTML5, CSS3, JavaScript
 Frameworks/Libraries: React.js,Next.js
 Version Control: Git
 Responsive Design: Bootstrap ,
-<<<<<<< HEAD
 Tailwind css
-=======
- Tailwind css
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 F.sc (pre-engineering)
 Pakistan School and College,
 Swabi
 2015-2017
-<<<<<<< HEAD
 Techcreator.co
 and  maintaining  web  applications  using  React.js,  HTML5,  CSS3,  and  JavaScript
-=======
-React Web Developer
-Techcreator.co
-Worked as a React JS Developer at Techcreator.co, I was responsible for developing
- and  maintaining  web  applications  using  React.js,  HTML5,  CSS3,  and  JavaScript
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 . Collaboratin g wit h cross-functiona l teams , I gathere d requirements , desig n us
 er interface s, a nd impleme nt n ew featur es to enhan ce t he functionali ty a nd u
 ser experience of the applications.
 Spearheaded the development of user-friendly interfaces for various web
-<<<<<<< HEAD
 applications utilizing React.js .
 Collaborated with cross-functional teams to conceptualize, design, and
 implement innovative solutions to enhance user experience.
@@ -196,26 +110,11 @@ Feb 2023 -- Aug 2024
 and proficient in UI design principles. Enthusiastic about applying expertise t
 o create visually captivating and intuitive interfaces, aiming to make a significa
 nt contribution to a progressive organization. Seeking an engaging role where I
-=======
- applications utilizing React.js .
-Collaborated with cross-functional teams to conceptualize, design, and
- implement innovative solutions to enhance user experience.
-Contributed to the optimization of website performance and responsiveness
- through efficient coding practices and troubleshooting.
-Actively participated in code reviews, providing constructive feedback and
- suggestions to enhance code quality and maintainability.
-Feb 2023 -- Aug 2024
-Motivated BS in Computer Science graduate, skilled in React JS web development
- and proficient in UI design principles. Enthusiastic about applying expertise t
-o create visually captivating and intuitive interfaces, aiming to make a significa
-nt contribution to a progressive organization. Seeking an engaging role where I 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 can utilize my web development and UI design skills to foster innovation and del
 iver outstanding digital experiences for clients and users.
 L A N G U A G E S
 R E H M A N  Z E B
 W E B  D E V E L O P E R
-<<<<<<< HEAD
 Techcreator.co
 web applications using React.js, HTML5, CSS3, and JavaScript. I collaborated wit
 h the development team to implement new features, troubleshoot issues, a
@@ -242,7 +141,359 @@ management.
 requirements.
 Optimized performance and user experience through efficient coding practices.
 
-=======
+Swabi, Pakistan
+C O N T A C T
+E X P E R T I S E
+C E R T I F I C A T I O N S
+NACTTC - ISLAMABAD
+Advanced Web Development
+[March - September 2022]
+Frontend Development: Proficient in building dynamic and responsive web
+interfaces using React JS, HTML5, CSS3, and JavaScript.
+UI/UX Design: Skilled in applying user-centered design principles to create
+visually appealing and intuitive user interfaces.
+Problem Solving: Strong analytical and troubleshooting skills with a track record
+of efficiently resolving technical challenges.
+Collaboration: Effective communicator and team player with the ability to
+collaborate with cross-functional teams to achieve project goals.
+R E H M A N  Z E B
+W E B  D E V E L O P E R
+Sololearn.com
+Javascript Intermediate
+[February 2024]
+R E H M A N   Z E B
+
+W E B   D E V E L O P E R
+
+C O N T A C T
+
+P R O F I L E
+
+
+
+
+Swabi, Pakistan
+
+and proficient in UI design principles. Enthusiastic about applying expertise to
+create visually captivating and intuitive interfaces, aiming to make a significant
+contribution to a progressive organization. Seeking an engaging role where I can
+utilize my web development and UI design skills to foster innovation and deliver
+outstanding digital experiences for clients and users.
+
+S K I L L S
+
+Languages: HTML5, CSS3, JavaScript
+
+Frameworks/Libraries: React.js,Next.js
+
+Version Control: Git
+
+Responsive Design: Bootstrap ,
+Tailwind css
+
+Collaboration: Jira, Slack
+
+Soft Skills: Team Collaboration,
+Communication, Problem Solving
+
+E D U C A T I O N
+
+F.sc (pre-engineering)
+
+Pakistan School and College,
+Swabi
+2015-2017
+
+
+Islamabad
+
+2017-2021
+
+L A N G U A G E S
+
+English
+
+Urdu
+
+Hindi
+
+W O R K   E X P E R I E N C E
+
+IgTechservices.com
+
+Sept 2024 -- Present
+
+for developing robust and user-centric web applications using modern technologies,
+with a focus on seamless API integration and UI optimization, using React js/ts,
+Mantine UI, Tailwind CSS etc.
+
+Integrated RESTful APIs for enhanced functionality and seamless data
+management.
+requirements.
+Optimized performance and user experience through efficient coding practices.
+
+Techcreator.co
+
+Feb 2023 -- Aug 2024
+
+and  maintaining  web  applications  using  React.js,  HTML5,  CSS3,  and  JavaScript.
+Collaborating  with  cross-functional  teams,  I  gathered  requirements,  design  user
+interfaces,  and  implement  new  features  to  enhance  the  functionality  and  user
+
+--- EXPERIENCE ---
+React Developer
+Frameworks/Libraries: React.js,Next.js Currently working as a React JS Developer at igtechservices.com, I am responsible
+Collaboration: Jira, Slack Designed and implemented interactive user interfaces tailored to business
+React Web Developer
+International Islamic University, through efficient coding practices and troubleshooting.
+React Developer Internee
+As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
+optimize application performance. This internship provided me with valuable
+Assisted senior developers in designing, coding, testing, and debugging web
+WEB DEVELOPER
+React Web Developer
+Worked as a React JS Developer at Techcreator.co, I was responsible for developing
+React Developer Internee
+As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
+nd optimize application performance. This internship provided me with valua
+Assisted senior developers in designing, coding, testing, and debugging web
+International Islamic University,
+React Developer
+Currently working as a React JS Developer at igtechservices.com, I am responsible
+Designed and implemented interactive user interfaces tailored to business
+International Islamic University,
+React Developer
+Currently working as a React JS Developer at igtechservices.com, I am responsible
+Designed and implemented interactive user interfaces tailored to business
+React Web Developer
+Worked as a React JS Developer at Techcreator.co, I was responsible for developing
+Spearheaded the development of user-friendly interfaces for various web
+applications utilizing React.js .
+Collaborated with cross-functional teams to conceptualize, design, and
+implement innovative solutions to enhance user experience.
+Contributed to the optimization of website performance and responsiveness
+through efficient coding practices and troubleshooting.
+Actively participated in code reviews, providing constructive feedback and
+suggestions to enhance code quality and maintainability.
+
+React Developer Internee
+Techcreator.co
+
+Nov 2022 -- Feb 2023
+
+As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
+web applications using React.js, HTML5, CSS3, and JavaScript. I collaborated with
+the development team to implement new features, troubleshoot issues, and
+optimize application performance. This internship provided me with valuable
+insights into the React JS development process and enhanced my skills in frontend
+development..
+
+Gained valuable hands-on experience in software development methodologies,
+tools, and technologies.
+Assisted senior developers in designing, coding, testing, and debugging web
+applications.
+Demonstrated strong problem-solving skills and attention to detail in resolving
+technical issues and challenges.
+
+
+R E H M A N   Z E B
+
+W E B   D E V E L O P E R
+
+E X P E R T I S E
+
+Frontend Development: Proficient in building dynamic and responsive web
+interfaces using React JS, HTML5, CSS3, and JavaScript.
+
+UI/UX Design: Skilled in applying user-centered design principles to create
+visually appealing and intuitive user interfaces.
+
+Problem Solving: Strong analytical and troubleshooting skills with a track record
+of efficiently resolving technical challenges.
+
+Collaboration: Effective communicator and team player with the ability to
+collaborate with cross-functional teams to achieve project goals.
+
+C O N T A C T
+
+
+
+
+Swabi, Pakistan
+
+C E R T I F I C A T I O N S
+
+NACTTC - ISLAMABAD
+
+Advanced Web Development
+
+[March - September 2022]
+
+Sololearn.com
+
+Javascript Intermediate
+
+[February 2024]
+
+--- CONTACT ---
++92 311 9449029 Frontend Development: Proficient in building dynamic and responsive web
+rehmanzeb2k17@gmail.com
+https://www.linkedin.com/in/rehmanzeb/
++92 311 9449029
+rehmanzeb2k17@gmail.com
+https://www.linkedin.com/in/rehmanzeb/
++92 311 9449029
+rehmanzeb2k17@gmail.com
+https://www.linkedin.com/in/rehmanzeb/
++92 311 9449029
+rehmanzeb2k17@gmail.com
+https://www.linkedin.com/in/rehmanzeb/
++92 311 9449029
+rehmanzeb2k17@gmail.com
+https://www.linkedin.com/in/rehmanzeb/
+
+--- UNKNOWN ---
+CONTACT PROFILE
+WORK EXPERIENCE
+SKILLS
+EDUCATION Worked as a React JS Developer at Techcreator.co, I was responsible for developing
+CERTIFICATIONS
+experience of the applications.
+
+===== RAW EXTRACTED RESUME TEXT =====
+R E H M A N Z E B
+WEB DEVELOPER
+CONTACT PROFILE
+Motivated BS in Computer Science graduate, skilled in React JS web development
++92 311 9449029
+and proficient in UI design principles. Enthusiastic about applying expertise to
+create visually captivating and intuitive interfaces, aiming to make a significant
+rehmanzeb2k17@gmail.com
+contribution to a progressive organization. Seeking an engaging role where I can
+utilize my web development and UI design skills to foster innovation and deliver
+https://www.linkedin.com/in/rehmanzeb/
+outstanding digital experiences for clients and users.
+Swabi, Pakistan
+WORK EXPERIENCE
+SKILLS
+React Developer
+Languages: HTML5, CSS3, JavaScript IgTechservices.com Sept 2024 -- Present
+Frameworks/Libraries: React.js,Next.js Currently working as a React JS Developer at igtechservices.com, I am responsible
+for developing robust and user-centric web applications using modern technologies,
+Version Control: Git
+with a focus on seamless API integration and UI optimization, using React js/ts,
+Mantine UI, Tailwind CSS etc.
+Responsive Design: Bootstrap ,
+Integrated RESTful APIs for enhanced functionality and seamless data
+Tailwind css
+management.
+Collaboration: Jira, Slack Designed and implemented interactive user interfaces tailored to business
+requirements.
+Soft Skills: Team Collaboration, Optimized performance and user experience through efficient coding practices.
+Communication, Problem Solving
+React Web Developer
+Techcreator.co Feb 2023 -- Aug 2024
+EDUCATION Worked as a React JS Developer at Techcreator.co, I was responsible for developing
+and maintaining web applications using React.js, HTML5, CSS3, and JavaScript.
+Collaborating with cross-functional teams, I gathered requirements, design user
+F.sc (pre-engineering)
+interfaces, and implement new features to enhance the functionality and user
+Pakistan School and College, experience of the applications.
+Swabi Spearheaded the development of user-friendly interfaces for various web
+applications utilizing React.js .
+2015-2017
+Collaborated with cross-functional teams to conceptualize, design, and
+implement innovative solutions to enhance user experience.
+BS Computer Science
+Contributed to the optimization of website performance and responsiveness
+International Islamic University, through efficient coding practices and troubleshooting.
+Actively participated in code reviews, providing constructive feedback and
+Islamabad
+suggestions to enhance code quality and maintainability.
+2017-2021
+React Developer Internee
+Techcreator.co Nov 2022 -- Feb 2023
+As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
+web applications using React.js, HTML5, CSS3, and JavaScript. I collaborated with
+the development team to implement new features, troubleshoot issues, and
+optimize application performance. This internship provided me with valuable
+LANGUAGES insights into the React JS development process and enhanced my skills in frontend
+development..
+English Gained valuable hands-on experience in software development methodologies,
+tools, and technologies.
+Assisted senior developers in designing, coding, testing, and debugging web
+Urdu
+applications.
+Demonstrated strong problem-solving skills and attention to detail in resolving
+Hindi
+technical issues and challenges.
+R E H M A N Z E B
+WEB DEVELOPER
+CONTACT EXPERTISE
++92 311 9449029 Frontend Development: Proficient in building dynamic and responsive web
+interfaces using React JS, HTML5, CSS3, and JavaScript.
+rehmanzeb2k17@gmail.com
+UI/UX Design: Skilled in applying user-centered design principles to create
+visually appealing and intuitive user interfaces.
+https://www.linkedin.com/in/rehmanzeb/
+Problem Solving: Strong analytical and troubleshooting skills with a track record
+Swabi, Pakistan
+of efficiently resolving technical challenges.
+Collaboration: Effective communicator and team player with the ability to
+collaborate with cross-functional teams to achieve project goals.
+CERTIFICATIONS
+NACTTC - ISLAMABAD
+Advanced Web Development
+[March - September 2022]
+Sololearn.com
+Javascript Intermediate
+[February 2024]
+English
+Urdu
+Hindi
++92 311 9449029
+rehmanzeb2k17@gmail.com
+https://www.linkedin.com/in/rehmanzeb/
+Swabi, Pakistan
+C O N T A C T
+P R O F I L E
+S K I L L S
+E D U C A T I O N
+W O R K  E X P E R I E N C E
+Languages: HTML5, CSS3, JavaScript
+Frameworks/Libraries: React.js,Next.js
+Version Control: Git
+Responsive Design: Bootstrap ,
+ Tailwind css
+F.sc (pre-engineering)
+Pakistan School and College,
+Swabi
+2015-2017
+React Web Developer
+Techcreator.co
+Worked as a React JS Developer at Techcreator.co, I was responsible for developing
+ and  maintaining  web  applications  using  React.js,  HTML5,  CSS3,  and  JavaScript
+. Collaboratin g wit h cross-functiona l teams , I gathere d requirements , desig n us
+er interface s, a nd impleme nt n ew featur es to enhan ce t he functionali ty a nd u
+ser experience of the applications.
+Spearheaded the development of user-friendly interfaces for various web
+ applications utilizing React.js .
+Collaborated with cross-functional teams to conceptualize, design, and
+ implement innovative solutions to enhance user experience.
+Contributed to the optimization of website performance and responsiveness
+ through efficient coding practices and troubleshooting.
+Actively participated in code reviews, providing constructive feedback and
+ suggestions to enhance code quality and maintainability.
+Feb 2023 -- Aug 2024
+Motivated BS in Computer Science graduate, skilled in React JS web development
+ and proficient in UI design principles. Enthusiastic about applying expertise t
+o create visually captivating and intuitive interfaces, aiming to make a significa
+nt contribution to a progressive organization. Seeking an engaging role where I 
+can utilize my web development and UI design skills to foster innovation and del
+iver outstanding digital experiences for clients and users.
+L A N G U A G E S
+R E H M A N  Z E B
+W E B  D E V E L O P E R
 React Developer Internee
 Techcreator.co
 As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
@@ -281,7 +532,6 @@ Optimized performance and user experience through efficient coding practices.
 +92 311 9449029
 rehmanzeb2k17@gmail.com
 https://www.linkedin.com/in/rehmanzeb/
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Swabi, Pakistan
 C O N T A C T
 E X P E R T I S E
@@ -290,15 +540,6 @@ NACTTC - ISLAMABAD
 Advanced Web Development
 [March - September 2022]
 Frontend Development: Proficient in building dynamic and responsive web
-<<<<<<< HEAD
-interfaces using React JS, HTML5, CSS3, and JavaScript.
-UI/UX Design: Skilled in applying user-centered design principles to create
-visually appealing and intuitive user interfaces.
-Problem Solving: Strong analytical and troubleshooting skills with a track record
-of efficiently resolving technical challenges.
-Collaboration: Effective communicator and team player with the ability to
-collaborate with cross-functional teams to achieve project goals.
-=======
  interfaces using React JS, HTML5, CSS3, and JavaScript.
 UI/UX Design: Skilled in applying user-centered design principles to create
  visually appealing and intuitive user interfaces.
@@ -306,7 +547,6 @@ Problem Solving: Strong analytical and troubleshooting skills with a track recor
  of efficiently resolving technical challenges.
 Collaboration: Effective communicator and team player with the ability to
  collaborate with cross-functional teams to achieve project goals.
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 R E H M A N  Z E B
 W E B  D E V E L O P E R
 Sololearn.com
@@ -320,13 +560,6 @@ C O N T A C T
 
 P R O F I L E
 
-<<<<<<< HEAD
-
-
-
-Swabi, Pakistan
-
-=======
 +92 311 9449029
 
 rehmanzeb2k17@gmail.com
@@ -336,7 +569,6 @@ https://www.linkedin.com/in/rehmanzeb/
 Swabi, Pakistan
 
 Motivated BS in Computer Science graduate, skilled in React JS web development
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 and proficient in UI design principles. Enthusiastic about applying expertise to
 create visually captivating and intuitive interfaces, aiming to make a significant
 contribution to a progressive organization. Seeking an engaging role where I can
@@ -356,11 +588,7 @@ Tailwind css
 
 Collaboration: Jira, Slack
 
-<<<<<<< HEAD
-Soft Skills: Team Collaboration,
-=======
  Soft Skills: Team Collaboration,
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Communication, Problem Solving
 
 E D U C A T I O N
@@ -371,13 +599,9 @@ Pakistan School and College,
 Swabi
 2015-2017
 
-<<<<<<< HEAD
-
-=======
 BS Computer Science
 
 International Islamic University,
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Islamabad
 
 2017-2021
@@ -392,80 +616,33 @@ Hindi
 
 W O R K   E X P E R I E N C E
 
-<<<<<<< HEAD
-IgTechservices.com
-
-Sept 2024 -- Present
-
-=======
 React Developer
 IgTechservices.com
 
 Sept 2024 -- Present  
 
 Currently working as a React JS Developer at igtechservices.com, I am responsible
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 for developing robust and user-centric web applications using modern technologies,
 with a focus on seamless API integration and UI optimization, using React js/ts,
 Mantine UI, Tailwind CSS etc.
 
 Integrated RESTful APIs for enhanced functionality and seamless data
 management.
-<<<<<<< HEAD
-requirements.
-Optimized performance and user experience through efficient coding practices.
-
-=======
 Designed and implemented interactive user interfaces tailored to business
 requirements.
 Optimized performance and user experience through efficient coding practices.
 
 React Web Developer
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Techcreator.co
 
 Feb 2023 -- Aug 2024
 
-<<<<<<< HEAD
-and  maintaining  web  applications  using  React.js,  HTML5,  CSS3,  and  JavaScript.
-Collaborating  with  cross-functional  teams,  I  gathered  requirements,  design  user
-interfaces,  and  implement  new  features  to  enhance  the  functionality  and  user
-
---- EXPERIENCE ---
-React Developer
-Frameworks/Libraries: React.js,Next.js Currently working as a React JS Developer at igtechservices.com, I am responsible
-Collaboration: Jira, Slack Designed and implemented interactive user interfaces tailored to business
-React Web Developer
-International Islamic University, through efficient coding practices and troubleshooting.
-React Developer Internee
-As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
-optimize application performance. This internship provided me with valuable
-Assisted senior developers in designing, coding, testing, and debugging web
-WEB DEVELOPER
-React Web Developer
-Worked as a React JS Developer at Techcreator.co, I was responsible for developing
-React Developer Internee
-As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
-nd optimize application performance. This internship provided me with valua
-Assisted senior developers in designing, coding, testing, and debugging web
-International Islamic University,
-React Developer
-Currently working as a React JS Developer at igtechservices.com, I am responsible
-Designed and implemented interactive user interfaces tailored to business
-International Islamic University,
-React Developer
-Currently working as a React JS Developer at igtechservices.com, I am responsible
-Designed and implemented interactive user interfaces tailored to business
-React Web Developer
-Worked as a React JS Developer at Techcreator.co, I was responsible for developing
-=======
 Worked as a React JS Developer at Techcreator.co, I was responsible for developing
 and  maintaining  web  applications  using  React.js,  HTML5,  CSS3,  and  JavaScript.
 Collaborating  with  cross-functional  teams,  I  gathered  requirements,  design  user
 interfaces,  and  implement  new  features  to  enhance  the  functionality  and  user
 experience of the applications.
 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Spearheaded the development of user-friendly interfaces for various web
 applications utilizing React.js .
 Collaborated with cross-functional teams to conceptualize, design, and
@@ -478,11 +655,7 @@ suggestions to enhance code quality and maintainability.
 React Developer Internee
 Techcreator.co
 
-<<<<<<< HEAD
-Nov 2022 -- Feb 2023
-=======
 Nov 2022 -- Feb 2023 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 As a React JS Intern at Techcreator.co, I gained hands-on experience in developing
 web applications using React.js, HTML5, CSS3, and JavaScript. I collaborated with
@@ -498,12 +671,7 @@ applications.
 Demonstrated strong problem-solving skills and attention to detail in resolving
 technical issues and challenges.
 
-<<<<<<< HEAD
-
-R E H M A N   Z E B
-=======
 R E H M A N   Z E B
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 W E B   D E V E L O P E R
 
@@ -523,16 +691,11 @@ collaborate with cross-functional teams to achieve project goals.
 
 C O N T A C T
 
-<<<<<<< HEAD
-
-
-=======
 +92 311 9449029
 
 rehmanzeb2k17@gmail.com
 
 https://www.linkedin.com/in/rehmanzeb/
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 Swabi, Pakistan
 
@@ -549,23 +712,3 @@ Sololearn.com
 Javascript Intermediate
 
 [February 2024]
-<<<<<<< HEAD
-
---- CONTACT ---
-+92 311 9449029 Frontend Development: Proficient in building dynamic and responsive web
-rehmanzeb2k17@gmail.com
-https://www.linkedin.com/in/rehmanzeb/
-+92 311 9449029
-rehmanzeb2k17@gmail.com
-https://www.linkedin.com/in/rehmanzeb/
-+92 311 9449029
-rehmanzeb2k17@gmail.com
-https://www.linkedin.com/in/rehmanzeb/
-+92 311 9449029
-rehmanzeb2k17@gmail.com
-https://www.linkedin.com/in/rehmanzeb/
-+92 311 9449029
-rehmanzeb2k17@gmail.com
-https://www.linkedin.com/in/rehmanzeb/
-=======
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

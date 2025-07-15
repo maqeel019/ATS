@@ -1,23 +1,3 @@
-PDF Filename: 22-ResumeSaadAhmad-1y.pdf
-Name (Extracted): Saad Ahmad
-Experience Score: 6.67
-<<<<<<< HEAD
-Skill Score: 24.62 (Matched: javascript, git, react.js, html, tailwind css, redux, css, react)
-=======
-Skill Score: 24.62 (Matched: tailwind css, css, html, git, react.js, react, redux, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 10.00
-Total Score: 61.28
-Experience Extraction Method: date_range
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- EXPERIENCE ---
-TechSol Hub | Jan 2025- Present
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 923176830879
 SAAD AHMAD
 saadahmad6830879@gmail.com
@@ -33,7 +13,6 @@ Associate Software Engineer BS Computer Science
 COMSATS University Islamabad
 TechSol Hub | Jan 2025- Present
 July 2024
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Worked on multiple MERN stack projects, managing both frontend
 •
 and backend development.
@@ -59,56 +38,6 @@ and backend tasks.
 React.js and Tailwind CSS.
 • Gained hands-on experience with Git & GitHub for version control and
 collaboration.
-<<<<<<< HEAD
-Results-driven Software Engineer with a strong foundation in full-stack web development. Experienced in developing
-
---- SKILLS ---
-•
-Frontend: React.js, JavaScript, Redux, Tailwind CSS, HTML, CSS
-•
-Backend: Node.js, Express.js, REST APIs, Authentication &
-Authorization
-•
-Database: MongoDB, SQL, Firebase
-•
-Development Tools: Git, GitHub, Postman
-•
-Other: Data Structures & Algorithms (DSA), Python, Flutter
-SAAD AHMAD
-S O F T W A R E   D E V E L O P E R
-
-923176830879
-
-
-
-
-PROFESSIONAL OVERVIEW
-scalable applications using the MERN stack. Passionate about problem-solving, system design, and creating seamless
-user  experiences.  Adept  at  implementing  authentication,  role-based  access,  and  optimizing  frontend  and  backend
-workflows. A continuous learner, always eager to explore new technologies and enhance development efficiency.
-
---- EDUCATION ---
-COMSATS University Islamabad
-BS Computer Science
-COMSATS University Islamabad
-July 2024
-
-PROFESSIONAL
-DEVELOPMENT
-
-Career  Essentials  in  Generative
-AI by Microsoft and LinkedIn
-Microsoft
-Jul 2023
-Associate Software Engineer BS Computer Science
-
---- CONTACT ---
-saadahmad6830879@gmail.com
-linkedin.com/in/saadahmad879
-
---- PORTFOLIO ---
-github.com/SaADii09
-=======
 SKILLS
 • Frontend: React.js, JavaScript, Redux, Tailwind CSS, HTML, CSS
 • Backend: Node.js, Express.js, REST APIs, Authentication &
@@ -272,5 +201,14 @@ Authorization
 
 •  Database: MongoDB, SQL, Firebase 
 •  Development Tools: Git, GitHub, Postman 
-•  Other: Data Structures & Algorithms (DSA), Python, Flutter
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+•  Other: Data Structures & Algorithms (DSA), Python, Flutter 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

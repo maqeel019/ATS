@@ -1,43 +1,3 @@
-PDF Filename: 11-ResumeEJAZAHMAD.pdf
-Name (Extracted): Ejaz Ahmad
-Experience Score: 20.00
-<<<<<<< HEAD
-Skill Score: 15.38 (Matched: typescript, html, rest api, react, css)
-=======
-Skill Score: 15.38 (Matched: css, typescript, react, html, rest api)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 8.00
-Total Score: 63.38
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- EXPERIENCE ---
-React JS Developer
-Fistix-Multan
-July 2023 to Present
-
-currently working at fistix as react and node js developer
-
-Frontend Developer
-it zonetch-Multan
-May 2023 to July 2023
-
-work as frontend internee
-
---- EDUCATION ---
-MCS
-Islamia university of Bahwalpur
-2020 to 2022
-
-university of central Punjab
-2017 to 2019
-
---- SKILLS ---
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 EJAZ AHMAD
 Lahore
 ayanejaz420fwisg_dpy@indeedemail.com
@@ -94,7 +54,6 @@ Islamia university of Bahwalpur
 university of central Punjab
 2017 to 2019
 Skills
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 • React Js (2 years)
 • Prime React
 • MongoDb
@@ -110,16 +69,6 @@ Skills
 • pubsub (1 year)
 
 Links
-<<<<<<< HEAD
-EJAZ AHMAD
-Lahore
-
---- CONTACT ---
-linkedin.com/in/ejaz-ahmad-2359a2247
-linkedin.com/in/ejaz-ahmad-2359a2247?
-ayanejaz420fwisg_dpy@indeedemail.com
-+923313322420
-=======
 linkedin.com/in/ejaz-ahmad-2359a2247
 linkedin.com/in/ejaz-ahmad-2359a2247?
 EJAZ AHMAD
@@ -183,4 +132,5 @@ Skills
 linkedin.com/in/ejaz-ahmad-2359a2247
 
 linkedin.com/in/ejaz-ahmad-2359a2247?
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

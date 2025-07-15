@@ -1,0 +1,295 @@
+PDF Filename: 18-ResumeMuhammadTahaYasin.pdf
+Name (Extracted): About Me
+Experience Score: 30.00
+Skill Score: 21.54 (Matched: javascript, html, git, tailwind css, react, css, react.js)
+Education Score: 20.00
+Profile Score: 5.00
+Total Score: 76.54
+Experience Extraction Method: date_range
+
+===== SEGMENTED SECTIONS =====
+
+--- EXPERIENCE ---
+Matric Frontend Developer (Freelance / Project-Based)
+Fauji Foundation School Remote | Jan 2024 – Present
+Built and delivered a real-world project for a client, including a
+Percentage: 85% responsive UI, form handling, and data display using React.js and
+Tailwind CSS.
+Intermediate Non Medical
+Developed multiple personal and practice projects to strengthen
+Laurreate Academy
+frontend development skills, including a car listing site and garage
+2020-2022
+inventory system.
+Percentage: 70%
+Implemented features like dynamic filtering, CRUD operations,
+custom modals, and sales analytics using Chart.js.
+Practiced version control with Git & GitHub throughout all projects.
+2022-2026
+DIGITAL SKILLS
+SOFT SKILLS
+Frontend Technologies
+HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS,
+Detail Oriented
+Bootstrap
+Problem Solving
+Version Control
+Time Management
+Git, GitHub
+LANGUAGE
+Tools & Platforms
+VS Code, Figma (basic), Chrome DevTools
+English
+Package Managers & Build Tools
+Urdu npm, Yarn, Vite, (basic)
+Front End Developer
+M. TAHA YASIN
+LANGUAGE
+Matric
+Intermediate Non Medical
+Fauji Foundation School
+Laurreate Academy
+2020-2022
+
+--- EDUCATION ---
+Virtual University
+Cgpa: 3.2
+Matric
+
+Fauji Foundation School
+
+2018-2020
+
+Percentage: 85%
+
+About Me
+
+I’m  a  passionate  Software  Engineer
+focused  on  creating
+responsive,  user-friendly  interfaces  using  HTML,  CSS,  JavaScript,
+and  React.  I  enjoy  solving  problems,  writing  clean  code,  and
+continuously improving my skills through real-world projects.
+BS Software Engineering
+
+--- UNKNOWN ---
+03406991719
+mtahayasin07@gmail.com
+I’m a passionate Software Engineer focused on creating
+responsive, user-friendly interfaces using HTML, CSS, JavaScript,
+Muhammad Yasin, Perra Road, Perra
+Colony and React. I enjoy solving problems, writing clean code, and
+EDUCATION
+WORK EXPERIENCE
+Urdu
+and React. I enjoy solving problems, writing clean code, and
+Colony
+npm, Yarn, Vite, (basic)
+Frontend Developer (Freelance / Project-Based)
+Remote | Jan 2024 – Present
+responsive UI, form handling, and data display using React.js and
+Built  and  delivered  a  real-world  project  for  a  client,  including  a
+responsive  UI,  form  handling,  and  data  display  using  React.js  and
+Developed  multiple  personal  and  practice  projects  to  strengthen
+Implemented  features  like  dynamic  filtering,  CRUD  operations,
+
+===== RAW EXTRACTED TEXT =====
+M. TAHA YASIN
+Front End Developer
+About Me
+03406991719
+mtahayasin07@gmail.com
+I’m a passionate Software Engineer focused on creating
+responsive, user-friendly interfaces using HTML, CSS, JavaScript,
+Muhammad Yasin, Perra Road, Perra
+Colony and React. I enjoy solving problems, writing clean code, and
+continuously improving my skills through real-world projects.
+EDUCATION
+WORK EXPERIENCE
+Matric Frontend Developer (Freelance / Project-Based)
+Fauji Foundation School Remote | Jan 2024 – Present
+Built and delivered a real-world project for a client, including a
+2018-2020
+Percentage: 85% responsive UI, form handling, and data display using React.js and
+Tailwind CSS.
+Intermediate Non Medical
+Developed multiple personal and practice projects to strengthen
+Laurreate Academy
+frontend development skills, including a car listing site and garage
+2020-2022
+inventory system.
+Percentage: 70%
+Implemented features like dynamic filtering, CRUD operations,
+BS Software Engineering
+custom modals, and sales analytics using Chart.js.
+Virtual University
+Practiced version control with Git & GitHub throughout all projects.
+2022-2026
+Cgpa: 3.2
+DIGITAL SKILLS
+SOFT SKILLS
+Frontend Technologies
+HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS,
+Detail Oriented
+Bootstrap
+Problem Solving
+Version Control
+Time Management
+Git, GitHub
+LANGUAGE
+Tools & Platforms
+VS Code, Figma (basic), Chrome DevTools
+English
+Package Managers & Build Tools
+Urdu npm, Yarn, Vite, (basic)
+Front End Developer
+M. TAHA YASIN
+LANGUAGE
+Matric
+Intermediate Non Medical
+Fauji Foundation School
+Laurreate Academy
+2018-2020
+2020-2022
+EDUCATION
+English
+Urdu
+I’m a passionate Software Engineer focused on creating
+responsive, user-friendly interfaces using HTML, CSS, JavaScript,
+and React. I enjoy solving problems, writing clean code, and
+continuously improving my skills through real-world projects.
+About Me
+WORK EXPERIENCE
+Muhammad Yasin, Perra Road, Perra
+Colony
+mtahayasin07@gmail.com
+03406991719
+BS Software Engineering
+Virtual University
+2022-2026
+Percentage: 85%
+Percentage: 70%
+Cgpa: 3.2
+DIGITAL SKILLS
+Frontend Technologies
+HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS,
+Bootstrap
+Version Control
+Git, GitHub
+Tools & Platforms
+VS Code, Figma (basic), Chrome DevTools
+Package Managers & Build Tools
+npm, Yarn, Vite, (basic)
+SOFT SKILLS
+Detail Oriented
+Problem Solving
+Time Management
+Frontend Developer (Freelance / Project-Based)
+ Remote | Jan 2024 – Present
+Built and delivered a real-world project for a client, including a
+responsive UI, form handling, and data display using React.js and
+Tailwind CSS.
+Developed multiple personal and practice projects to strengthen
+frontend development skills, including a car listing site and garage
+inventory system.
+Implemented features like dynamic filtering, CRUD operations,
+custom modals, and sales analytics using Chart.js.
+Practiced version control with Git & GitHub throughout all projects.
+M. TAHA YASIN
+Front End Developer
+
+03406991719
+
+mtahayasin07@gmail.com
+
+Muhammad Yasin, Perra Road, Perra
+Colony
+
+EDUCATION
+
+Matric
+
+Fauji Foundation School
+
+2018-2020
+
+Percentage: 85%
+
+About Me
+
+I’m  a  passionate  Software  Engineer 
+focused  on  creating
+responsive,  user-friendly  interfaces  using  HTML,  CSS,  JavaScript,
+and  React.  I  enjoy  solving  problems,  writing  clean  code,  and
+continuously improving my skills through real-world projects.
+
+WORK EXPERIENCE
+
+Frontend Developer (Freelance / Project-Based)
+
+ Remote | Jan 2024 – Present
+
+Built  and  delivered  a  real-world  project  for  a  client,  including  a
+
+responsive  UI,  form  handling,  and  data  display  using  React.js  and
+
+Intermediate Non Medical
+
+Tailwind CSS.
+
+Laurreate Academy
+
+2020-2022
+
+Percentage: 70%
+
+BS Software Engineering
+Virtual University
+
+2022-2026
+Cgpa: 3.2
+
+SOFT SKILLS
+
+Detail Oriented
+
+Problem Solving
+
+Time Management
+
+LANGUAGE
+
+English
+
+Urdu
+
+Developed  multiple  personal  and  practice  projects  to  strengthen
+
+frontend development skills, including a car listing site and garage
+
+inventory system.
+
+Implemented  features  like  dynamic  filtering,  CRUD  operations,
+
+custom modals, and sales analytics using Chart.js.
+
+Practiced version control with Git & GitHub throughout all projects.
+
+DIGITAL SKILLS
+
+Frontend Technologies
+
+HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS,
+
+Bootstrap
+
+Version Control
+
+Git, GitHub
+
+Tools & Platforms
+
+VS Code, Figma (basic), Chrome DevTools
+
+Package Managers & Build Tools
+
+npm, Yarn, Vite, (basic)

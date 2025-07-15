@@ -15,10 +15,7 @@ def extract_text_pdfplumber(path):
         return None
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 def extract_text_fitz(path):
     """Fallback text extraction using PyMuPDF."""
     try:
@@ -45,12 +42,9 @@ def extract_text_pdfminer_wrapper(path):
     except Exception as e:
         print(f"[pdfminer] Failed to extract text: {e}")
         return ""
-<<<<<<< HEAD
-=======
 
 
 # path = "./candidates/23-ResumeSamiUllah3y.pdf"
-
 
 # print(f"Extracting text from {path} using pdfplumber")
 
@@ -58,4 +52,3 @@ def extract_text_pdfminer_wrapper(path):
 # text = extract_text_pdfplumber(path)
 # print("\n--- Extracted Text ---")
 # print(text)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

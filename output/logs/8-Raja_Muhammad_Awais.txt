@@ -7,7 +7,6 @@ Profile Score: 5.00
 Total Score: 28.08
 Experience Extraction Method: none
 
-<<<<<<< HEAD
 ===== Extracted Resume Text =====
 
 --- EDUCATION ---
@@ -59,49 +58,6 @@ This work not only advances academic research but also has practical implication
 and network management.
 
 --- SKILLS ---
-=======
-===== RAW EXTRACTED RESUME TEXT =====
-Raja Muhammad Awais
-Nationality: Pakistani Phone number: (+92) 3155406093 (Mobile) Email address:
-muhammadawaisturk1@gmail.com LinkedIn: https://shorturl.at/ASflG Address: Abbottabad , Pakistan (Home)
-ABOUT ME
-I am a creative problem-solver with a passion for finding solutions using both technical skills and innovative thinking I
-work well in fast-paced environments and always look for ways to improve processes and performance My focus is on
-delivering high-quality results with attention to detail ensuring continuous improvement and long-term success
-EDUCATION AND TRAINING
-2020 – 2024 Abbottabad, Pakistan
-BS COMPUTER SCIENCE Abbottabad University Of Science And Technology
-Websiteaust.edu.pk
-2016 – 2018
-FSC Government Higher Secondary School Harno Abbottabad
-2014 – 2016
-MATRICULATION The Learning Post School System Dhamtour Abbottabad
-PROJECTS
-2023 – 2024
-Application Classification Using Deep Packet Inspection
-This project focuses on classifying applications through Deep Packet Inspection (DPI). By examining network traffic at a
-detailed level, the system categorizes applications based on their data patterns and behaviors. The results are then
-visualized using the ELK stack (Elasticsearch, Logstash, Kibana), providing comprehensive insights and real-time
-monitoring capabilities. My responsibilities include configuring DPI tools for accurate classification, setting up the ELK
-stack for effective data visualization, and ensuring seamless integration for actionable insights.
-HONOURS AND AWARDS
-15/07/2023
-Certificate of Participation - Ubuntu, DPDK, NDPI, ELK Workshop – University of Engineering and
-Technology, Taxila
-Successfully completed a comprehensive 3-day workshop focused on Ubuntu, Data Plane Development Kit (DPDK),
-Network Deep Packet Inspection (NDPI), and the ELK stack. The workshop provided hands-on experience with these
-powerful tools and frameworks, enhancing skills in networking, data analysis, and system optimization.
-Linkhttps://shorturl.at/tUUNG
-CREATIVE WORKS
-CURRENT
-Contributing to MPhil Research: Application Classification and Identification Using Machine Learning
-Actively involved in an MPhil research project focused on the classification and identification of applications using
-machine learning techniques. My contributions include developing and fine-tuning machine learning models, analyzing
-large datasets, and applying advanced algorithms to improve the accuracy and efficiency of the classification process.
-This work not only advances academic research but also has practical implications in enhancing application security
-and network management.
-SKILLS
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 ELASTIC STACK (ELK) DPDK SIEM Tools: Wazuh, OSSEC, Splunk Network Security Risk Analysis Linux (Red Hat,
 Debian) - Ability to work with several operating systems: Windows 10/8.1/8/7/XP, Mac OS, Ubuntu/Linux. Python
 Language - Basic knowledge Server management on VMware infrastructures SPLUNK firewalls Configuration
@@ -122,7 +78,6 @@ Dr. Muhammad Zeeshan has been a significant mentor and academic guide throughout
 University of Science and Technology. His expertise in cyber security and his supportive guidance have greatly
 influenced my academic and professional development. Dr. Zeeshan can provide valuable insights into my skills, work
 ethic, and contributions to various projects and research.
-<<<<<<< HEAD
 Dr. Asim Shahzad Assistant Professor
 Asim Shahzad has been an influential faculty member in the Computer Science department at Abbottabad University
 of Science and Technology. Expert in Machine Learning and Classification.
@@ -145,41 +100,10 @@ FSC Government Higher Secondary School Harno Abbottabad
 MATRICULATION The Learning Post School System Dhamtour Abbottabad
 2023 – 2024
 Application Classification Using Deep Packet Inspection
-=======
-Email zeeshan@aust.edu.pk Phone (+92) 3145216133
-Dr. Asim Shahzad Assistant Professor
-Asim Shahzad has been an influential faculty member in the Computer Science department at Abbottabad University
-of Science and Technology. Expert in Machine Learning and Classification.
-Email asimshahzad@aust.edu.pk
-Dr. Gohar Zaman Assistant Professor
-PhD in Data Science. Specializes in advanced data analysis techniques and statistical modeling
-Email goharzaman@aust.edu.pk
-Raja Muhammad Awais 
-Nationality: Pakistani
- Phone number: (+92) 3155406093 (Mobile) 
- Email address: 
-muhammadawaisturk1@gmail.com 
- LinkedIn: https://shorturl.at/ASflG 
- Address: Abbottabad , Pakistan (Home) 
- 
-I am a creative problem-solver with a passion for finding solutions using both technical skills and innovative thinking I
-work well in fast-paced environments and always look for ways to improve processes and performance My focus is on
-delivering high-quality results with attention to detail ensuring continuous improvement and long-term success
-2020 – 2024 Abbottabad, Pakistan 
-BS COMPUTER SCIENCE Abbottabad University Of Science And Technology 
-Website aust.edu.pk 
-2016 – 2018 
-FSC Government Higher Secondary School Harno Abbottabad 
-2014 – 2016 
-MATRICULATION The Learning Post School System Dhamtour Abbottabad 
-2023 – 2024 
-Application Classification Using Deep Packet Inspection 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 This project focuses on classifying applications through Deep Packet Inspection (DPI). By examining network traffic at a
 detailed level, the system categorizes applications based on their data patterns and behaviors. The results are then
 visualized using the ELK stack (Elasticsearch, Logstash, Kibana), providing comprehensive insights and real-time
 monitoring capabilities. My responsibilities include configuring DPI tools for accurate classification, setting up the ELK
-<<<<<<< HEAD
 stack for effective data visualization, and ensuring seamless integration for actionable insights.
 15/07/2023
 Certificate of Participation - Ubuntu, DPDK, NDPI, ELK Workshop – University of Engineering and
@@ -189,23 +113,11 @@ Network Deep Packet Inspection (NDPI), and the ELK stack. The workshop provided 
 powerful tools and frameworks, enhancing skills in networking, data analysis, and system optimization.
 Link https://shorturl.at/tUUNG
 CURRENT
-=======
-stack for effective data visualization, and ensuring seamless integration for actionable insights. 
-15/07/2023 
-Certificate of Participation - Ubuntu, DPDK, NDPI, ELK Workshop – University of Engineering and
-Technology, Taxila 
-Successfully completed a comprehensive 3-day workshop focused on Ubuntu, Data Plane Development Kit (DPDK),
-Network Deep Packet Inspection (NDPI), and the ELK stack. The workshop provided hands-on experience with these
-powerful tools and frameworks, enhancing skills in networking, data analysis, and system optimization. 
-Link https://shorturl.at/tUUNG 
-CURRENT 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Contributing to MPhil Research: Application Classification and Identification Using Machine Learning
 Actively involved in an MPhil research project focused on the classification and identification of applications using
 machine learning techniques. My contributions include developing and fine-tuning machine learning models, analyzing
 large datasets, and applying advanced algorithms to improve the accuracy and efficiency of the classification process.
 This work not only advances academic research but also has practical implications in enhancing application security
-<<<<<<< HEAD
 and network management.
 ELASTIC STACK (ELK)
 DPDK
@@ -260,7 +172,156 @@ LinkedIn: https://shorturl.at/ASﬂG
 Address: Abbottabad , Pakistan (Home)
 
 ABOUT ME
-=======
+
+I am a creative problem-solver with a passion for ﬁnding solutions using both technical skills and innovative thinking I
+work well in fast-paced environments and always look for ways to improve processes and performance My focus is on
+delivering high-quality results with attention to detail ensuring continuous improvement and long-term success
+
+--- CONTACT ---
+Email zeeshan@aust.edu.pk Phone (+92) 3145216133
+Email asimshahzad@aust.edu.pk
+Email goharzaman@aust.edu.pk
+Phone number: (+92) 3155406093 (Mobile)
+muhammadawaisturk1@gmail.com
+Email zeeshan@aust.edu.pk
+Phone (+92) 3145216133
+Email asimshahzad@aust.edu.pk
+Email goharzaman@aust.edu.pk
+Phone number: (+92) 3155406093 (Mobile)
+muhammadawaisturk1@gmail.com
+
+--- UNKNOWN ---
+Nationality: Pakistani Phone number: (+92) 3155406093 (Mobile) Email address:
+muhammadawaisturk1@gmail.com LinkedIn: https://shorturl.at/ASflG Address: Abbottabad , Pakistan (Home)
+EDUCATION AND TRAINING
+Websiteaust.edu.pk
+PROJECTS
+Linkhttps://shorturl.at/tUUNG
+SKILLS
+Language - Basic knowledge
+Server management on VMware infrastructures
+SPLUNK
+firewalls Configuration
+CI/CD (Gitlab CI)
+CI /CD
+Experience in the application monitoring with ELK Stack Prometheus
+ﬁrewalls Conﬁguration
+CI /CD  Experience in the application monitoring with ELK Stack Prometheus
+Proﬁciency in conﬁguring and managing OSSIM, Graylog, Wazuh and
+Mother tongue(s):
+URDU
+Dr. Muhammad Zeeshan has been a signiﬁcant mentor and academic guide throughout my time at Abbottabad
+inﬂuenced my academic and professional development. Dr. Zeeshan can provide valuable insights into my skills, work
+Asim Shahzad has been an inﬂuential faculty member in the Computer Science department at Abbottabad University
+of Science and Technology. Expert in Machine Learning and Classiﬁcation.
+
+===== RAW EXTRACTED RESUME TEXT =====
+Raja Muhammad Awais
+Nationality: Pakistani Phone number: (+92) 3155406093 (Mobile) Email address:
+muhammadawaisturk1@gmail.com LinkedIn: https://shorturl.at/ASflG Address: Abbottabad , Pakistan (Home)
+ABOUT ME
+I am a creative problem-solver with a passion for finding solutions using both technical skills and innovative thinking I
+work well in fast-paced environments and always look for ways to improve processes and performance My focus is on
+delivering high-quality results with attention to detail ensuring continuous improvement and long-term success
+EDUCATION AND TRAINING
+2020 – 2024 Abbottabad, Pakistan
+BS COMPUTER SCIENCE Abbottabad University Of Science And Technology
+Websiteaust.edu.pk
+2016 – 2018
+FSC Government Higher Secondary School Harno Abbottabad
+2014 – 2016
+MATRICULATION The Learning Post School System Dhamtour Abbottabad
+PROJECTS
+2023 – 2024
+Application Classification Using Deep Packet Inspection
+This project focuses on classifying applications through Deep Packet Inspection (DPI). By examining network traffic at a
+detailed level, the system categorizes applications based on their data patterns and behaviors. The results are then
+visualized using the ELK stack (Elasticsearch, Logstash, Kibana), providing comprehensive insights and real-time
+monitoring capabilities. My responsibilities include configuring DPI tools for accurate classification, setting up the ELK
+stack for effective data visualization, and ensuring seamless integration for actionable insights.
+HONOURS AND AWARDS
+15/07/2023
+Certificate of Participation - Ubuntu, DPDK, NDPI, ELK Workshop – University of Engineering and
+Technology, Taxila
+Successfully completed a comprehensive 3-day workshop focused on Ubuntu, Data Plane Development Kit (DPDK),
+Network Deep Packet Inspection (NDPI), and the ELK stack. The workshop provided hands-on experience with these
+powerful tools and frameworks, enhancing skills in networking, data analysis, and system optimization.
+Linkhttps://shorturl.at/tUUNG
+CREATIVE WORKS
+CURRENT
+Contributing to MPhil Research: Application Classification and Identification Using Machine Learning
+Actively involved in an MPhil research project focused on the classification and identification of applications using
+machine learning techniques. My contributions include developing and fine-tuning machine learning models, analyzing
+large datasets, and applying advanced algorithms to improve the accuracy and efficiency of the classification process.
+This work not only advances academic research but also has practical implications in enhancing application security
+and network management.
+SKILLS
+ELASTIC STACK (ELK) DPDK SIEM Tools: Wazuh, OSSEC, Splunk Network Security Risk Analysis Linux (Red Hat,
+Debian) - Ability to work with several operating systems: Windows 10/8.1/8/7/XP, Mac OS, Ubuntu/Linux. Python
+Language - Basic knowledge Server management on VMware infrastructures SPLUNK firewalls Configuration
+CI/CD (Gitlab CI) CI /CD Experience in the application monitoring with ELK Stack Prometheus Cloud (AWS,
+Oracle Cloud Infrastructure) Ubuntu / AWS Proficiency in configuring and managing OSSIM, Graylog, Wazuh and
+TheHive GIT version control, Linux Command Linux (Terminal Commands, Bash/Shell) DevOps: AWS, Git.
+LANGUAGE SKILLS
+Mother tongue(s): URDU
+Other language(s): ENGLISH
+HOBBIES AND INTERESTS
+Lover of Literature, Philosophy & Human Psychology
+I am a lifelong learner with a particular interest in how literature philosophy, and psychology intersect. I explore how
+literary narratives shape human emotions and ideas how philosophy challenges our moral and existential beliefs and
+how psychology helps us understand the mind and behavior
+RECOMMENDATIONS
+Dr Muhammad Zeeshan Assistant Professor
+Dr. Muhammad Zeeshan has been a significant mentor and academic guide throughout my time at Abbottabad
+University of Science and Technology. His expertise in cyber security and his supportive guidance have greatly
+influenced my academic and professional development. Dr. Zeeshan can provide valuable insights into my skills, work
+ethic, and contributions to various projects and research.
+Email zeeshan@aust.edu.pk Phone (+92) 3145216133
+Dr. Asim Shahzad Assistant Professor
+Asim Shahzad has been an influential faculty member in the Computer Science department at Abbottabad University
+of Science and Technology. Expert in Machine Learning and Classification.
+Email asimshahzad@aust.edu.pk
+Dr. Gohar Zaman Assistant Professor
+PhD in Data Science. Specializes in advanced data analysis techniques and statistical modeling
+Email goharzaman@aust.edu.pk
+Raja Muhammad Awais 
+Nationality: Pakistani
+ Phone number: (+92) 3155406093 (Mobile) 
+ Email address: 
+muhammadawaisturk1@gmail.com 
+ LinkedIn: https://shorturl.at/ASflG 
+ Address: Abbottabad , Pakistan (Home) 
+ 
+I am a creative problem-solver with a passion for finding solutions using both technical skills and innovative thinking I
+work well in fast-paced environments and always look for ways to improve processes and performance My focus is on
+delivering high-quality results with attention to detail ensuring continuous improvement and long-term success
+2020 – 2024 Abbottabad, Pakistan 
+BS COMPUTER SCIENCE Abbottabad University Of Science And Technology 
+Website aust.edu.pk 
+2016 – 2018 
+FSC Government Higher Secondary School Harno Abbottabad 
+2014 – 2016 
+MATRICULATION The Learning Post School System Dhamtour Abbottabad 
+2023 – 2024 
+Application Classification Using Deep Packet Inspection 
+This project focuses on classifying applications through Deep Packet Inspection (DPI). By examining network traffic at a
+detailed level, the system categorizes applications based on their data patterns and behaviors. The results are then
+visualized using the ELK stack (Elasticsearch, Logstash, Kibana), providing comprehensive insights and real-time
+monitoring capabilities. My responsibilities include configuring DPI tools for accurate classification, setting up the ELK
+stack for effective data visualization, and ensuring seamless integration for actionable insights. 
+15/07/2023 
+Certificate of Participation - Ubuntu, DPDK, NDPI, ELK Workshop – University of Engineering and
+Technology, Taxila 
+Successfully completed a comprehensive 3-day workshop focused on Ubuntu, Data Plane Development Kit (DPDK),
+Network Deep Packet Inspection (NDPI), and the ELK stack. The workshop provided hands-on experience with these
+powerful tools and frameworks, enhancing skills in networking, data analysis, and system optimization. 
+Link https://shorturl.at/tUUNG 
+CURRENT 
+Contributing to MPhil Research: Application Classification and Identification Using Machine Learning
+Actively involved in an MPhil research project focused on the classification and identification of applications using
+machine learning techniques. My contributions include developing and fine-tuning machine learning models, analyzing
+large datasets, and applying advanced algorithms to improve the accuracy and efficiency of the classification process.
+This work not only advances academic research but also has practical implications in enhancing application security
 and network management. 
 ELASTIC STACK (ELK)
  DPDK
@@ -334,26 +395,11 @@ muhammadawaisturk1@gmail.com
  Address: Abbottabad , Pakistan (Home) 
 
 ABOUT ME 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 I am a creative problem-solver with a passion for ﬁnding solutions using both technical skills and innovative thinking I
 work well in fast-paced environments and always look for ways to improve processes and performance My focus is on
 delivering high-quality results with attention to detail ensuring continuous improvement and long-term success
 
-<<<<<<< HEAD
---- CONTACT ---
-Email zeeshan@aust.edu.pk Phone (+92) 3145216133
-Email asimshahzad@aust.edu.pk
-Email goharzaman@aust.edu.pk
-Phone number: (+92) 3155406093 (Mobile)
-muhammadawaisturk1@gmail.com
-Email zeeshan@aust.edu.pk
-Phone (+92) 3145216133
-Email asimshahzad@aust.edu.pk
-Email goharzaman@aust.edu.pk
-Phone number: (+92) 3155406093 (Mobile)
-muhammadawaisturk1@gmail.com
-=======
 EDUCATION AND TRAINING
 
 2020 – 2024 Abbottabad, Pakistan 
@@ -485,4 +531,3 @@ Dr. Gohar Zaman Assistant Professor
 PhD in Data Science. Specializes in advanced data analysis techniques and statistical modeling
 
 Email goharzaman@aust.edu.pk
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

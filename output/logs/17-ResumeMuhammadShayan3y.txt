@@ -1,83 +1,3 @@
-PDF Filename: 17-ResumeMuhammadShayan3y.pdf
-Name (Extracted): Muhammad Shayan
-Experience Score: 19.17
-<<<<<<< HEAD
-Skill Score: 15.38 (Matched: material ui, javascript, typescript, redux, react)
-=======
-Skill Score: 15.38 (Matched: typescript, react, material ui, redux, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 10.00
-Profile Score: 8.00
-Total Score: 52.55
-Experience Extraction Method: date_range
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- SUMMARY ---
-TrinityPad by utilizing technologies like Next.js, MongoDB, and Node.js. My expertise includes crafting responsive, SEO-optimized web
-
-applications, integrating third-party APIs, and enhancing user experiences through seamless front-end designs in React and
-
-TypeScript.
-
---- EXPERIENCE ---
-I am a full-stack web developer with over three years of experience, proficient in both frontend and backend development,
-specializing in the MERN stack and React Native Expo. I have successfully built and launched platforms such as RoboDialog and
-Contact
-Website: https://shayanalibakhsh.online
-Location: Islamabad Pakistan ( Willing to Relocate )
-I am a full-stack web developer with over three years of experience, proficient in both frontend and backend development,
-specializing in the MERN stack and React Native Expo. I have successfully built and launched platforms such as RoboDialog and
-TrinityPad by utilizing technologies like Next.js, MongoDB, and Node.js. My expertise includes crafting responsive, SEO-optimized web
-applications, integrating third-party APIs, and enhancing user experiences through seamless front-end designs in React and
-TypeScript.
-Authornate
-Mid-Senior Full Stack Developer
-Pakistan, Islamabad (Onsite)
-Nov 2024 - Present
-D Contributed in TrinityPad, a web and mobile platform for blockchain-based project investments, implementing Privy for
-authentication, ethers.js for web3 transactions, and a TypeScript-based backend using Express.js and Firebase)
-D Played a crucial role in GameGPT, implementing frontend designs and integrating Web3 smart contracts, including successful
-deployment on the Ethereum testnet, facilitating an auction feature used by 1,000+ users)
-D Led web3 authentication and secure transaction handling, ensuring seamless integration with blockchain technology)
-D Actively collaborated on UI/UX design in Figma, contributing to user-friendly and visually engaging interfaces.
-RoboDialog
-Founder
-Pakistan Remote
-Feb 2024 - Present
-D Developed a full-stack web platform using Next.js, Node.js, and MongoDB, ensuring seamless integration of AI chatbot services)
-D Architected scalable back-end systems with MongoDB, utilizing indexing, reducing database query times by 40% under heavy
-load)
-D Implemented Vector Database using FAISS, Hugging Face Vector Model and Langchain for RAG Model in Node.j
-D Designed highly responsive, pixel-perfect frontend interfaces using React and Next.js)
-D Implemented secure authentication and tokenization, protecting user data and enhancing application security in compliance
-with industry standards)
-D Deployed and managed the platform on VPS hosting, optimizing server performance and maintaining 99.9% uptime.
-SMB DigitalZone
-Lead Full Stack Web Developer
-UAE, Dubai Remote
-Oct 2023 - Feb 2024
-D Built scalable web applications using Next.js, Cloudinary, Node.js, and MongoDB, ensuring smooth frontend-backend
-synchronization and a 20% improvement in page load speed)
-D Integrated Major social media for connecting accounts and posting to their platforms like Facebook, Youtube, TikTok , Twitter, etc)
-D Implemented JWT-based authentication and OAuth for third-party logins, significantly enhancing user security and data
-protection)
-D Designed and developed E-commerce, blog, company, and other websites with improved security and SEO optimization)
-D Collaborated closely with product managers and designers, delivering detailed and highly optimized UI/UX experiences.
-SUMIAKA HR
-Junior Full Stack Web Developer
-United States Remote
-August 2023 – September 2023
-D Developed comprehensive HR management tools, ensuring an intuitive user interface with React and Material-UI for enhanced
-productivity)
-D Collaborated with the design team on Figma to create user-friendly interfaces.
-CERTIFIED BY
-GOOGLE META
-
---- EDUCATION ---
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 CERTIFIED BY
 MUHAMMAD SHAYAN
 GOOGLE META
@@ -175,7 +95,6 @@ Used MongoDB indexing and optimized queries to improve database performance, lea
 responsiveness 
 Designed and developed full-stack applications with a focus on frontend precision and backend scalability
 Education
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Microverse
 
 United States Remote
@@ -188,14 +107,6 @@ Fazaia Degree Collage
 Pakistan
 
 Higher school January 2020– March 2022
-<<<<<<< HEAD
-
---- SKILLS ---
-Frontend: React, React Native, Next.js , Typescript
-
-
-Backend: Node.js, Express , Socket.io
-=======
 Skills
 Frontend: React, React Native, Next.js , Typescript
 Backend: Node.js, Express , Socket.io
@@ -519,7 +430,6 @@ Frontend: React, React Native, Next.js , Typescript
 
 
 Backend: Node.js, Express , Socket.io 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 
 Database: Firebase, MongoDB, AWS, Cloudinary, Vector FAISS
@@ -527,21 +437,10 @@ Database: Firebase, MongoDB, AWS, Cloudinary, Vector FAISS
 
 Pakistan
 
-<<<<<<< HEAD
-January 2020– March 2022
-
-Other Tools & Methods: Ethers.js, Shopify, Figma , GitHub, Context-API, Stripe, Material UI, Styled-components, Graph API, Third party
-
-integrations, Google Maps API, Hostinger VPS hosting.
-
---- CONTACT ---
-Phone / Whatsapp : +92-3168104861
-Linkedin: https://www.linkedin.com/in/shayan-khan20/
-Email : kshayan091@gmail.com
-=======
  January 2020– March 2022
 
 Other Tools & Methods: Ethers.js, Shopify, Figma , GitHub, Context-API, Stripe, Material UI, Styled-components, Graph API, Third party 
 
 integrations, Google Maps API, Hostinger VPS hosting.
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

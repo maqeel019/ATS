@@ -1,22 +1,3 @@
-PDF Filename: Shubham_Mishra_Resume_10-08-2022-16-06-13.pdf
-Name (Extracted): Shubham Mishra
-Experience Score: 30.00
-<<<<<<< HEAD
-Skill Score: 6.15 (Matched: rest api, git)
-=======
-Skill Score: 6.15 (Matched: git, rest api)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 5.00
-Total Score: 61.15
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- EXPERIENCE ---
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 Shubham Mishra
 Data Engineer
 shubham.mishra@gmail.com 9876543210 LinkedIn Github Bengalore Karnataka
@@ -198,7 +179,6 @@ Significant experience in large-scale and enterprise-level deployments.
 
 PROFESSIONAL EXPERIENCE
 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Senior Data Engineer, Mu Sigma
 
 AVIVA Life Insurance
@@ -218,26 +198,11 @@ Britannia Industries Ltd
 
 Data Ingestion & Sync Process
 
-<<<<<<< HEAD
-Tech Stack: – Python, Hive, ElasticSearch, Scala Play Framework, SBT, EMR, Lambda, DynamoDB, Azkaban,
-=======
 Tech Stack: – Python, Hive, ElasticSearch, Scala Play Framework, SBT, EMR, Lambda, DynamoDB, Azkaban, 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Jenkins
 
 Crafted data-sync logic by prioritizing datasets (High/Medium/Low tag) based upon criticality to meet SLO
 
-<<<<<<< HEAD
-Built preemption logic to prioritize highly critical datasets when multiple low-priority sync processes are
-running
-Designed Rest API in data ingestion for retention of GA data in order to optimize cluster space
-Added exception handling scenarios in data sync logic to fix multiple bugs
-Fix for missing PG data from Kafka for UMP panel - Created a new pipeline to ingest missing data from HDFS to
-ElasticSearch in case of cluster failure
-
-
-Data Engineer, Amazon
-=======
 Built preemption logic to prioritize highly critical datasets when multiple low-priority sync processes are 
 running
  Designed Rest API in data ingestion for retention of GA data in order to optimize cluster space
@@ -246,7 +211,6 @@ Fix for missing PG data from Kafka for UMP panel - Created a new pipeline to ing
 ElasticSearch in case of cluster failure
 
 Data Engineer, Amazon
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Salesforce to Redshift Ingestion - Migration from Informatica to Native AWS
 
 04/2017 – 09/2020  |  Hyderabad, India
@@ -255,26 +219,13 @@ Tech Stack – Salesforce, Informatica, S3, Lambda, Glue, AppFlow, Redshift, SNS
 
 - Crafted generic scalable Native AWS solution for Salesforce to Redshift ingestion
 - It helped to move ingestion pipelines from third-party tool Informatica and saved cost for the heavy license fee
-<<<<<<< HEAD
-- This generic framework helped other business units for smooth ingestion of newly onboarded Salesforce
-=======
 - This generic framework helped other business units for smooth ingestion of newly onboarded Salesforce 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 objects into a Redshift Data lake
 
 Near Real-Time Data Pipeline
 
 Tech Stack – Java, Spark, Kafka, Datastax Cassandra, Datastax studio, Zookeeper, Maven
 
-<<<<<<< HEAD
-- Crafted a Cassandra based real time ingestion pipeline for marketplace data in order to help DWH team to
-reduce request.
-load from production MySQL. The Objective was to shift business users from production, to overcome data leaks
-& security issues.
-- Interacted with different business users to know about their use cases, ingestion tables, PII data and built data
-models accordingly for faster insertion/updation of data.
-- Setup web interface Datastax Studio for users to query real-time data from Cassandra using LDAP
-=======
 - Crafted a Cassandra based real time ingestion pipeline for marketplace data in order to help DWH team to 
 reduce request.
 load from production MySQL. The Objective was to shift business users from production, to overcome data leaks 
@@ -282,7 +233,6 @@ load from production MySQL. The Objective was to shift business users from produ
 - Interacted with different business users to know about their use cases, ingestion tables, PII data and built data 
 models accordingly for faster insertion/updation of data.
 - Setup web interface Datastax Studio for users to query real-time data from Cassandra using LDAP 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 authentication.
 
 Expedia, Data Engineer
@@ -293,57 +243,12 @@ One checkout Platform – Real-time streaming application for Financial data
 Tech Stack – Flink, Python, Kafka, Oracle, Kafka Connect, Docker, AWS, Airflow
 
 - Building one checkout platform for different business domains of Expedia i.e; Vrbo, Hotels, Car Rentals, Lodging
-<<<<<<< HEAD
-- Real-time streaming platform captures & processes financial data for Accounting and helps suppliers to track
-=======
 - Real-time streaming platform captures & processes financial data for Accounting and helps suppliers to track 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 the total amount to be paid via Auto Pay or Request Pay model
 - Crafted a scalable streaming solution using Flink StateFun to handle ~800k booking streams each day
 
 TECHNICAL SKILLS
 
-<<<<<<< HEAD
-Programing Language: (Python, Java Scala, C++, and Linux Scripting),
-Databases (MySQL, Elastic Search, Cassandra, HBase, Hive, SQL Server),
-Distributed Framework (Hadoop, Spark, Kafka, BigQuery),
-Dashboarding & Monitoring Tools (Grafana, Kibana, Power BI), Workflow Management (Airflow, IBM Tivoli),
-AWS Services (S3 bucket, EMR, Lambda, Cloudwatch, DynamoDB, Redshift, MWAA, Glue, SNS, SQS, Code Pipeline,
-ECS, ECR),
-Build Tools & Containers (Docker, Kubernetes),
-Code Management and Documentation (Git, BitBucket, Azure Develops, Circle CI, Travis CI),
-Azure Services (Azure Data Factory, Azure Analytics Tools, Data Lake Analytics, Azure Synapse Analytics, Azure
-Stream Analytics)
-
---- EDUCATION ---
-HSC, Bhavan's College of Arts, Science and Commerce
-06/2009 – 06/2011  | Mumbai, India
-Bachelor of Engineering in Computer Science,
-New Horizon College Of Engineering
-06/2011 – 06/2015  | Prayagraj, India
-
-CERTIFICATES
-AWS certified Solution Architect
-Azure Fundamental
-Azure Data Scientist
-Shubham Mishra  Data Engineer
-
-
-9876543210
-
-LinkedIn
-
-Github
-
-Bengalore Karnataka
-
-PROFILE
-
-Responsible  Data  Engineer,  passionate  about  delivering  outstanding  quality  and  service.  Offering  7  years  of
-
---- CONTACT ---
-shubham.mishra@gmail.com
-=======
 Programing Language: (Python, Java Scala, C++, and Linux Scripting), 
 Databases (MySQL, Elastic Search, Cassandra, HBase, Hive, SQL Server), 
 Distributed Framework (Hadoop, Spark, Kafka, BigQuery), 
@@ -373,4 +278,5 @@ AWS certified Solution Architect
 Azure Data Scientist
 
 Azure Fundamental
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

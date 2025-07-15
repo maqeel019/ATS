@@ -1,32 +1,3 @@
-PDF Filename: Shubham_Mishra_Resume_09-08-2022-16-16-14.pdf
-Name (Extracted): Shubham Mishra
-Experience Score: 30.00
-<<<<<<< HEAD
-Skill Score: 9.23 (Matched: javascript, rest api, git)
-=======
-Skill Score: 9.23 (Matched: git, javascript, rest api)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 5.00
-Total Score: 64.23
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- EXPERIENCE ---
-05/2020 – present
-Bangalore, India
-
-Data Engineer
-Wipro
-
-Salesforce to Redshift Ingestion - Migration from Informatica to Native AWS
-
-Tech Stack – Salesforce, Informatica, S3, Lambda, Glue, AppFlow, Redshift, SNS
-
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 Shubham Mishra
 Data Engineer
 shubham.mishra@gmail.com 9876543210 LinkedIn Github Bengalore Karnataka
@@ -41,24 +12,14 @@ Professional Experience
 Bangalore, India Wipro
 Salesforce to Redshift Ingestion - Migration from Informatica to Native AWS
 Tech Stack – Salesforce, Informatica, S3, Lambda, Glue, AppFlow, Redshift, SNS
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Crafted generic scalable Native AWS solution for Salesforce to Redshift ingestion
 It helped to move ingestion pipelines from third-party tool Informatica and saved
 cost for the heavy license fee
 This generic framework helped other business units for smooth ingestion of newly
 onboarded Salesforce objects into a Redshift Data lake
-<<<<<<< HEAD
-
-Dehleez - Report Scheduling Tool
-
-Tech Stack – Python, JavaScript, Django, Azkaban, Docker, Hive, Ajax, Bootstrap,
-REST API, DataDog
-
-=======
 Dehleez - Report Scheduling Tool
 Tech Stack – Python, JavaScript, Django, Azkaban, Docker, Hive, Ajax, Bootstrap,
 REST API, DataDog
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Enhanced Paytm's proprietary report scheduling tool which is used by business users
 working on data analysis where they can schedule their reports by writing
 HIVE/MySQL/Cassandra queries and report output in various formats
@@ -70,24 +31,12 @@ Dump report output into the S3 bucket - The user can take a dump of report outpu
 into the AWS S3 bucket
 Cassandra Connector - User can schedule reports having Cassandra query panels in
 addition to HIVE/MySQL
-<<<<<<< HEAD
-
-
-01/2019 – 05/2020
-Mumbai, India
-
-Data Engineer
-Capgemini
-=======
 01/2019 – 05/2020 Data Engineer
 Mumbai, India Capgemini
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Länsförsäkringar, or literally County Insurance, is a Swedish group of customer-owned
 insurance companies. The group consists of 23 independent companies, one in each of
 the counties of Sweden (pre-1998 division), that cooperate under a common brand
 name.
-<<<<<<< HEAD
-=======
 Role: SQL and SSIS Developer & SQL Support
 Troubleshoot live bugs and resolved them on production.
 To fulfill the requirement of altering existing objects.
@@ -278,7 +227,6 @@ Länsförsäkringar, or literally County Insurance, is a Swedish group of custom
 insurance companies. The group consists of 23 independent companies, one in each of 
 the counties of Sweden (pre-1998 division), that cooperate under a common brand 
 name. 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 Role:  SQL and SSIS Developer & SQL Support
 
@@ -287,18 +235,11 @@ To fulfill the requirement of altering existing objects.
 Performance tuning using system views & Execution Plan.
 Highly involved in development activities as per requirement from client
 Taking ownership of technical issues, and Handling issues
-<<<<<<< HEAD
-Proper documentation on development and Issues handled providing the Root cause
-of the problem.
-
---- SKILLS ---
-=======
 Proper documentation on development and Issues handled providing the Root cause 
 of the problem.
 
 Skills
 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Programing Language:
 Python, Java Scala, C++, and Linux Scripting
 
@@ -306,11 +247,7 @@ Web Development Framework
 Django, Flask
 
 Databases
-<<<<<<< HEAD
-MySQL, Elastic Search, Cassandra, HBase, Hive,
-=======
 MySQL, Elastic Search, Cassandra, HBase, Hive, 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 SQL Server
 
 Distributed Framework
@@ -320,11 +257,7 @@ Dashboarding & Monitoring Tools
 Grafana, Kibana, Power BI
 
 AWS Services
-<<<<<<< HEAD
-S3 bucket, EMR, Lambda, Cloudwatch, DynamoDB,
-=======
 S3 bucket, EMR, Lambda, Cloudwatch, DynamoDB, 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Redshift, MWAA, Glue, SNS, SQS
 
 Code Management and Documentation
@@ -339,47 +272,6 @@ Docker, Kubernetes
 06/2015 – 06/2018
 Prayagraj, India
 
-<<<<<<< HEAD
-National Institute of Technology Allahabad (MNNIT), U.P
-
---- EDUCATION ---
-06/2015 – 06/2018
-Prayagraj, India
-Master of Computer Applications
-National Institute of Technology Allahabad (MNNIT), U.P
-06/2012 – 06/2015
-Mumbai, India
-Bachelor in Computer Science
-Mumbai University
-Certificates
-AWS certified Database
-specialty
-Azure Fundamental
-AWS certified Solution
-Architect
-Azure Data Scientist
-Shubham Mishra
-Data Engineer
-
-
-9876543210
-
-LinkedIn
-
-Github
-
-Bengalore Karnataka
-
-Profile
-
-3+ years of experience in various projects related to Data Modeling, Data Analysis, Design, and Development
-for  Data  warehousing  environments.  Practical  understanding  of  Data  modeling  concepts  like  Start-Schema
-Modeling.  Snowflake  Schema  Modeling,  Fact  and  Dimension  tables.  Comprehensive  knowledge  and
-Master of Computer Applications
-
---- CONTACT ---
-shubham.mishra@gmail.com
-=======
 Master of Computer Applications
 National Institute of Technology Allahabad (MNNIT), U.P
 
@@ -402,4 +294,5 @@ AWS certified Solution
 Architect
 
 Azure Data Scientist
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+
+

@@ -1,22 +1,3 @@
-PDF Filename: 19-ResumeMuhammadWaqas3y.pdf
-Name (Extracted): Resumemuhammadwaqas3Y
-Experience Score: 30.00
-<<<<<<< HEAD
-Skill Score: 18.46 (Matched: javascript, react.js, html, redux, css, react)
-=======
-Skill Score: 18.46 (Matched: css, html, react.js, react, redux, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
-Education Score: 20.00
-Profile Score: 5.00
-Total Score: 73.46
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- SUMMARY ---
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 Muhammad Waqas (
 Unity Developer/ Finance Graduate/ Computer Science
 Associate)
@@ -25,82 +6,10 @@ Phone: 03126318724
 Current Address: IJP metro station Rawalpindi
 Permanent Address: Gulshan-abad near Army gate no.1, Risalpur cantt – Nowshera
 Professional Summary: Aspiring React.js Frontend Developer with a basic understanding of
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 JavaScript, HTML, and CSS (Tailwind). I have created small projects using React.js and am
 eager to learn and grow. Strong logical thinking and problem-solving skills, with the ability to
 manage multiple tasks efficiently. Passionate about frontend development and motivated to gain
 real-world experience by contributing to practical projects.
-<<<<<<< HEAD
-
---- SKILLS ---
-•  Programming Languages: C#, HTML, JavaScript, CSS(Tailwind), Python
-
-•  Frontend Development: React.js
-
-•  Tools & Platforms: FileZilla, Postman
-
-•  State Management: Redux
-
-•  Version Control: GitHub
-
-•  Problem-Solving: Logical Thinking
-
-•  APIs: API Integration & Development
-
-•  Backend & Databases: AppWrite, Firebase
-
-•  Data Analysis Software: Gretl, SPSS, EViews
-
-•  Microsoft Office: Excel, Word, PowerPoint
-
-•  Game Development:
-
-o  Android: Unity
-
-o  Windows: Unity
-
-o  WebGL: Unity WebGL
-
-o
-
-iOS: Unity
-
-o  Augmented Reality (AR): Vuforia, ARCore
-
-o  Virtual Reality (VR): Unity
-
---- EXPERIENCE ---
-development Skill
-Muhammad Waqas (Unity Developer/ Finance Graduate/ Computer Science
-
---- EDUCATION ---
-Master of Management Science (Finance-18 year edu) from IMSciences, Hayatabad
--Peshawar.
-•
-CGPA 3.6 out of 4
-•
-During my master’s degree, I conducted research on Takaful, which is Islamic insurance.
-
-A) Master of Finance (16 year edu) from IMSciences, Hayatabad-Peshawar.
-•
-3.9 out of 4 CPGA
-•
-Won FEWS scholarship
-•
-I received a gold medal here and stood first in my class.
-•
-During my time here, I conducted my first research related to Takaful, which is an
-Islamic insurance.
-
-B) Bachelor of Science in Computer Science (14 year edu) from Peshawar University.
-•
-79.09% marks
-•
-In BSc Part 1, I secured the first position and received a cash
-award.
-
-
-=======
 Skills:
 • Programming Languages: C#, HTML, JavaScript, CSS(Tailwind), Python
 • Frontend Development: React.js
@@ -136,18 +45,12 @@ B) Bachelor of Science in Computer Science (14 year edu) from Peshawar Universit
 • 79.09% marks
 • In BSc Part 1, I secured the first position and received a cash
 award.
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Conferences/Trainings:
 • Attended National Summer Conference on Research Led Practice of Islamic Finance
 at Baragali Campus of Peshawar University.
 • Attended Training on Auditing and Accounting in Islamic Banks at IMSciences.
 • Attended Islamic Finance Summer School at Elite Hotel Nathiagali.
-<<<<<<< HEAD
-•
-Attended Training on Developing Research Proposal for Islamic Finance at IMSciences.
-=======
 • Attended Training on Developing Research Proposal for Islamic Finance at IMSciences.
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Course Certificates:
 • AAOIFIs - Governance and Shariah Compliance
 • AAOIFIs - Accounting Practices
@@ -158,19 +61,6 @@ Languages:
 • Urdu
 • Pashto
 • English
-<<<<<<< HEAD
-Associate)
-
-
-Phone: 03126318724
-
-Current Address: IJP metro station Rawalpindi
-
-Permanent Address: Gulshan-abad near Army gate no.1, Risalpur cantt – Nowshera
-
---- CONTACT ---
-Email: Mwbkkj@gmail.com
-=======
 Muhammad Waqas (Unity Developer/ Finance Graduate/ Computer Science 
 Associate) 
 Email: Mwbkkj@gmail.com 
@@ -367,5 +257,10 @@ Languages:
 
 •  Urdu 
 •  Pashto 
-•  English
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+•  English 
+
+ 
+ 
+ 
+ 
+

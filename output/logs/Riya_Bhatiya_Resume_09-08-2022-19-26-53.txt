@@ -1,18 +1,3 @@
-PDF Filename: Riya_Bhatiya_Resume_09-08-2022-19-26-53.pdf
-Name (Extracted): Riya Bhatiya
-Experience Score: 20.00
-Skill Score: 0.00 (Matched: )
-Education Score: 20.00
-Profile Score: 5.00
-Total Score: 45.00
-Experience Extraction Method: summary
-
-<<<<<<< HEAD
-===== Extracted Resume Text =====
-
---- EDUCATION ---
-=======
-===== RAW EXTRACTED RESUME TEXT =====
 Riya Bhatiya
 Data Scientist
 riya.bhatia67@gmail.com 9923312341 Telangana
@@ -25,7 +10,6 @@ models to solve challenging business problems. Relevant Coursework : Machine Lea
 Statistics, Deep Learning, Regression Algorithms,
 Classification Algorithms, Image Segmentation
 Education
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Jaypee Institute Of Information Technology iNeuron Intelligence
 Bachelor Of Technology in Computer Science Freelance Mentor Of Data Structure and Algorithms
 01/2013 – 08/2017 | Noida, Uttar Pradesh 07/2021 – 05/2022 | Bangalore, India
@@ -39,10 +23,7 @@ Data and Queue, Hashing
 SASTRA University Thanjavur
 Thales
 Information Technology
-<<<<<<< HEAD
-=======
 Software Engineer
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 05/2005 – 04/2009 | Thanjavur, India
 08/2020 – 05/2021 | Hyderabad, India
 Cumulative GPA : 9.05/10.0
@@ -62,12 +43,7 @@ financial data for Accounting and helps suppliers to
 Elastic Search Silver contributor (06/2020 - Present) track total amount to be paid via Auto Pay or Request
 Pay model
 Crafted a scalable streaming solution using Flink
-<<<<<<< HEAD
-
---- SKILLS ---
-=======
 Skills
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 StateFun to handle ~800k booking streams each day.
 Apache Spark | Microservices | Kafka
 Data Warehousing | Event Streaming Interests
@@ -79,19 +55,6 @@ Hypothesis Testing, CI/CD Pipeline)
 1 / 1
 Riya Bhatiya
 Data Scientist
-<<<<<<< HEAD
-9923312341
-Telangana
-Profile
-I have 2 years of work experience in Data Science with a
-proven ability and history of developing full-stack data
-science projects. Hands-on experience leveraging
-machine learning, deep learning, and transfer learning
-models to solve challenging business problems.
-
---- EXPERIENCE ---
-Software Engineer
-=======
 riya.bhatia67@gmail.com
 9923312341
 Telangana
@@ -130,53 +93,25 @@ Data Science Pipeline ((collection, cleansing,
 visualization, modeling, interpretation), Statistics,
 Hypothesis Testing, CI/CD Pipeline)
 Professional Experience
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 GeeksforGeeks
 Freelance Mentor Of Data Science
 01/2022 – present | Bangalore, India
 Mentor of Data Science at GeeksforGeeks
-<<<<<<< HEAD
-Relevant Coursework : Machine Learning, Applied
-Statistics, Deep Learning, Regression Algorithms,
-=======
 Relevant Coursework : Machine Learning, Applied 
 Statistics, Deep Learning, Regression Algorithms, 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 Classification Algorithms, Image Segmentation
 iNeuron Intelligence
 Freelance Mentor Of Data Structure and Algorithms
 07/2021 – 05/2022 | Bangalore, India
-<<<<<<< HEAD
-Mentor of Data Structure and Algorithms at iNeuron
-Intelligence
-Relevant Coursework : Analysis in Algorithms, Divide
-and Conquer, Greedy Technique, Dynamic
-Programming, Arrays, Linked List, Tree, Graph, Stack
-=======
 Mentor of Data Structure and Algorithms at iNeuron 
 Intelligence
 Relevant Coursework : Analysis in Algorithms, Divide 
 and Conquer, Greedy Technique, Dynamic 
 Programming, Arrays, Linked List, Tree, Graph, Stack 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 and Queue, Hashing
 .
 Thales
 Software Engineer
-<<<<<<< HEAD
-One checkout Platform – Real time streaming
-application for Financial data
-Tech Stack – Flink, Python, Kafka, Oracle, Kafka
-Connect, Docker, AWS, Airflow
-Building one checkout platform for different
-business domains of Expedia i.e; Vrbo, Hotels, Car
-Rentals, Lodging
-Real time streaming platform captures & process
-financial data for Accounting and helps suppliers to
-track total amount to be paid via Auto Pay or Request
-Pay model
-Crafted a scalable streaming solution using Flink
-=======
 08/2020 – 05/2021 | Hyderabad, India
 One checkout Platform – Real time streaming 
 application for Financial data
@@ -190,7 +125,6 @@ financial data for Accounting and helps suppliers to
 track total amount to be paid via Auto Pay or Request 
 Pay model
 Crafted a scalable streaming solution using Flink 
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 StateFun to handle ~800k booking streams each day.
 Interests
 Playing Badminton, Tennis, Football
@@ -199,10 +133,7 @@ Writing Tech Blogs | Traveling | Movies
 Riya Bhatiya
 Data Scientist
 
-<<<<<<< HEAD
-=======
 riya.bhatia67@gmail.com
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
 
 9923312341
 
@@ -210,18 +141,6 @@ Telangana
 
 Profile
 
-<<<<<<< HEAD
-I have 2 years of work experience in Data Science with a
-proven ability and history of developing full-stack data
-leveraging
-science  projects.  Hands-on  experience
-machine learning, deep learning, and transfer learning
-models to solve challenging business problems.
-
---- CONTACT ---
-riya.bhatia67@gmail.com
-riya.bhatia67@gmail.com
-=======
 I have 2 years of work experience in Data Science with a 
 proven ability and history of developing full-stack data 
 leveraging 
@@ -318,5 +237,4 @@ Playing Badminton, Tennis, Football
 
 Writing Tech Blogs | Traveling | Movies
 
-1 / 1
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+1 / 1

@@ -1,17 +1,12 @@
 PDF Filename: 27-Hamza Hamid 3y+.pdf
 Name (Extracted): Hamza Hamid
 Experience Score: 20.00
-<<<<<<< HEAD
-Skill Score: 21.54 (Matched: javascript, git, react.js, html, tailwind css, css, react)
-=======
-Skill Score: 21.54 (Matched: tailwind css, css, html, git, react.js, react, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Skill Score: 21.54 (Matched: css, javascript, react.js, tailwind css, git, react, html)
 Education Score: 20.00
 Profile Score: 10.00
 Total Score: 71.54
 Experience Extraction Method: date_range
 
-<<<<<<< HEAD
 ===== Extracted Resume Text =====
 
 --- EXPERIENCE ---
@@ -119,7 +114,27 @@ Hamza Hamid
 
 --- CONTACT ---
 LinkedIn |   GitHub |   thedev.hamza@gmail.com |  0316-8767587 |  Islamabad, Pakistan
-=======
+
+--- UNKNOWN ---
+LinkedIn | GitHub | thedev.hamza@gmail.com | 0316-8767587 | Islamabad, Pakistan
+Experience _______________________________________________________________________________________
+Software Engineer aSimplify Full Time, On-site, Islamabad 04/2024 - Current
+Stem Wizards Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
+Frontend Developer Academia
+MERN Stack Trainee Contour Software Full Time, on-site, Islamabad 04/2023 - 06/2023
+Projects __________________________________________________________________________________________
+ Remote HMS System 04/2023- 06/2023
+ Asaan Movers 03/2022 - 12/2022
+Skills ____________________________________________________________________________________________
+Education ________________________________________________________________________________________
+Bachelor of Science COMSATS UNIVERSITY Abbottabad, Paskitan 03/2019 - 07/2023
+• Major in Software Engineering (3.32 CGPA)
+LinkedIn |  GitHub |  thedev.hamza@gmail.com |  0316-8767587 |  Islamabad, Pakistan
+Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
+ Remote HMS System
+ Asaan Movers
+Abbottabad, Paskitan  03/2019 - 07/2023
+
 ===== RAW EXTRACTED RESUME TEXT =====
 Hamza Hamid
 LinkedIn | GitHub | thedev.hamza@gmail.com | 0316-8767587 | Islamabad, Pakistan
@@ -346,4 +361,3 @@ COMSATS UNIVERSITY
 Abbottabad, Paskitan  03/2019 - 07/2023 
 
 •   Major in Software Engineering (3.32 CGPA)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)

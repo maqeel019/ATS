@@ -1,17 +1,12 @@
 PDF Filename: 6-JUNAID AKBAR 3y.pdf
 Name (Extracted): Junaid Akbar
 Experience Score: 30.00
-<<<<<<< HEAD
-Skill Score: 24.62 (Matched: material ui, javascript, git, react.js, typescript, tailwind css, css, react)
-=======
-Skill Score: 24.62 (Matched: tailwind css, css, typescript, git, react.js, react, material ui, javascript)
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
+Skill Score: 24.62 (Matched: css, material ui, javascript, react.js, tailwind css, git, react, typescript)
 Education Score: 20.00
 Profile Score: 5.00
 Total Score: 79.62
 Experience Extraction Method: summary
 
-<<<<<<< HEAD
 ===== Extracted Resume Text =====
 
 --- SUMMARY ---
@@ -73,7 +68,56 @@ JUNAID AKBAR
 
 --- CONTACT ---
 📧 junaidjojo4@gmail.com | 📞 +92 333 7661597 | 🌍 Islamabad, Pakistan
-=======
+
+--- UNKNOWN ---
+PROFESSIONAL SUMMARY
+experience.
+EDUCATION
+Virtual University of Pakistan (Ongoing)
+✅ UI/UX & Tools: Figma, Adobe XD, Material UI, Bootstrap
+✅ Version Control & Collaboration: Git, GitHub
+PROFESSIONAL EXPERIENCE
+● Developed and optimized responsive web applications using React.js, Next.js, Tailwind
+● Designed and implemented reusable UI components, reducing development time by
+● Collaborated with designers and backend teams to integrate APIs and ensure a
+● Led frontend development for multiple large-scale projects, ensuring high code
+2. NCR - Workflow Builder
+✅ Created a drag-and-drop workflow builder, improving internal process efficiency.
+3. NCR - Training Portal
+✅ Built a comprehensive training management system for seamless content delivery.
+4. NCR - CMS Admin Portal
+✅ Developed a robust content management system for better editorial workflow.
+5. Monkey Tilt
+✅ Contributed to the development of an interactive and responsive gaming platform.
+🔗 Live Site
+6. Learnforce: Admin & Student Portals
+✅ Created user-friendly portals for student learning and performance tracking.
+7. Ash Hotel
+✅ Designed a modern, user-friendly website for a luxury hotel, optimizing the booking
+8. Designer Trellis
+✅ Built a cloud-based platform for interior design studios and freelancers.
+9. Copitch.AI
+✅ Developed an AI-powered tool leveraging NLP to enhance sales proposals.
+10. Pamela Fero Law PLLC
+✅ Led the complete redesign of a law firm's website, integrating case management software.
+CERTIFICATIONS & TRAINING
+● JavaScript (Basic & Intermediate) – Problem-solving & advanced JS concepts
+● Frontend Development – Self-paced learning with hands-on projects
+● Availability: Open to remote & onsite roles
+● Languages: English (Fluent), Urdu (Native)
+JUNAID AKBAR​
+●​ Developed and optimized responsive web applications using React.js, Next.js, Tailwind
+●​ Designed and implemented reusable UI components, reducing development time by
+●​ Collaborated with designers and backend teams to integrate APIs and ensure a
+●​ Led frontend development for multiple large-scale projects, ensuring high code
+✅ Contributed to the development of an interactive and responsive gaming platform.​
+experience.​
+✅ Led the complete redesign of a law firm's website, integrating case management software.​
+●  JavaScript (Basic & Intermediate) – Problem-solving & advanced JS concepts
+●  Frontend Development – Self-paced learning with hands-on projects
+●  Availability: Open to remote & onsite roles
+●  Languages: English (Fluent), Urdu (Native)
+
 ===== RAW EXTRACTED RESUME TEXT =====
 JUNAID AKBAR
 📧 junaidjojo4@gmail.com | 📞 +92 333 7661597 | 🌍 Islamabad, Pakistan
@@ -311,4 +355,3 @@ ADDITIONAL INFORMATION
 
 🚀 Passionate about building seamless digital experiences and always eager to learn new 
 technologies!
->>>>>>> 9a7d7ab (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
