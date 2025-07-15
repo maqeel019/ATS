@@ -131,5 +131,3 @@ def extract_and_save_candidate_info_to_excel(
 if __name__ == "__main__":
     extract_and_save_candidate_info_to_excel()
 
-
-# (enhanced version of ATS,two logs file:one for just raw texts another for segmented sections)
