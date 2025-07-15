@@ -63,26 +63,6 @@ def extract_and_save_candidate_info_to_excel(
         else:
             text = "\n".join(texts)
 
-        # ✅ STEP 1 & 2 — Save raw extracted text
-        log_filename_txt = fn.replace(".pdf", ".txt")
-        log_path_txt = os.path.join(LOG_DIR, log_filename_txt)
-        with open(log_path_txt, "w", encoding="utf-8") as f:
-            f.write(text)
-        print(f"✅ Raw extracted text saved: {log_path_txt}")
-
-        # ✅ STEP 3 — Segment text
-        sections = segment_sections(text)
-
-        # ✅ STEP 4 — Save segments to log
-        combined_out_file = os.path.join(LOG_DIR, f"{os.path.splitext(fn)[0]}_segmented.txt")
-        with open(combined_out_file, "w", encoding="utf-8") as f:
-            for sec_name, sec_content in sections.items():
-                f.write(f"\n===== {sec_name.upper()} =====\n")
-                f.write(sec_content.strip())
-                f.write("\n\n")
-        print(f"✅ Segmented text saved: {combined_out_file}")
-
-        # === Extract links & details ===
         embedded_links = extract_links_from_pdf(path)
         info = extract_candidate_info(text, skill_set, filename=fn)
         info = update_links(info, embedded_links)

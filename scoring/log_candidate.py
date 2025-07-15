@@ -24,34 +24,32 @@ def log_candidate_score(
     log_dir=LOG_DIR
 ):
     """
-    Save candidate score + segmented sections + raw text.
+    Save candidate logs:
+    1) Raw text file (.txt)
+    2) Segmented sections (.txt)
+    No score log here — score returned only.
     """
     os.makedirs(log_dir, exist_ok=True)
 
     base_name = os.path.splitext(os.path.basename(pdf_filename))[0]
     safe_name = sanitize_filename(base_name)
 
-    # === Log file path ===
-    log_file_path = os.path.join(log_dir, f"{safe_name}_score.txt")
-
+    # === Save raw text ===
+    raw_txt_path = os.path.join(log_dir, f"{safe_name}_Raw.txt")
     with suppress(Exception):
-        with open(log_file_path, "w", encoding="utf-8") as f:
-            f.write(f"PDF Filename: {pdf_filename}\n")
-            f.write(f"Name (Extracted): {candidate.get('Name', 'unknown')}\n")
-            f.write(f"Experience Score: {exp_score:.2f}\n")
-            f.write(f"Skill Score: {skill_score:.2f} (Matched: {', '.join(skill_matches)})\n")
-            f.write(f"Education Score: {edu_score:.2f}\n")
-            f.write(f"Profile Score: {profile_score:.2f}\n")
-            f.write(f"Total Score: {score:.2f}\n")
-            f.write(f"Experience Extraction Method: {exp_method}\n")
+        with open(raw_txt_path, "w", encoding="utf-8") as f:
+            f.write(full_text)
+    print(f"✅ Raw extracted text saved: {raw_txt_path}")
 
-            f.write("\n===== SEGMENTED SECTIONS =====\n")
-            sections = segment_sections(full_text)
-            for sec, content in sections.items():
-                f.write(f"\n--- {sec.upper()} ---\n")
-                f.write(content.strip() + "\n")
-
-            f.write("\n===== RAW EXTRACTED TEXT =====\n")
-            f.write(full_text.strip() + "\n")
+    # === Save segmented ===
+    sections = segment_sections(full_text)
+    segmented_txt_path = os.path.join(log_dir, f"{safe_name}_Segmented.txt")
+    with suppress(Exception):
+        with open(segmented_txt_path, "w", encoding="utf-8") as f:
+            for sec_name, sec_content in sections.items():
+                f.write(f"\n===== {sec_name.upper()} =====\n")
+                f.write(sec_content.strip())
+                f.write("\n\n")
+    print(f"✅ Segmented text saved: {segmented_txt_path}")
 
     return round(score, 2)

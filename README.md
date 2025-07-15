@@ -44,9 +44,9 @@ A smart **Applicant Tracking System (ATS)** designed to parse, extract, rank, an
         - Name	Email	Phone	LinkedIn	GitHub	MatchedSkills	Experience	RawEducation	Education	Score	Rank	MissingSkills
 
 - 📂 Logging for debugging purposes:
-  - Each candidate gets a `logs/{name}_score.txt` with:
-    - Scores (experience, skills, education, profile)
-    - Extracted raw text from their PDF
+  - Each candidate gets a `logs/{name}_Raw.txt` and `logs/{name}_Segmented.txt` with:
+    -`logs/{name}_Raw.txt` contain Scores (experience, skills, education, profile) and Raw text from their PDF.
+    - `logs/{name}_Segmented.txt` contain segmented sections of text like Summary,Education,Experince,Skills and Unknown.
 ```bash
 ## 📁 Folder Structure
 ATS/
@@ -76,7 +76,8 @@ ATS/
 │   ├── all_candidates_ranked.xlsx
 │   ├── filtered_candidates.xlsx
 │   └── logs/                   # Text logs for each candidate
-│
+│     └── {Resume_name}_Segmented.txt
+│     └── {Resume_name}_Raw.txt
 ├── config.py                   # Global config for filters, skill sets, etc.
 ├── main.py                     # Main pipeline entry point
 ├── requirements.txt            # Python dependencies
@@ -118,7 +119,9 @@ From the project root, run:
 
 🎯 filtered_candidates.xlsx – only candidates who meet your custom filters (skills, education, experience)
 
-📝 logs/{name}_score.txt – per-candidate score breakdown and raw resume text for debugging
+📝 logs/{name}_raw.txt – per-candidate score breakdown and raw resume text for debugging
+
+📝 logs/{name}_segmented.txt – per-candidate score breakdown and raw resume text for debugging
 
 
 
