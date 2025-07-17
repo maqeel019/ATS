@@ -40,6 +40,7 @@ Intermediate Non Medical
 Fauji Foundation School
 Laurreate Academy
 2020-2022
+Remote | Jan 2024 – Present
 
 
 ===== EDUCATION =====
@@ -77,7 +78,6 @@ and React. I enjoy solving problems, writing clean code, and
 Colony
 npm, Yarn, Vite, (basic)
 Frontend Developer (Freelance / Project-Based)
-Remote | Jan 2024 – Present
 responsive UI, form handling, and data display using React.js and
 Built  and  delivered  a  real-world  project  for  a  client,  including  a
 responsive  UI,  form  handling,  and  data  display  using  React.js  and

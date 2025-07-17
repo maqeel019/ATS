@@ -118,6 +118,7 @@ e Trainer of MERN Stack: Mentored junior developers, reducing dev time by
 developers on full-stack development. Covered advanced concepts in React_js,
 HTML, CSS, JavaScript, React.js, and Next js. Built responsive, cross-browser
 Developed skills in backend integration, database design, and AP! architecture.
+fH January 3, 2002
 
 
 ===== CONTACT =====
@@ -141,7 +142,6 @@ WW lehazalil23@gmail.com
 J 03488899315
 @ pakistan
 44790 Islamabad
-fH January 3, 2002
 Q pk kohat
 Qo Male
 RS pakistan

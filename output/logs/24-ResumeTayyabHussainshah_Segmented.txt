@@ -49,6 +49,7 @@ Oct 2020 - Oct 2024
 TAYYAB HUSSAIN SHAH
 
 Bachelor of Science in Software Engineering
+Bachelor of Science in Software Engineering Oct 2020 - Oct 2024
 
 
 ===== CONTACT =====
@@ -68,6 +69,5 @@ robust systems, optimizing team workflows, and turning complex problems into sea
 experiences.
 WORK EXPERIENCE
 EDUCATION
-Bachelor of Science in Software Engineering Oct 2020 - Oct 2024
 Programming Languages: Python, JavaScript (ES6+), TypeScript, C++, PHP
 

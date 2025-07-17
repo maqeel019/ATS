@@ -51,6 +51,7 @@ Device Management: Developed a user-friendly interface to add, remove, and manag
 Automation & Scheduling: Implemented features to automate device actions based on schedules, triggers, or user-
 User Authentication & Profile Management: Built secure user authentication and profile management, allowing
 Admin Panel: Developed a robust admin interface using .NET for managing user data, device configurations, and
+12/2022 – CURRENT Islamabad, Pakistan
 
 
 ===== EDUCATION =====
@@ -122,6 +123,7 @@ API Integration: Utilized RESTful APIs for seamless communication between the fr
 (.NET), ensuring smooth data flow and device interaction.
 LANGUAGE SKILLS
 DIGITAL SKILLS
+09/2017 – 01/2022 Islamabad
 
 
 ===== PROJECTS =====
@@ -171,7 +173,6 @@ web applications. Strong proficiency in HTML, CSS, JavaScript, and React.js, wit
 based architecture, state management using React hooks, and Context API. Proven ability to deliver high-quality,
 scalable web applications by leveraging modern front-end technologies.
 WORK EXPERIENCE
-12/2022 – CURRENT Islamabad, Pakistan
 FULL STACK DEVELOPER MERIK SOLUTIONS
 1. Develop and maintain robust and scalable web applications using ReactJS, .NET, SQL Server, and TypeScript to
 enhance user experience and application performance.
@@ -194,7 +195,6 @@ web application.
 •Designed and implemented a user-friendly login and authentication flow, reducing support tickets related to
 account access by 20%.
 EDUCATION AND TRAINING
-09/2017 – 01/2022 Islamabad
 BACHELOR IN WEB ENGINEERING Iqra University
 Websitehttps://iuisl.iqra.edu.pk/
 Mother tongue(s): URDU | PASTHO

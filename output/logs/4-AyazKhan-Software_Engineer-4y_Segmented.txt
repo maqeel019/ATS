@@ -81,6 +81,10 @@ Google Developers Group Peshawar
 Website Development Internship | The Sparks Foundation
 JSOL Technologies Flutter Developer Intern Certificate
 Software Engineer
+Vulcan Learning Institute LLC (United States) || Part Time Remote April 2024 - Present
+Instly Technologies (Islamabad) || Full Time June 2024 - Present
+TechCreator Pvt Ltd (Swabi KPK) || Full Time August 2022 - March 2024
+JSOL Technologies Pvt Ltd (Islamabad) || Full Time August 2021 - November 2021
 
 
 ===== EDUCATION =====
@@ -205,12 +209,8 @@ pakistan03479@gmail.com | +923139131611 | github.com/ayazcoder
 Summary
 projects.
 Work Experience
-Vulcan Learning Institute LLC (United States) || Part Time Remote April 2024 - Present
-Instly Technologies (Islamabad) || Full Time June 2024 - Present
-TechCreator Pvt Ltd (Swabi KPK) || Full Time August 2022 - March 2024
 in React JS, Tailwind CSS, and more. Designed responsive web applications, integrated
 APIs, and contributed to a unified education platform.
-JSOL Technologies Pvt Ltd (Islamabad) || Full Time August 2021 - November 2021
 Education History
 Certifications
 LinkedIn Profile: linkedin.com/in/ayazcoderLinkedIn Profile: linkedi

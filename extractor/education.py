@@ -3,7 +3,7 @@ import re
 from config import _DEGREE_KEYWORDS
 
 _CONTEXT_CLUES = [
-    "university", "college", "school","Higher" "institute", "academy",
+    "university", "college", "school","higher" ,"institute", "academy",
     "faculty", "degree", "diploma", "hssc", "matric",
     "intermediate", "certificate"
 ]
@@ -41,19 +41,19 @@ def extract_all_degrees(text: str) -> list:
 
 def extract_highest_education(text: str) -> str:
     """
-    Returns the highest-ranked degree actually present in the Education section.
-    Filters out 'seeking master', 'aspiring', 'mastering', etc.
-    Picks the highest rank: Master > Bachelor > Diploma > Intermediate > Matric.
+    Returns the highest-ranked degree actually present.
+    Tries: education section → fallback in other sections → fallback in whole text.
+    Picks highest: PhD > Master > Bachelor > Diploma > Intermediate > Matric.
     """
     secs = segment_sections(text)
     edu_block = secs.get("education", "").strip()
 
     if not edu_block:
-        # Fallback: scan certs/experience for stray degree lines
+        # 🔄 Fallback: look in other logical blocks too
         for sec in ["certifications", "experience"]:
             edu_block += "\n" + secs.get(sec, "")
         if not edu_block.strip():
-            edu_block = text
+            edu_block = text  # Last resort: full text
 
     best_rank = -1
     best_line = ""
@@ -63,10 +63,11 @@ def extract_highest_education(text: str) -> str:
     for line in lines:
         low = line.lower()
 
-        # 🚫 Ignore suspicious lines
-        if re.search(r"\b(seeking|aspiring|pursuing|master-to-master|mastering)\b", low):
+        # 🚫 Skip suspicious lines
+        if re.search(r"\b(seeking|aspiring|pursuing|mastering)\b", low):
             continue
 
+        # ✅ Standard keyword map match
         for keyword, rank in _DEGREE_KEYWORDS.items():
             if " " in keyword:
                 match = keyword in low
@@ -81,22 +82,30 @@ def extract_highest_education(text: str) -> str:
                     best_rank = rank
                     best_line = line.strip()
 
+    # ✅ Smart fallback: common patterns if still no match
+    degree_fallback_patterns = [
+        (r"\b(ph\.?d\.?|doctor)\b", 4),
+        (r"\b(master|ms\.?|m\.?sc\.?|mba|m\.?e\.?)\b", 3),
+        (r"\b(bachelor|bs\.?|b\.?sc\.?|b\.?e\.?)\b", 2),
+        (r"\b(diploma|polytechnic|associate degree)\b", 1),
+        (r"\b(intermediate|matric|high school|hssc|ssc)\b", 0),
+    ]
 
-        # 🔍 Phrase fallback for common patterns
-        if re.search(r"bachelor\s+of", low) and best_rank < 2:
-            best_rank = 2
-            best_line = line.strip()
-        elif re.search(r"master\s+of", low) and best_rank < 3:
-            best_rank = 3
-            best_line = line.strip()
-        elif re.search(r"diploma\s+in", low) and best_rank < 1:
-            best_rank = 1
-            best_line = line.strip()
-         
-            
-    if best_rank < 0 and "university" in edu_block.lower():
-        return "Bachelor / No major degree found but there is a university mention"
-    
+    for pat, rank in degree_fallback_patterns:
+        if re.search(pat, low):
+            if rank > best_rank:
+                best_rank = rank
+                best_line = line.strip()
+
+    # SUPER fallback for "Bachelor in XYZ"
+    if re.search(r"bachelor\s+.*(in|of)", low) and best_rank < 2:
+        best_rank = 2
+        best_line = line.strip()
+
+    # ✅ Ultimate clue: mention of "university"
+    if best_rank < 0 and "university" in text.lower():
+        return "Bachelor (inferred) / No major degree found but mentions university"
+
     return best_line if best_rank >= 0 else ""
 
 

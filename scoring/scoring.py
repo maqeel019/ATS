@@ -24,7 +24,6 @@ def calculate_score(
         from extractor.experience import extract_experience
         years, months, exp_method, pattern_used = extract_experience(
             candidate.get("Text", ""),
-            log_path=None
         )
 
     total_exp = years + months / 12.0

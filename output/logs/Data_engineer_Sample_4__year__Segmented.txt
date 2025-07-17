@@ -59,6 +59,8 @@ JNU, Delhi
 Biswajit Khetan
 (+91) 987654321
 Delhi, India
+BachelorofTechnology, JNU, Delhi , Computer Science 70% Aug2016–Jun2020
+HigherSecondaryEducation Jun2015–May2016
 
 
 ===== EXPERIENCE =====
@@ -150,6 +152,9 @@ at scale.
 etc.
 
 • Migrated a 200 GB data warehouse from Oracle to Vertica, including stored procedures, triggers, and ETLs.
+DatabricksCertifiedDevelopersFoundation Dec2021-Dec2024
+AWSCertifiedMachineLearningSpecialtyMLS-C01 2020
+AWSCertifiedAssociateDeveloper 2021
 
 
 ===== CONTACT =====
@@ -162,11 +167,6 @@ Delhi, India GitHub: Bis234
 bisjwa1445@gmail.com DataEngineer LinkedIn: mska
 SKILLS
 EDUCATION
-BachelorofTechnology, JNU, Delhi , Computer Science 70% Aug2016–Jun2020
-HigherSecondaryEducation Jun2015–May2016
-DatabricksCertifiedDevelopersFoundation Dec2021-Dec2024
-AWSCertifiedMachineLearningSpecialtyMLS-C01 2020
-AWSCertifiedAssociateDeveloper 2021
 Programming Skills
 Database
 Tools and Languages

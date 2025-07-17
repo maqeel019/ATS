@@ -2,7 +2,7 @@ import os
 import re
 from contextlib import suppress
 from config import LOG_DIR
-from extractor.section_segmenter import segment_sections
+from extractor.section_segmenter import post_process_sections, segment_sections
 
 
 def sanitize_filename(name):
@@ -43,6 +43,7 @@ def log_candidate_score(
 
     # === Save segmented ===
     sections = segment_sections(full_text)
+    
     segmented_txt_path = os.path.join(log_dir, f"{safe_name}_Segmented.txt")
     with suppress(Exception):
         with open(segmented_txt_path, "w", encoding="utf-8") as f:

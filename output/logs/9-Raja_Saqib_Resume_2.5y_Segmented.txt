@@ -61,6 +61,7 @@ Built dynamic web applications using React.js, Node.js, and Express.js, ensuring
 Developed robust RESTful APIs with secure authentication and authorization mechanisms.
 Implemented responsive designs using Material-UI, Tailwind CSS, and HTML5/CSS3 frameworks.
 Collaborated with Developers, Designers, and Project Managers to resolve inconsistencies between specifications
+0340-3118722 https://www.linkedin.com/in/saqib--iftikhar/ Islamabad saqibifitkhar756@gmail.com
 
 
 ===== EDUCATION =====
@@ -258,7 +259,6 @@ saqibifitkhar756@gmail.com
 
 
 ===== UNKNOWN =====
-0340-3118722 https://www.linkedin.com/in/saqib--iftikhar/ Islamabad saqibifitkhar756@gmail.com
 SUMMARY
 WORK EXPERIENCE
 EDUCATION

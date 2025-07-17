@@ -19,6 +19,8 @@ Percentage: 79%
 Aug 2018 – May 2020
 Bachelor of Computer Science
 MySQL, MS SQL Server, Adminer, Replication, Backup & Recovery
+CGPA: 3.51/4 Sep 2020 – Jul 2024
+Percentage: 79% Aug 2018 – May 2020
 
 
 ===== EXPERIENCE =====
@@ -190,9 +192,7 @@ GitHub: github.com/maqeel019
 Summary
 Education
 University of Swabi Bachelor of Computer Science
-CGPA: 3.51/4 Sep 2020 – Jul 2024
 Glorious College of Science & Technology Pre-Engineering
-Percentage: 79% Aug 2018 – May 2020
 Experience
 Database Administrator ObsidianPM – Abbottabad, Pakistan
 • Implemented MySQL InnoDB Cluster for disaster recovery and high availability (99.99%

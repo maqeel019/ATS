@@ -56,6 +56,10 @@ Fellowship:
 
 Radio communication systems (radar and mobile).
 First year at University, due to Honors obtained last year at high school.
+2016 University of California, Berkeley Master of Information and Data Science GPA: 3.93
+2005 Universidad Politécnica de Madrid M.S. in Telecommunication Engineering GPA: 3.03
+2015 Implementation of the Shortest Path and PageRank algorithms with the Wikipedia graph dataset
+2015 Investigating the effect of competition on the ability to solve arithmetic problems
 
 
 ===== SKILLS =====
@@ -195,6 +199,24 @@ Madrid, Spain
 •  Exceeded sales target every year from 2005 to 2007 (achieved 60% of the target in the first 3 months
 
 of 2008).
+650-336-4590 | juanjose.carin@gmail.com
+2014 Universidad Politécnica de Madrid M.S. in Statistical and Computational Information Processing GPA: 3.69
+Jan. 2016 – Mar. 2016 Data Scientist
+Jun. 2014 – Sep. 2014 Data Scientist
+• Designed an experiment for Google Spain (conducted in October 2014) to measure the impact of
+Feb. 2009 – Aug. 2013 Head of Sales, Spain & Portugal – Test &Measurement dept.
+Apr. 2008 – Jan. 2009 Sales Engineer – Test & Measurement dept.
+Sep. 2004 – Mar. 2008 Sales & Application Engineer
+• Exceeded sales target every year from 2005 to 2007 (achieved 60% of the target in the first 3 months
+Jul. 2002 – Jun. 2004 Tutor of Differential & Integral Calculus, Physics, and Digital Electronic Circuits
+2016 SmartCam
+2015 Forest cover type prediction
+2015 Redefining the job search process
+2015 A fresh perspective on Citi Bike
+2014 Prediction of customer churn for a mobile network carrier
+2014 Different models of Harmonized Index of Consumer Prices (HICP) in Spain
+2005
+Jul. 2002 – Jun. 2004
 
 
 ===== PROJECTS =====
@@ -264,21 +286,17 @@ linkedin.com/in/juanjosecarin  |
 
 
 ===== UNKNOWN =====
-650-336-4590 | juanjose.carin@gmail.com
 linkedin.com/in/juanjosecarin | juanjocarin.github.io
 Passionate about data analysis and experiments, mainly focused on user behavior, experience, and engagement, with a solid
 Education
-2016 University of California, Berkeley Master of Information and Data Science GPA: 3.93
 Relevant courses: • Field Experiments • Data Visualization and
 • Machine Learning • Applied Regression and Time Series Communication
 • Machine Learning at Scale Analysis • Research Design and Applications for
 • Storing and Retrieving Data • Exploring and Analyzing Data Data Analysis
-2014 Universidad Politécnica de Madrid M.S. in Statistical and Computational Information Processing GPA: 3.69
 Relevant courses: • Neural Networks and Statistical • Monte Carlo Techniques
 • Data Mining Learning • Numerical Methods in Finance
 • Multivariate Analysis • Regression and Prediction Methods • Stochastic Models in Finance
 • Time Series • Optimization Techniques • Bayesian Networks
-2005 Universidad Politécnica de Madrid M.S. in Telecommunication Engineering GPA: 3.03
 Focus Area: Radio communication systems (radar and mobile).
 Fellowship: First year at University, due to Honors obtained last year at high school.
 Skills
@@ -287,45 +305,29 @@ Proficient: R, Python, SQL Hadoop, Hive, MrJob Tableau Git, AWS
 Intermediate: SPSS, SAS, Matlab Spark, Storm Bash
 Basic: EViews, Demetra+ D3.js Gephi, Neo4j, QGIS
 Experience
-Jan. 2016 – Mar. 2016 Data Scientist
 CONENTO Madrid, Spain (working remotely)
 • Designed and implemented the ETL pipeline for a predictive model of traffic on the main roads in
 • Automated scripts in R to extract, transform, clean (incl. anomaly detection), and load into MySQL
-Jun. 2014 – Sep. 2014 Data Scientist
 CONENTO Madrid, Spain
-• Designed an experiment for Google Spain (conducted in October 2014) to measure the impact of
 • A matched-pair, cluster-randomized design, which involved selecting the test and control groups
-Feb. 2009 – Aug. 2013 Head of Sales, Spain & Portugal – Test &Measurement dept.
 YOKOGAWA Madrid, Spain
 • Applied analysis of sales and market trends to decide the direction of the department.
 • Led a team of 7 people.
 • Increased revenue by 6.3%, gross profit by 4.2%, and operating income by 146%, and achieved a 30%
-Apr. 2008 – Jan. 2009 Sales Engineer – Test & Measurement dept.
 • Promoted to head of sales after 5 months leading the sales team.
-Sep. 2004 – Mar. 2008 Sales & Application Engineer
 AYSCOM Madrid, Spain
-• Exceeded sales target every year from 2005 to 2007 (achieved 60% of the target in the first 3 months
 EDUCATION
-Jul. 2002 – Jun. 2004 Tutor of Differential & Integral Calculus, Physics, and Digital Electronic Circuits
 ACADEMIA UNIVERSITARIA Madrid, Spain
 • Highest-rated professor in student surveys, in 4 of the 6 terms.
 • Increased ratio of students passing the course by 25%.
 Projects
-2016 SmartCam
 Capstone Python, OpenCV, TensorFlow, AWS (EC2, S3, DynamoDB)
-2015 Implementation of the Shortest Path and PageRank algorithms with the Wikipedia graph dataset
 Machine Learning at Scale Hadoop MrJob, Python, AWS EC2, AWS S3
-2015 Forest cover type prediction
 Machine Learning Python, Scikit-Learn, Matplotlib
-2015 Redefining the job search process
 Storing and Retrieving Data Hadoop HDFS, Hive, Spark, Python, AWS EC2, Tableau
-2015 A fresh perspective on Citi Bike
 Data Visualization and Communication Tableau, SQLite
-2015 Investigating the effect of competition on the ability to solve arithmetic problems
 Field Experiments R
-2014 Prediction of customer churn for a mobile network carrier
 Data Mining SAS
-2014 Different models of Harmonized Index of Consumer Prices (HICP) in Spain
 Time Series SPSS, Demetra+
 2 of 2
 linkedin.com/in/juanjosecarin |
@@ -350,9 +352,7 @@ M.S. in Statistical and Computational Information Processing
 • Numerical Methods in Finance
 • Stochastic Models in Finance
 • Bayesian Networks
-2005
 M.S. in Telecommunication Engineering
-Jul. 2002 – Jun. 2004
 Tutor of Differential & Integral Calculus, Physics, and Digital Electronic Circuits
 ACADEMIA UNIVERSITARIA
 •  Highest-rated professor in student surveys, in 4 of the 6 terms.

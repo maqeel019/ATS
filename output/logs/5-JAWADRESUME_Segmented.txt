@@ -81,6 +81,7 @@ working with Flexbox to build responsive layouts, but
 I am equally comfortable using CSS Grid, depending
 on the layout requirements and which approach is
 more suitable.
+Development Intern Oct 2022 - March 2023
 
 
 ===== EXPERIENCE =====
@@ -93,6 +94,7 @@ I am a JavaScript Developer specializing as a
 Front-End Developer. I have a passion for creating
 Rough Copies Pvt Ltd, Lahore, Punjab — Front
 End Developer(React/Nextjs/)
+End Developer (Reactjs)   Oct 2022 - March 2023
 
 
 ===== UNKNOWN =====
@@ -105,8 +107,6 @@ EXPERIENCE
 SKILLS
 Projects: made User Panel, Three Admin
 EDUCATION
-End Developer (Reactjs)   Oct 2022 - March 2023
-Development Intern Oct 2022 - March 2023
 University of Engineering and Technology
 Islamia College Peshawar, Peshawar, KP — Fsc
 (Pre-Engineering)

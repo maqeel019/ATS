@@ -60,6 +60,15 @@ productivity)
 D Collaborated with the design team on Figma to create user-friendly interfaces.
 CERTIFIED BY
 GOOGLE META
+Mid-Senior Full Stack Developer Nov 2024 - Present
+Founder Feb 2024 - Present
+Lead Full Stack Web Developer Oct 2023 - Feb 2024
+Junior Full Stack Web Developer August 2023 – September 2023
+Mid Senior Full Stack Web and Mobile Developer January 2023 – July 2023
+Junior Frontend Web Developer June 2022– January 2023
+Software Developer Feb 2021– June 2022
+January 2023 – Aug 2023
+January 2023 – July 2023
 
 
 ===== EDUCATION =====
@@ -75,6 +84,9 @@ Fazaia Degree Collage
 Pakistan
 
 Higher school January 2020– March 2022
+June 2022– January 2023
+Feb 2021– June 2022
+2 Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects
 
 
 ===== SKILLS =====
@@ -107,14 +119,12 @@ MUHAMMAD SHAYAN
 MERN Full Stack Developer
 Summary
 Experience
-Mid-Senior Full Stack Developer Nov 2024 - Present
 Contributed in TrinityPad, a web and mobile platform for blockchain-based project investments, implementing Privy for
 authentication, ethers.js for web3 transactions, and a TypeScript-based backend using Express.js and Firebase
 Played a crucial role in GameGPT, implementing frontend designs and integrating Web3 smart contracts, including successful
 deployment on the Ethereum testnet, facilitating an auction feature used by 1,000+ users
 Led web3 authentication and secure transaction handling, ensuring seamless integration with blockchain technology
 Actively collaborated on UI/UX design in Figma, contributing to user-friendly and visually engaging interfaces.
-Founder Feb 2024 - Present
 Developed a full-stack web platform using Next.js, Node.js, and MongoDB, ensuring seamless integration of AI chatbot services
 Architected scalable back-end systems with MongoDB, utilizing indexing, reducing database query times by 40% under heavy
 load
@@ -123,7 +133,6 @@ Designed highly responsive, pixel-perfect frontend interfaces using React and Ne
 Implemented secure authentication and tokenization, protecting user data and enhancing application security in compliance
 with industry standards
 Deployed and managed the platform on VPS hosting, optimizing server performance and maintaining 99.9% uptime.
-Lead Full Stack Web Developer Oct 2023 - Feb 2024
 Built scalable web applications using Next.js, Cloudinary, Node.js, and MongoDB, ensuring smooth frontend-backend
 synchronization and a 20% improvement in page load speed
 Integrated Major social media for connecting accounts and posting to their platforms like Facebook, Youtube, TikTok , Twitter, etc
@@ -131,12 +140,10 @@ Implemented JWT-based authentication and OAuth for third-party logins, significa
 protection
 Designed and developed E-commerce, blog, company, and other websites with improved security and SEO optimization
 Collaborated closely with product managers and designers, delivering detailed and highly optimized UI/UX experiences.
-Junior Full Stack Web Developer August 2023 – September 2023
 Developed comprehensive HR management tools, ensuring an intuitive user interface with React and Material-UI for enhanced
 productivity
 Collaborated with the design team on Figma to create user-friendly interfaces.
 CARMED
-Mid Senior Full Stack Web and Mobile Developer January 2023 – July 2023
 Developed a cross-platform mobile application using React Native, integrating Firebase for real-time updates, resulting in a 30%
 reduction in response times for live user interactions
 Collaborated closely with the design team on Figma, iterating on UI/UX to deliver a highly intuitive and visually compelling mobile
@@ -145,7 +152,6 @@ Proactively identified and addressed security vulnerabilities in Next.js, Expres
 by 25%
 Integrated cloud-based solution to enhance application scalability.
 SKUPREME
-Junior Frontend Web Developer June 2022– January 2023
 Developed responsive and visually engaging user interfaces using Next.js and styled-component
 Received recognition from project managers for consistently delivering high-quality UI/UX solutions ahead of deadlines,
 contributing to the overall success of multiple projects
@@ -154,7 +160,6 @@ quality and maintainability
 Created reusable frontend components in React, accelerating development speed and improving design consistency across the
 platform.
 Fiverr and Other Projects
-Software Developer Feb 2021– June 2022
 Developed responsive and visually engaging user interfaces using Next.js, React Native Expo, Node.js, MongoDB, Cloudinary,
 Typescript and styled-component
 Maintained clean and sustainable codebases, ensuring project maintainability and delivering on time with a 100% success rate
@@ -175,16 +180,12 @@ Junior Frontend Web Developer
 Software Developer
 Full Stack Development Bootcamp
 Higher school
-June 2022– January 2023
 2 Developed responsive and visually engaging user interfaces using Next.js and styled-componentÜ
 2 Received recognition from project managers for consistently delivering high-quality UI/UX solutions ahead of deadlines,
 contributing to the overall success of multiple projects
 2 Actively participated in team code reviews, identifying potential issues early on and contributing to a 15% improvement in code
 quality and maintainability
 2 Created reusable frontend components in React, accelerating development speed and improving design consistency across the
-January 2023 – Aug 2023
-Feb 2021– June 2022
-2 Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects
 2 Developed responsive and visually engaging user interfaces using Next.js, React Native Expo, Node.js, MongoDB, Cloudinary,
 Typescript and styled-componentÜ
 2 Maintained clean and sustainable codebases, ensuring project maintainability and delivering on time with a 100% success rate
@@ -193,5 +194,4 @@ for project deadlines
 responsiveness
 2 Designed and developed full-stack applications with a focus on frontend precision and backend scalability
 Mid Senior Full Stack Web and Mobile Developer
-January 2023 – July 2023
 

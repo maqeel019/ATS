@@ -85,6 +85,9 @@ Built responsive landing pages and multi-page websites using React.js & Tailwind
 Converted Figma, XD, and PSD designs into pixel-perfect UI components.
 ✔Front-end web developer – Codematics Inc
 Front-End React.js Developer
+🗓May 2024 –Present
+🗓April 2021 –May 2024 | Haripur, Pakistan
+🗓May 2024 – Present
 
 
 ===== EDUCATION =====
@@ -92,6 +95,12 @@ Front-End React.js Developer
 🎓 Diploma in Mechanical Engineering (DAE) (2012 – 2015) | Gov’t Polytechnic Institute,
 Sarai Salah
 🎓 S.S.C (Science Group) (2011) | Aligarh Public School, Haripur
+🎓BS in Computer Science (2016 –2020) | Gov’t Post Graduate College, Haripur
+🎓Diploma in Mechanical Engineering (DAE) (2012 –2015) | Gov’t Polytechnic Institute,
+🎓S.S.C (Science Group) (2011) | Aligarh Public School, Haripur
+🗓April 2021 – May 2024 | Haripur, Pakistan
+🎓BS in Computer Science (2016 – 2020) | Gov’t Post Graduate College, Haripur
+🎓Diploma in Mechanical Engineering (DAE) (2012 – 2015) | Gov’t Polytechnic Institute,
 
 
 ===== CERTIFICATIONS =====
@@ -129,12 +138,10 @@ PROFESSIONAL SUMMARY
 ✔Git, GitHub, Postman, Swagger
 ✔Jira, Slack, VS Code
 WORK EXPERIENCE
-🗓May 2024 –Present
 🔹SAIY ADMIN (Crypto Trading Management Dashboard)
 🔗Live Demo: https://saiy-admin.netlify.app/Dashboard
 🔹Zonebit admin (Crypto Trading Management Dashboard )
 🔗Live Preview: https://new_admin.zonebit.com/login
-🗓April 2021 –May 2024 | Haripur, Pakistan
 🔹Kinderland (Wholesale Shoe Store Admin Panel)
 🔗Live Demo: https://admin.venettini.app/
 🔹Mecca of Fitness (E-commerce Store for Fitness Products)
@@ -143,17 +150,10 @@ WORK EXPERIENCE
 🔹Cars Connected (Car Showroom Management System)
 🗓2 Months | Abbottabad, Pakistan
 EDUCATION
-🎓BS in Computer Science (2016 –2020) | Gov’t Post Graduate College, Haripur
-🎓Diploma in Mechanical Engineering (DAE) (2012 –2015) | Gov’t Polytechnic Institute,
-🎓S.S.C (Science Group) (2011) | Aligarh Public School, Haripur
 CERTIFICATIONS
 ✔Front-end web developer –Codematics Inc
 🔗LinkedIn:  https://www.linkedin.com/in/zeeshan-zahoor-220b0b130/|
 🔗GitHub:  https://github.com/zeeshanshaanu
-🗓May 2024 – Present
-🗓April 2021 – May 2024 | Haripur, Pakistan
-🎓BS in Computer Science (2016 – 2020) | Gov’t Post Graduate College, Haripur
-🎓Diploma in Mechanical Engineering (DAE) (2012 – 2015) | Gov’t Polytechnic Institute,
 ✔ Front-end web developer – Codematics Inc
 📍 Location: Haripur, Rawalpindi Pakistan (Open to Remote & On-Site Roles)
 🛠 Preferred Stack: React.js, Next.js, Node.js, Redux Toolkit, MongoDB

@@ -9,7 +9,6 @@ from extractor.pdf_reader import (
     extract_text_ocr,
     extract_text_pdfminer_wrapper,
 )
-from extractor.section_segmenter import segment_sections
 from config import (
     DEFAULT_SKILL_SET,
     MIN_EDUCATION,
@@ -69,7 +68,7 @@ def extract_and_save_candidate_info_to_excel(
 
         log_filename_score = f"{info['name'].lower().replace(' ', '_')}_score.txt"
         log_path = os.path.join(LOG_DIR, log_filename_score)
-        years, months, method_type, pattern_used = extract_experience(text, log_path)
+        years, months, method_type, pattern_used = extract_experience(text)
         total_exp = round(years + months / 12.0, 1)
 
         raw_education = extract_highest_education(text)

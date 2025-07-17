@@ -37,11 +37,15 @@ Certificates
 Elastic Search Silver contributor
 (06/2020 - Present)
 6+ years experienced engineering leader primarily focused on distributed computing and data platforms. Built and
+01/2020 – present Director Of Engineering, Target Corporation
+08/2016 – 05/2017 Data Scientist 4(Staff Engineer)., Apple Inc
 
 
 ===== EDUCATION =====
 05/2005 – 04/2009 Information Technology, SASTRA University Thanjavur
 Thanjavur, India
+07/2017 – 05/2020 Engineering Lead, Adobe Systems
+05/2005 – 04/2009
 
 
 ===== SKILLS =====
@@ -81,11 +85,8 @@ Tanjiro.bhatia67@gmail.com
 ===== UNKNOWN =====
 Tanjiro.bhatia67@gmail.com 9923312341 Telangana
 Professional Experience
-01/2020 – present Director Of Engineering, Target Corporation
 Bangalore, India Leading efforts on building low latency and high throughput performance data
-07/2017 – 05/2020 Engineering Lead, Adobe Systems
 Bangalore, India Lead the team for building transformer based deep learning approach to title generation
-08/2016 – 05/2017 Data Scientist 4(Staff Engineer)., Apple Inc
 Hyderabad, India One checkout Platform – Real time streaming application for Financial data
 Education
 Skills
@@ -95,6 +96,5 @@ Event Streaming Machine Learning
 Deep Learning Azure
 Data Ingestion Distributed Computing
 Playing Badminton, Tennis, Writing Tech Blogs Traveling
-05/2005 – 04/2009
 Information Technology, SASTRA University Thanjavur
 

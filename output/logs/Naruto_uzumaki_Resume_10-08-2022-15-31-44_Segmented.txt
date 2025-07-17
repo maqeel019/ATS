@@ -56,6 +56,10 @@ Worked on investment banking project for Barclays capital as client.
 Jul 2015 – Aug 2016
 Bangalore, India
 1 / 2
+Data Scientist, MU SIGMA Jan 2022 – present
+Software Engineer, iNeuron Intelligence Jul 2020 – May 2022
+Software Engineer, Thales Aug 2020 – May 2021
+Project Engineer, Wipro Technologies Jul 2015 – Aug 2016
 
 
 ===== EDUCATION =====
@@ -82,6 +86,8 @@ Thanjavur, India
 Elastic Search Silver contributor (06/2020 - Present)
 
 CERTIFICATES
+Bachelor Of Technology in Computer Science, Jaypee Institute Of Information Technology Jan 2013 – Aug 2017
+Information Technology, SASTRA University Thanjavur May 2005 – Apr 2009
 
 
 ===== SKILLS =====
@@ -120,19 +126,13 @@ https://github.com/
 hello.ineuron@gmail.com 9923312341 Telangana https://github.com/
 projects. Hands-on experience leveraging machine learning, deep learning, and transfer learning models to solve
 PROFESSIONAL EXPERIENCE
-Data Scientist, MU SIGMA Jan 2022 – present
 DATA QUALITY AND VALUE ASSESSMENT Bangalore, India
-Software Engineer, iNeuron Intelligence Jul 2020 – May 2022
 CUSTOMER SEGMENTS Bangalore, India
-Software Engineer, Thales Aug 2020 – May 2021
 One checkout Platform – Real time streaming application for Financial data Hyderabad, India
-Project Engineer, Wipro Technologies Jul 2015 – Aug 2016
 Worked on investment banking project for Barclays capital as client. Bangalore, India
 hello.ineuron@gmail.com 1 / 2
 EDUCATION
-Bachelor Of Technology in Computer Science, Jaypee Institute Of Information Technology Jan 2013 – Aug 2017
 Cumulative GPA : 8.1/10.0 Noida, Uttar Pradesh
-Information Technology, SASTRA University Thanjavur May 2005 – Apr 2009
 Cumulative GPA : 9.05/10.0 Thanjavur, India
 SKILLS
 hello.ineuron@gmail.com 2 / 2

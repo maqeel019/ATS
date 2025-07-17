@@ -180,6 +180,61 @@ def reassign_misplaced_lines(sections):
     return {k: "\n".join(v).strip() for k, v in updated_sections.items() if v}
 
 
+def post_process_sections(sections: dict) -> dict:
+    """
+    Fix leftover date lines in 'unknown' — move to experience or education.
+    Uses context window: previous + next line.
+    """
+    unknown = sections.get("unknown", "").splitlines()
+    new_unknown = []
+
+    edu_keywords = [
+        "school", "college", "university", "degree",
+        "bachelor", "master", "bs", "ms", "b.sc", "m.sc", "matriculation", "intermediate"
+    ]
+
+    date_pattern = re.compile(
+        r"\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\.?\s*\d{4}\b"
+        r"|\b\d{1,2}/\d{4}\b"
+        r"|\b\d{4}\b",
+        re.IGNORECASE
+    )
+
+    moved_exp = []
+    moved_edu = []
+
+    for idx, line in enumerate(unknown):
+        line_lower = line.lower()
+        prev_line = unknown[idx - 1].lower() if idx > 0 else ""
+        next_line = unknown[idx + 1].lower() if idx + 1 < len(unknown) else ""
+
+        if date_pattern.search(line):
+            # If this line or prev/next mention edu, count as education
+            context = f"{prev_line} {line_lower} {next_line}"
+            if any(kw in context for kw in edu_keywords):
+                moved_edu.append(line.strip())
+                continue
+            else:
+                moved_exp.append(line.strip())
+                continue
+
+        # keep other non-date lines in unknown
+        new_unknown.append(line)
+
+    if moved_exp:
+        sections.setdefault("experience", "")
+        sections["experience"] += "\n" + "\n".join(moved_exp)
+
+    if moved_edu:
+        sections.setdefault("education", "")
+        sections["education"] += "\n" + "\n".join(moved_edu)
+
+    # Cleaned unknown goes back
+    sections["unknown"] = "\n".join(new_unknown).strip()
+
+    return sections
+
+
 def segment_sections(text: str) -> dict:
     sections = {}
     current_section = None
@@ -196,7 +251,7 @@ def segment_sections(text: str) -> dict:
     lines = text.splitlines()
 
     for line in lines:
-        stripped = line.strip().lower().rstrip(":")
+        stripped = re.sub(r"^[=\-\s]+|[=\-\s]+$", "", line.strip().lower()).rstrip(":")
         match_found = None
         for h in headers:
             if re.fullmatch(h, stripped) or stripped.startswith(h):
@@ -368,5 +423,6 @@ def segment_sections(text: str) -> dict:
         joined = "\n".join(sec_lines).strip()
         if len(joined) >= 10:
             final_sections[sec] = joined
-
+            
+    final_sections = post_process_sections(final_sections)
     return final_sections

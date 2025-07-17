@@ -81,6 +81,13 @@ Build Tools & Containers (Docker, Kubernetes),
 Code Management and Documentation (Git, BitBucket, Azure Develops, Circle CI, Travis CI),
 Azure Services (Azure Data Factory, Azure Analytics Tools, Data Lake Analytics, Azure Synapse Analytics, Azure
 Stream Analytics)
+Senior Data Engineer, Mu Sigma 10/2020 – present | Bengalore, India
+Data Engineer, Amazon 04/2017 – 09/2020 | Hyderabad, India
+Expedia, Data Engineer 08/2015 – 03/2017
+10/2020 – present  | Bengalore, India
+04/2017 – 09/2020  | Hyderabad, India
+06/2009 – 06/2011  |  Mumbai, India
+06/2011 – 06/2015  |  Prayagraj, India
 
 
 ===== EDUCATION =====
@@ -108,6 +115,8 @@ Bengalore Karnataka
 PROFILE
 
 Responsible  Data  Engineer,  passionate  about  delivering  outstanding  quality  and  service.  Offering  7  years  of
+HSC, Bhavan's College of Arts, Science and Commerce 06/2009 – 06/2011 | Mumbai, India
+Bachelor of Engineering in Computer Science, 06/2011 – 06/2015 | Prayagraj, India
 
 
 ===== CONTACT =====
@@ -126,17 +135,8 @@ foundation in technology and business applications. Well-versed in teaching, dev
 customers and team members to achieve self-sustainability. Deep knowledge of visual analysis design principles.
 Significant experience in large-scale and enterprise-level deployments.
 PROFESSIONAL EXPERIENCE
-Senior Data Engineer, Mu Sigma 10/2020 – present | Bengalore, India
-Data Engineer, Amazon 04/2017 – 09/2020 | Hyderabad, India
-Expedia, Data Engineer 08/2015 – 03/2017
 EDUCATION
-HSC, Bhavan's College of Arts, Science and Commerce 06/2009 – 06/2011 | Mumbai, India
-Bachelor of Engineering in Computer Science, 06/2011 – 06/2015 | Prayagraj, India
 AWS certified Solution Architect Azure Data Scientist
-10/2020 – present  | Bengalore, India
-04/2017 – 09/2020  | Hyderabad, India
 needs  and  formulate  winning  solutions.  Able  to  work  with  clients  to  manipulate  data  to  gain  value.  Strong
 foundation  in  technology  and  business  applications.  Well-versed  in  teaching,  developing,  and  managing
-06/2009 – 06/2011  |  Mumbai, India
-06/2011 – 06/2015  |  Prayagraj, India
 

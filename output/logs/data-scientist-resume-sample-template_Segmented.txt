@@ -32,13 +32,13 @@ LMN Company, Anytown, USA
 ba Eng al) - AMT
 
 oe ee ee ee ee ed a a S| || A | |
+(123) 456-7090
 
 
 ===== UNKNOWN =====
 Robin Doe
 123 Main St
 Anytown, CA 12345
-(123) 456-7090
 fobin.doe@example,com
 SUMMARY
 EXPERIENCE

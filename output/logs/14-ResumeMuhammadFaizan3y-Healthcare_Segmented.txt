@@ -68,6 +68,11 @@ E-commerce Platform | Next.js, TypeScript, GraphQL, Stripe
 AWS Certified Developer Associate (2023)
 MongoDB Certified Developer (2023)
 MERN Stack Developer — Frontend Engineer
+WiseMan Innovation 2024 – Present
+Joyn Digital 2023 – 2023
+BellMedex 2021 – 2022
+Healthcare Management System | React, Redux, Node.js, MongoDB 2023
+E-commerce Platform | Next.js, TypeScript, GraphQL, Stripe 2023
 
 
 ===== EDUCATION =====
@@ -85,6 +90,7 @@ Frontend Development: Single Page Applications (SPA), Progressive Web Apps (PWA)
 Development Methodologies: Agile, Scrum, Test-Driven Development (TDD), CI/CD
 Performance Optimization: Code Splitting, Lazy Loading, Bundle Size Optimization, SEO Best Practices
 Bachelor of Science in Software Engineering
+Arid Agriculture University 2018 – 2022
 
 
 ===== CERTIFICATIONS =====
@@ -109,16 +115,10 @@ Madina Town Shamsabad , Islamabad
 ===== UNKNOWN =====
 Professional Summary
 Professional Experience
-WiseMan Innovation 2024 – Present
 Senior Frontend Developer Islamabad
-Joyn Digital 2023 – 2023
 Full Stack Developer Islamabad
-BellMedex 2021 – 2022
 Frontend Developer Islamabad
-Healthcare Management System | React, Redux, Node.js, MongoDB 2023
-E-commerce Platform | Next.js, TypeScript, GraphQL, Stripe 2023
 Education
-Arid Agriculture University 2018 – 2022
 Bachelor of Science in Software Engineering Chakwal
 Certifications & Professional Development
 (cid:18) faizan-three.vercel.app

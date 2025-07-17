@@ -103,7 +103,7 @@ _DEGREE_KEYWORDS = {
     "diploma": 1,
     "polytechnic": 1,
     "high school": 0,
-    "Higher school": 0,
+    "higher school": 0,
     "hsc": 0,
     "ssc": 0,
     "intermediate": 0,

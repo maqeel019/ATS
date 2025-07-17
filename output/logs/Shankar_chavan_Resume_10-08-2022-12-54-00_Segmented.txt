@@ -13,6 +13,8 @@ creating data pipelines.
 Banglore, India
 Data Science Intern, iNeuron.ai
 Data Science Intern, iNeuron.ai
+11/2021 – present Jr. Data Scientist, iNeuron.ai
+04/2021 – 11/2021 Data Science Intern, iNeuron.ai
 
 
 ===== PROJECTS =====
@@ -129,6 +131,8 @@ Profile
 
 Data Scientist with 1.5+ years of experience comprising Deep learning, Computer vision and Machine learning. Strong
 willingness to exhibit my proficiency in Deep learning and Machine Learning Algorithms in professional environment.
+2015 – 2017 Master Degree, SPPU University
+2012 – 2015 Bachelors Degree, SPPU University
 
 
 ===== CONTACT =====
@@ -138,9 +142,7 @@ shankar.chavan@gmail.com
 ===== UNKNOWN =====
 shankar.chavan@gmail.com 9921xxxxxx GitHub HackerRank Linkedin
 Professional Experience
-11/2021 – present Jr. Data Scientist, iNeuron.ai
 Banglore, India Processing, cleansing and verifying the integrity of data used for analysis.
-04/2021 – 11/2021 Data Science Intern, iNeuron.ai
 Projects
 Skills
 Programming languages : Machine learning algorithms :
@@ -149,7 +151,5 @@ ANN, CNN, RNN Computer Vision :
 Database Segmentation, OpenCV
 Cloud Tensorflow, PyTorch
 Education
-2015 – 2017 Master Degree, SPPU University
-2012 – 2015 Bachelors Degree, SPPU University
 HackerRank Problem Solving Data Science (DLCVNLP)
 

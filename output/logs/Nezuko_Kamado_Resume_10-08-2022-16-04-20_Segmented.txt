@@ -63,6 +63,8 @@ AiOps
 Deep Learning Software Engineer
 Rest Api product categories for internal structure using PCA and
 Software Engineer
+01/2018 – present | Bangalore, India
+01/01/2021
 
 
 ===== SKILLS =====
@@ -191,7 +193,6 @@ https://github.com/
 PROFESSIONAL EXPERIENCE
 Kamado Associate Lead
 CenturyLink Technology India
-01/2018 – present | Bangalore, India
 Data Scientist Experience in Data Analysis, visualization, statistics,
 programming and Machine Learning techniques.
 Extensive Model building experience with Machine
@@ -231,7 +232,6 @@ ICASSP Outstanding Paper Award, For
 ‘Slow-Fast Auditory Streams For Audio
 Recognition’
 ICASSP
-01/01/2021
 Associate Lead
 Experience in Data Analysis, visualization, statistics,
 Experience in creating mature Data science pipelines

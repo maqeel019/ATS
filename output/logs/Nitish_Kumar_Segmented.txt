@@ -15,6 +15,13 @@ developed keeping in mind that traveling through flights has become an integral 
 of todayʼs lifestyle as more and more people are opting for faster-traveling options.
 Wafer is a piece of silicon or other semiconductor material, designed in the form of a very thin disc. Wafers are
 interactive web applications can be built with streamlit. Streamlit lets you create apps for your machine learning
+10/2021 – present ML Engineer - II
+08/2021 – 10/2021 ML Engineer
+06/2021 – present MBA
+12/2018 – 12/2020 MCA
+06/2021 – present
+12/2018 – 12/2020
+12/2015 – 12/2018
 
 
 ===== PROJECTS =====
@@ -58,6 +65,7 @@ Python, C++
 
 Data Mining
 Numpy, Pandas, Matplotlib, Plotly
+12/2015 – 12/2018 BCA
 
 
 ===== SKILLS =====
@@ -110,8 +118,6 @@ xyz@gmail.com 9977141714 GitHub LinkedIn Portfolio
 learning projects. I'm curious about data, training Machine Learning/ Deep Learning models, and providing
 beautiful insights that are easily understandable. Hands-on experience in leveraging machine learning, deep
 Professional Experience
-10/2021 – present ML Engineer - II
-08/2021 – 10/2021 ML Engineer
 Projects
 projects with simple Python scripts.
 https://github.com/vishalsingh17/Explore_classifier_UI
@@ -125,10 +131,7 @@ This demo app shows a simple user profile app set up using index.html with pure 
 backend with express module MongoDB for data storage. All components are docker-based.
 https://github.com/vishalsingh17/DockerWithMongoDB
 Education
-06/2021 – present MBA
 IGNOU
-12/2018 – 12/2020 MCA
-12/2015 – 12/2018 BCA
 Python Machine Learning Masters
 Advanced SQL Advanced Certificate Program in Data Science
 Skills
@@ -138,7 +141,4 @@ Databases Frameworks
 MySQL, MongoDB, Redis Flask, Django, Fast API
 Version Control Tools
 Git, DVC Pycharm, Vscode, Postman, Sublime
-06/2021 – present
-12/2018 – 12/2020
-12/2015 – 12/2018
 

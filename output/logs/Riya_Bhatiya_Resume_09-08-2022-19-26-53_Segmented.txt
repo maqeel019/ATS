@@ -32,6 +32,7 @@ financial data for Accounting and helps suppliers to
 Elastic Search Silver contributor (06/2020 - Present) track total amount to be paid via Auto Pay or Request
 Pay model
 Crafted a scalable streaming solution using Flink
+01/2013 – 08/2017 | Noida, Uttar Pradesh
 
 
 ===== SKILLS =====
@@ -110,6 +111,8 @@ leveraging
 science  projects.  Hands-on  experience
 machine learning, deep learning, and transfer learning
 models to solve challenging business problems.
+science projects. Hands-on experience leveraging 01/2022 – present | Bangalore, India
+Elastic Search Silver contributor (06/2020 - Present)
 
 
 ===== CONTACT =====
@@ -122,14 +125,12 @@ riya.bhatia67@gmail.com 9923312341 Telangana
 Profile Professional Experience
 I have 2 years of work experience in Data Science with a GeeksforGeeks
 proven ability and history of developing full-stack data Freelance Mentor Of Data Science
-science projects. Hands-on experience leveraging 01/2022 – present | Bangalore, India
 machine learning, deep learning, and transfer learning Mentor of Data Science at GeeksforGeeks
 models to solve challenging business problems. Relevant Coursework : Machine Learning, Applied
 Education
 Skills
 Jaypee Institute Of Information Technology
 Bachelor Of Technology in Computer Science
-01/2013 – 08/2017 | Noida, Uttar Pradesh
 Cumulative GPA : 8.1/10.0
 Relevant Coursework : Algorithms and Data
 Structure, Database Management System, Operating
@@ -137,7 +138,6 @@ System, Computer Network, Linear Algebra, Discrete
 Mathematics, Fuzzy Logic and Neural Network, Big
 Data
 Certificates
-Elastic Search Silver contributor (06/2020 - Present)
 Data Warehousing | Event Streaming
 Machine Learning | Deep Learning | Azure
 Data Ingestion | Distributed Computing

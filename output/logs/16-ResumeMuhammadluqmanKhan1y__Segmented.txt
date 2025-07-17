@@ -54,6 +54,7 @@ e Developed a front end of Hire verified using Reacts . In this
 system company hire a verified employ. In this project i also
 develop full support system of Hire verified using React js
 During my inaugural internship, | achieved
+GlaxIT Software House 2024-2025
 
 
 ===== SKILLS =====
@@ -101,7 +102,6 @@ SUMMARY
 projects with teams using Jira and GitHub, | focus on delivering impactful, efficient solutions.
 EDUCATION
 Industry Experience
-GlaxIT Software House 2024-2025
 As a React Js Developer
 Axonyx Verse
 SKILLS

@@ -110,6 +110,12 @@ Advanced React - Meta Front-End Developer Professional
 Successfully implemented responsive web design techniques to ensure
 Software Engineering
 Software Engineer
+G15, Islamabad, Pakistan 29 September, 1995
+09/2023 - Present, Islamabad Typescript Redux/RTK Axios React Query
+Projects meet (09/2022 - 12/2022)
+06/2020 - 09/2022,
+Easypaisa Online Paymenst System (04/2023 - 06/2023)
+Certiﬁcate (07/2023 - 07/2023)
 
 
 ===== PROJECTS =====
@@ -154,6 +160,7 @@ implementation of organizational goals.
 03345674415
 G15, Islamabad, Pakistan
 29 September, 1995
+02/2016 - 06/2020,
 
 
 ===== CONTACT =====
@@ -167,12 +174,10 @@ github.com/mominhyatkhan
 
 ===== UNKNOWN =====
 mominhyatkhandeveloper@gmail.com 03345674415
-G15, Islamabad, Pakistan 29 September, 1995
 linkedin.com/in/mominhyatkhan github.com/mominhyatkhan
 WORK EXPERIENCE (4 YEARS) KEY SKILLS
 React Next JS Javascript MySql
 AKSA-SDS (Telenor Microfinance Bank - Easypaisa)
-09/2023 - Present, Islamabad Typescript Redux/RTK Axios React Query
 system, a crucial initiative aimed at revolutionizing digital financial transactions. The Node JS Nest JS REST/SOAP Web3
 Solidity Tailwind/ Material UI Agile
 Git Version control HTML CSS Eslint/prettier
@@ -180,20 +185,16 @@ Conducted sprint planning, daily stand-ups, and retrospectives. husky Socket.io
 Adapting to rapidly evolving requirements by implementing a flexible
 Leading a team of five front-end developers.
 Vlaunch: The Launchpad where Leading Influencers and
-Projects meet (09/2022 - 12/2022)
 EDUCATION
 WORK EXPERIENCE (4 YEARS)
-06/2020 - 09/2022,
 Islamabad, Pakistan
 Improved website performance by optimizing code, reducing page load
 time, and enhancing overall user experience.
-02/2016 - 06/2020,
 front end of Vlaunch, a dynamic and engaging website, utilizing the
 development, I employed cutting-edge techniques and best practices to
 craft an intuitive user interface and seamless user experience. By
 incorporating modern web development standards.
 Frontend: React, Tailwind, Axios, Redux, Web3, Moralis
-Easypaisa Online Paymenst System (04/2023 - 06/2023)
 I developed a comprehensive web portal for Easypaisa's online payment
 system, designed to streamline merchant onboarding and management
 registration and onboarding of merchants like Foodpanda..Merchant
@@ -203,7 +204,6 @@ and conduct necessary AML checks. This system enhances the eﬃciency
 and security of managing merchant relationships for Easypaisa.
 Frontend : Next, Tailwind, Axios, Redux
 Backend : (Java Spring boot 2), Mysql
-Certiﬁcate (07/2023 - 07/2023)
 https://www.coursera.org/account/accomplishments/verify/MTKY8Z9F6JU
 Urdu
 Native or Bilingual Proﬁciency

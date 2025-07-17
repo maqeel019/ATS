@@ -53,6 +53,8 @@ Highly involved in development activities as per requirement from client
 Taking ownership of technical issues, and Handling issues
 Proper documentation on development and Issues handled providing the Root cause
 of the problem.
+05/2020 – present Data Engineer
+01/2019 – 05/2020 Data Engineer
 
 
 ===== SKILLS =====
@@ -125,6 +127,8 @@ Profile
 for  Data  warehousing  environments.  Practical  understanding  of  Data  modeling  concepts  like  Start-Schema
 Modeling.  Snowflake  Schema  Modeling,  Fact  and  Dimension  tables.  Comprehensive  knowledge  and
 Master of Computer Applications
+06/2015 – 06/2018 Master of Computer Applications
+06/2012 – 06/2015 Bachelor in Computer Science
 
 
 ===== CONTACT =====
@@ -138,9 +142,7 @@ Modeling. Snowflake Schema Modeling, Fact and Dimension tables. Comprehensive kn
 experience in process improvement, normalization/de-normalization, data extraction, data cleansing, and
 data manipulation. Exceptional troubleshooting skills with ETL technologies.
 Professional Experience
-05/2020 – present Data Engineer
 Bangalore, India Wipro
-01/2019 – 05/2020 Data Engineer
 Mumbai, India Capgemini
 Role: SQL and SSIS Developer & SQL Support
 Skills
@@ -151,9 +153,7 @@ MySQL, Elastic Search, Cassandra, HBase, Hive, Hadoop, Spark, Kafka, BigQuery
 Dashboarding & Monitoring Tools Airflow, IBM Tivoli
 AWS Services Docker, Kubernetes
 Education
-06/2015 – 06/2018 Master of Computer Applications
 Prayagraj, India National Institute of Technology Allahabad (MNNIT), U.P
-06/2012 – 06/2015 Bachelor in Computer Science
 Mumbai, India Mumbai University
 AWS certified Database AWS certified Solution Azure Data Scientist
 specialty Architect

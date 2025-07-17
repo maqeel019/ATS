@@ -70,6 +70,12 @@ Node.js).
 • Implemented admin-exclusive features like doctors management and other configurations.
 • Implemented front-end functionality with React.js for a responsive and dynamic user interface.
 •   Major in Software Engineering (3.32 CGPA)
+LinkedIn | GitHub | thedev.hamza@gmail.com | 0316-8767587 | Islamabad, Pakistan
+Software Engineer aSimplify Full Time, On-site, Islamabad 04/2024 - Current
+Stem Wizards Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
+MERN Stack Trainee Contour Software Full Time, on-site, Islamabad 04/2023 - 06/2023
+LinkedIn |  GitHub |  thedev.hamza@gmail.com |  0316-8767587 |  Islamabad, Pakistan
+Abbottabad, Paskitan  03/2019 - 07/2023
 
 
 ===== PROJECTS =====
@@ -104,6 +110,10 @@ Abbottabad, Paskitan
 Hamza Hamid
 
 • NEXT | React | NUXT | MS SQL | PostgreSQL | Node.js | Express.js | MongoDB | Git | Frontend | Backend | Performance Optimization
+ Remote HMS System 04/2023- 06/2023
+ Asaan Movers 03/2022 - 12/2022
+Bachelor of Science COMSATS UNIVERSITY Abbottabad, Paskitan 03/2019 - 07/2023
+Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
 
 
 ===== CONTACT =====
@@ -111,22 +121,12 @@ LinkedIn |   GitHub |   thedev.hamza@gmail.com |  0316-8767587 |  Islamabad, Pak
 
 
 ===== UNKNOWN =====
-LinkedIn | GitHub | thedev.hamza@gmail.com | 0316-8767587 | Islamabad, Pakistan
 Experience _______________________________________________________________________________________
-Software Engineer aSimplify Full Time, On-site, Islamabad 04/2024 - Current
-Stem Wizards Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
 Frontend Developer Academia
-MERN Stack Trainee Contour Software Full Time, on-site, Islamabad 04/2023 - 06/2023
 Projects __________________________________________________________________________________________
- Remote HMS System 04/2023- 06/2023
- Asaan Movers 03/2022 - 12/2022
 Skills ____________________________________________________________________________________________
 Education ________________________________________________________________________________________
-Bachelor of Science COMSATS UNIVERSITY Abbottabad, Paskitan 03/2019 - 07/2023
 • Major in Software Engineering (3.32 CGPA)
-LinkedIn |  GitHub |  thedev.hamza@gmail.com |  0316-8767587 |  Islamabad, Pakistan
-Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
  Remote HMS System
  Asaan Movers
-Abbottabad, Paskitan  03/2019 - 07/2023
 

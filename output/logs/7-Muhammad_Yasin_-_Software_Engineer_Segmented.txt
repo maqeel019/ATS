@@ -41,6 +41,8 @@ Abbottabad, Khyber Pakhtunkhwa, Pakistan
 Motivated Junior Front-End Developer with a degree in Software Engineering and practical experience in front-end and mobile
 application development. Skilled in building responsive, user-friendly designs and optimizing performance. Currently enhancing
 •  Developed  a  responsive  e-learning  platform  and
+Aug 2023 - Sep 2023
+Front-End Developer (Intern)                      Dec 2024 - Feb 2025
 
 
 ===== EDUCATION =====
@@ -82,6 +84,7 @@ Full-Stack  Project:  E-commerce  Clothing  Website
 (Responsive and dynamic shopping platform)
 Hifah Technologies | Abbottabad Bachelor of Software Engineering
 Bachelor of Software Engineering
+Mar 2023 - Mar
 
 
 ===== CONTACT =====
@@ -102,7 +105,6 @@ Work Experience Core Skills
 Work Experience
 Full Stack Developer (Artsello - FYP)
 COMSATS University, Abbottabad
-Mar 2023 - Mar
 Core Skills
 Programming
 Tools:
@@ -122,11 +124,9 @@ design, cross-browser compatibility,
 Design Conversion: Figma to HTML/CSS,
 Front-End Developer
 Deventia | Remote
-Aug 2023 - Sep 2023
 Collaboration: Team-oriented with
 improving load times and enhancing user interaction.
 while ensuring cross-browser compatibility.
-Front-End Developer (Intern)                      Dec 2024 - Feb 2025
 Hifah Technologies | Abbottabad
 Started Learning Angular and applied concepts by
 Developed a responsive e-learning platform and

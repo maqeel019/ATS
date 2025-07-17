@@ -45,6 +45,7 @@ Frontend Developer (Next Js && React Js)
 An ambitious Front-End Developer eager to contribute
 Frontend Developer
 Frontend Developer (Next Js)
+tracking, and content uploads. June/2025 + Udemy
 
 
 ===== PROJECTS =====
@@ -193,7 +194,6 @@ Certifications
 EXPERIENCE
 Projects:
 Funsol API Dashboard: A platform for managing APIs, media content, and The Complete Guide
-tracking, and content uploads. June/2025 + Udemy
 Technologies: React Js Tailwind Css React Query React Hook Form URL: https://www.udemy.com/certificate/UC-
 EDUCATION
 SKILLS

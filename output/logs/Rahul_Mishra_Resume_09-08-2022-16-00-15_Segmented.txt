@@ -76,6 +76,8 @@ The real-time streaming platform captures & processes financial data for Account
 helps suppliers to track the total amount to be paid via Auto Pay or Request Pay model
 Crafted a scalable streaming solution using Flink StateFun to handle ~800k booking streams
 each day
+Data Engineer, Wipro May 2019 – present
+Data Engineer, Capgemini Jan 2018 – May 2019
 
 
 ===== EDUCATION =====
@@ -110,6 +112,8 @@ warehousing  environments.  Practical  understanding  of  Data  modeling  concep
 Schema  Modeling,  Fact  and  Dimension  tables.  Comprehensive  knowledge  and  experience  in  process  improvement,
 normalization/de-normalization,  data  extraction,  data  cleansing,  and  data  manipulation.  Exceptional  troubleshooting  skills
 with ETL technologies.
+Master of Computer Applications, National Institute of Technology Allahabad (MNNIT), U.P Jun 2014 – Jun 2017
+Bachelor in Computer Science, Lucknow University Jun 2011 – Jun 2014
 
 
 ===== CONTACT =====
@@ -134,12 +138,8 @@ Grafana, Kibana, Power BI Airflow, IBM Tivoli
 AWS Services Build Tools & Containers
 S3 bucket, EMR, Lambda, Cloudwatch, DynamoDB, Redshift, Docker, Kubernetes
 PROFESSIONAL EXPERIENCE
-Data Engineer, Wipro May 2019 – present
 rahul.mishra@gmail.com 1 / 2
-Data Engineer, Capgemini Jan 2018 – May 2019
 EDUCATION
-Master of Computer Applications, National Institute of Technology Allahabad (MNNIT), U.P Jun 2014 – Jun 2017
-Bachelor in Computer Science, Lucknow University Jun 2011 – Jun 2014
 AWS certified Database specialty AWS certified Solution Architect
 AWS certified Practitioner Azure Fundamental
 rahul.mishra@gmail.com 2 / 2

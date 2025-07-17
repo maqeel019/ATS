@@ -60,6 +60,10 @@ from scratch with full proﬁciency. Throughout my career, I have successfully d
 Software Engineer
 I am a skilled and experienced front-end developer with over three years of experience in React JS and Material UI. I possess a strong
 from scratch with full proﬁciency. Throughout my career, I have successfully developed and delivered multiple international projects
+11/2021 - 05/2024, United State Material UI Bootstrap Tailwind Css Node
+11/2021 - 05/2024,
+04/2020 - 11/2021,
+09/2015 - 01/2019,
 
 
 ===== PROJECTS =====
@@ -82,6 +86,7 @@ understanding of web-based responsive applications and have a proven track recor
 for US clients. I am eager to bring my skills and experience to a dynamic team in an immediate joining role, where I can contribute to
 impactful projects and further reﬁne my technical abilities.
 Matta, Pakistan
+04/2020 - 11/2021, Mingora, Pakistan TOOLS & TECHNOLOGIES
 
 
 ===== SKILLS =====
@@ -158,11 +163,9 @@ WORK EXPERIENCE SKILLS
 React JS Developer
 React Js Firebase API's Integration
 Chopdawg US
-11/2021 - 05/2024, United State Material UI Bootstrap Tailwind Css Node
 A remote work company which is allocated in US Philadelphia
 Redux Mongodb Express Next Js
 Ford 9 Solutions
-04/2020 - 11/2021, Mingora, Pakistan TOOLS & TECHNOLOGIES
 A company which provides internships and other paid programs to
 software engineers for future development purpose.
 PROJECTS
@@ -177,13 +180,10 @@ Pashto Punjabi
 Full Professional Proficiency Limited Working Proficiency
 EDUCATION
 WORK EXPERIENCE
-11/2021 - 05/2024,
 United State
-04/2020 - 11/2021,
 Mingora, Pakistan
 OMS (overcomings)
 focused on organizing and managing food resources eﬃciently.
-09/2015 - 01/2019,
 Pakistan
 Car Management System
 SKILLS

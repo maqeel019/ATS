@@ -7,78 +7,115 @@ from config import _MONTH_MAP
 from dateutil.relativedelta import relativedelta
 from extractor.section_segmenter import segment_sections  # make sure this is imported
 
+_NUM_WORDS = {
+    "zero": 0, "one": 1, "two": 2, "three": 3, "four": 4,
+    "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9,
+    "ten": 10, "eleven": 11, "twelve": 12, "thirteen": 13,
+    "fourteen": 14, "fifteen": 15, "sixteen": 16, "seventeen": 17,
+    "eighteen": 18, "nineteen": 19, "twenty": 20,
+    "half": 0.5
+}
+
 
 def extract_years_months(exp_str):
-    parts = exp_str.strip().split()
-    years = int(parts[0]) if "year" in parts[1] else 0
-    months = int(parts[2]) if len(parts) > 2 and "month" in parts[3] else 0
+    parts = exp_str.strip().lower().split()
+    years = 0
+    months = 0
+
+    if len(parts) >= 2:
+        if "year" in parts[1]:
+            years = int(parts[0])
+    if len(parts) >= 4:
+        if "month" in parts[3]:
+            months = int(parts[2])
+
+    # Handle cases like "6 months" (no years part)
+    if len(parts) == 2 and "month" in parts[1]:
+        months = int(parts[0])
+
     return years, months
 
 
-def extract_experience_from_text(text: str) -> Tuple[int, int, str]:
+def extract_experience_from_text(text: str):
     text = text.lower()
-    # Common patterns for experience or work‑years
+
     patterns = [
-        # 4+ years of (optional work) experience
-        re.compile(
-            r"(\d+(?:\.\d+)?)\s*\+?\s*(?:years?|yrs?)"
-            r"(?:\s*of\s*(?:work\s*)?)?"
-            r"(?:experience)?",
-            re.IGNORECASE
-        ),
-        re.compile(
-            r"have\s*(\d+(?:\.\d+)?)\s*\+?\s*years?(?:\s*of\s*work)?", re.IGNORECASE),
+        re.compile(r"(\d+(?:\.\d+)?)\s*\+?\s*(?:to\s*\d+)?\s*(?:years?|yrs?)"),
+        re.compile(r"over\s+(\d+(?:\.\d+)?)\s*(?:years?|yrs?)"),
+        re.compile(r"(\d+)\s*(?:months?)\s*(?:of\s+)?(?:[a-z\s]{0,10})\s*(?:experience|work)"),
+        re.compile(r"(?:over|around|approximately|nearly|about)?\s*([a-z\- ]+)\s*(?:years?|yrs?)")
     ]
+
 
     for pattern in patterns:
         match = pattern.search(text)
         if match:
-            years = float(match.group(1))
-            y_int = int(years)
-            months = round((years - y_int) * 12)
-            return y_int, months, "summary"
+            if pattern.pattern.endswith("months?)"):
+                months = int(match.group(1))
+                return 0, months, "summary"
+
+            raw = match.group(1).strip()
+            if raw.replace(".", "", 1).isdigit():
+                value = float(raw)
+            else:
+                # Try word → number conversion
+                words = raw.replace("-", " ").split()
+                value = 0
+                for word in words:
+                    word = word.strip()
+                    if word in _NUM_WORDS:
+                        value += _NUM_WORDS[word]
+                if value == 0:
+                    continue  # If no match, skip
+
+            years = int(value)
+            months = round((value - years) * 12)
+            return years, months, "summary"
 
     return 0, 0, "none"
 
 
-# def extract_experience_from_logs(logs_dir: str) -> dict:
-#     """
-#     Loop through all .txt log files in the specified directory,
-#     extract experience from each, and return a mapping of filename to experience.
-#     """
-#     experience_map = {}
-#     for filename in os.listdir(logs_dir):
-#         if filename.endswith(".txt"):
-#             log_path = os.path.join(logs_dir, filename)
-#             with open(log_path, "r", encoding="utf-8") as f:
-#                 content = f.read()
-#                 years, months, method = extract_experience_from_text(content)
-#                 experience_map[filename] = (years, months, method)
-#     return experience_map
-
-
 def normalize_text(text: str) -> str:
     text = text.lower()
+    # Replace bracketed text
     text = re.sub(r"[\[\(]{1}\s*(.*?)\s*[\]\)]", r"\1", text)
     text = text.replace("–", "-").replace("—", "-")
     text = re.sub(r"-{2,}", "-", text)
     text = re.sub(r"\n+", " ", text)
     text = re.sub(r"\s{2,}", " ", text)
+
+    # 📌 NEW: replace non-breaking spaces & invisible
+    text = text.replace("\xa0", " ").replace("\u200b", " ")
+    text = re.sub(r"[^\S\r\n]+", " ", text)  # multiple non-breaking = space
+
     return text.strip()
 
 
 def merge_date_ranges(ranges: List[Tuple[datetime, datetime]]) -> List[Tuple[datetime, datetime]]:
+
     if not ranges:
         return []
-    sorted_ranges = sorted(ranges, key=lambda r: r[0])
+
+    # Auto-fix any inverted (start > end)
+    fixed_ranges = []
+    for start, end in ranges:
+        if start > end:
+            start, end = end, start
+        fixed_ranges.append((start, end))
+
+    sorted_ranges = sorted(fixed_ranges, key=lambda r: r[0])
     merged = [sorted_ranges[0]]
+
     for current in sorted_ranges[1:]:
         last_start, last_end = merged[-1]
         curr_start, curr_end = current
-        if curr_start <= last_end or curr_start <= last_end + relativedelta(months=1):
+
+        # If current starts before last ends, or within 1 month gap, merge
+        if curr_start <= last_end or curr_start <= last_end + relativedelta(days=5):
             merged[-1] = (last_start, max(last_end, curr_end))
         else:
             merged.append(current)
+
     return merged
 
 
@@ -169,6 +206,16 @@ def extract_experience_ranges(
             r"(\d{4})\s*[-–—]\s*(present|now|current|continue|\d{4})",
             re.IGNORECASE
         ), "year-only"),
+        (re.compile(
+            r"(\d{4})\s+(\d{4})",
+            re.IGNORECASE
+        ), "year-only-space"),
+        # Add this pattern too:
+        (re.compile(
+            r"(\d{4})[^\d]{1,5}(\d{4})",
+            re.IGNORECASE
+        ), "year-only-fuzzy")
+
     ]
 
     for pattern, tag in patterns:
@@ -177,30 +224,26 @@ def extract_experience_ranges(
                 if tag == "month-name + year-only":
                     sm, sy, pres, em, ey = match.groups()
                     start = datetime(int(sy), _MONTH_MAP[sm.lower()], 1)
-                    end = (
-                        datetime(now.year, now.month, 1)
-                        if pres.lower() in ("present", "now", "current", "continue")
-                        else datetime(int(ey), _MONTH_MAP[em.lower()], 1)
-                    )
+                    end = now if pres.lower() in ("present", "now", "current",
+                                                  "continue") else datetime(int(ey), _MONTH_MAP[em.lower()], 1)
                 elif tag == "reverse-order":
                     sy, sm, end_token, _ = match.groups()
                     start = datetime(int(sy), _MONTH_MAP[sm.lower()], 1)
-                    if end_token.lower() in ("present", "now", "current", "continue"):
-                        end = datetime(now.year, now.month, 1)
-                    else:
-                        ey, em = end_token.split()
-                        end = datetime(int(ey), _MONTH_MAP[em.lower()], 1)
+                    end = now if end_token.lower() in ("present", "now", "current", "continue") else datetime(
+                        int(end_token.split()[0]), _MONTH_MAP[end_token.split()[1].lower()], 1)
                 elif tag == "mm/yyyy":
                     m1, y1, end_token, m2, y2 = match.groups()
                     start = datetime(int(y1), int(m1), 1)
-                    if end_token.lower() in ("present", "now", "current", "continue"):
-                        end = datetime(now.year, now.month, 1)
-                    else:
-                        end = datetime(int(y2), int(m2), 1)
+                    end = now if end_token.lower() in ("present", "now", "current",
+                                                       "continue") else datetime(int(y2), int(m2), 1)
                 elif tag == "month-only + year":
                     sm, em, year = match.groups()
                     start = datetime(int(year), _MONTH_MAP[sm.lower()], 1)
                     end = datetime(int(year), _MONTH_MAP[em.lower()], 1)
+                elif tag == "year-only-fuzzy":
+                    sy, ey = match.groups()
+                    start = datetime(int(sy), 1, 1)
+                    end = datetime(int(ey), 1, 1)
                 elif tag == "fuzzy-month":
                     sm, sy, em, ey = match.groups()
                     start = datetime(int(sy), _MONTH_MAP[sm.lower()], 1)
@@ -208,49 +251,46 @@ def extract_experience_ranges(
                 else:  # year-only
                     sy, end_token = match.groups()
                     start = datetime(int(sy), 1, 1)
-                    if end_token.lower() in ("present", "now", "current", "continue"):
-                        end = datetime(now.year, now.month, 1)
-                    else:
-                        end = datetime(int(end_token), 1, 1)
+                    end = now if end_token.lower() in ("present", "now", "current",
+                                                       "continue") else datetime(int(end_token), 1, 1)
 
-                if end > start:
-                    date_ranges.append((start, end))
-                    used_patterns.add(tag)
+                # ✅ Stronger checks:
+                if start > now:
+                    continue
+                if end > now:
+                    end = now
+                if end <= start:
+                    continue
 
-            except Exception:
+                months = (end.year - start.year) * \
+                    12 + (end.month - start.month)
+                if months > 480:  # 40 years? Unlikely!
+                    continue
+
+                date_ranges.append((start, end))
+                used_patterns.add(tag)
+
+            except Exception as e:
+                print(f"⚠️ Pattern {tag} failed: {e}")
                 continue
 
     if not date_ranges:
         return (0, 0), "none"
 
-    # 🗑️ Clean overlaps with education & long gaps
     cleaned = filter_education_like_ranges(date_ranges, education_date_ranges)
-
     merged = merge_date_ranges(cleaned)
-    total_months = sum(
-        (end.year - start.year) * 12 + (end.month - start.month)
-        for start, end in merged
-    )
+    total_months = sum((end.year - start.year) * 12 +
+                       (end.month - start.month) for start, end in merged)
     return divmod(total_months, 12), " + ".join(sorted(used_patterns))
 
 
-def extract_experience(text: str, log_path: str = None) -> Tuple[int, int, str, str]:
-    # 1) Try explicit statement in text
+def extract_experience(text: str) -> Tuple[int, int, str, str]:
+    # 1) Try explicit summary statement
     years, months, summary_method = extract_experience_from_text(text)
     if years > 0 or months > 0:
         return years, months, "summary", summary_method
 
-    # 2) Try explicit statement in log file (optional)
-    if log_path and os.path.exists(log_path):
-        for filename in os.listdir(log_path):
-            if filename.endswith(".txt"):
-                with open(os.path.join(log_path, filename), "r", encoding="utf-8") as f:
-                    log_content = f.read()
-                y, m, log_method = extract_experience_from_text(log_content)
-                if y > 0 or m > 0:
-                    return y, m, "logs", log_method
-
-    # 3) Extract date range ONLY from experience section
+    # 2) Fallback: date ranges
     sections = segment_sections(text)
     experience_text = sections.get("experience", "")
     if experience_text:
@@ -258,5 +298,5 @@ def extract_experience(text: str, log_path: str = None) -> Tuple[int, int, str, 
         if y2 > 0 or m2 > 0:
             return y2, m2, "date_range", range_method
 
-    # 4) Nothing found
+    # 3) Nothing found
     return 0, 0, "none", "none"
