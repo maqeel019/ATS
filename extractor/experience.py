@@ -271,7 +271,6 @@ def extract_experience_ranges(
                 used_patterns.add(tag)
 
             except Exception as e:
-                print(f"⚠️ Pattern {tag} failed: {e}")
                 continue
 
     if not date_ranges:

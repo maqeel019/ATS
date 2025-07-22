@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from tqdm import tqdm
 from scoring.scoring import assign_scores_and_ranks
 from extractor.education import extract_highest_education, map_to_standard_degree
 from extractor.info_extractor import extract_candidate_info, extract_links_from_pdf
@@ -19,7 +20,7 @@ from config.config import (
     MIN_SCORE,
     LOG_DIR,
 )
-from config.skills_config import (DEFAULT_SKILL_SET)
+from config.skills_config import DEFAULT_SKILL_SET
 from utils.file_utils import load_resumes_from_folder, save_to_excel
 from utils.common import update_links
 from extractor.experience import extract_experience
@@ -39,7 +40,9 @@ def extract_and_save_candidate_info_to_excel(
     rows = []
     os.makedirs(LOG_DIR, exist_ok=True)
 
-    for path in load_resumes_from_folder(pdf_folder):
+    pdf_paths = load_resumes_from_folder(pdf_folder)
+
+    for path in tqdm(pdf_paths, desc="Processing resumes", unit="file"):
         fn = os.path.basename(path)
 
         texts = []
@@ -66,8 +69,6 @@ def extract_and_save_candidate_info_to_excel(
         info = extract_candidate_info(text, skill_set, filename=fn)
         info = update_links(info, embedded_links)
 
-        log_filename_score = f"{info['name'].lower().replace(' ', '_')}_score.txt"
-        log_path = os.path.join(LOG_DIR, log_filename_score)
         years, months, method_type, pattern_used = extract_experience(text)
         total_exp = round(years + months / 12.0, 1)
 
@@ -103,10 +104,9 @@ def extract_and_save_candidate_info_to_excel(
         df.drop(columns=["Text"], inplace=True)
 
     save_to_excel(df, output_all_excel)
-    os.makedirs(os.path.dirname(OUTPUT_FILTERED_EXCEL), exist_ok=True)
+    os.makedirs(os.path.dirname(output_filtered_excel), exist_ok=True)
     apply_filtering(df, required_skills, min_experience, min_education, min_score, output_filtered_excel)
 
 
 if __name__ == "__main__":
     extract_and_save_candidate_info_to_excel()
-

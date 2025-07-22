@@ -62,32 +62,32 @@ ATS/
 ├── extractor/                  # Extraction logic
 │   ├── education.py
 │   ├── experience.py
-│   ├── info\_extractor.py
-│   ├── pdf\_reader.py
-│   ├── section\_segmenter.py
+│   ├── info_extractor.py
+│   ├── pdf_reader.py
+│   ├── section_segmenter.py
 │   └── **init**.py
 │
 ├── scoring/                    # Scoring & filtering
 │   ├── scoring.py
 │   ├── filter.py
-│   ├── log\_candidate.py
+│   ├── log_candidate.py
 │   └── **init**.py
 │
 ├── utils/                      # Utilities
 │   ├── common.py
-│   ├── file\_utils.py
+│   ├── file_utils.py
 │   └── **init**.py
 │
 ├── config/                     # Config files
 │   ├── config.py               # Global paths & thresholds And Configuration
-│   ├── skills\_config.py        # Master skill sets (tech, data, etc.)
+│   ├── skills_config.py        # Master skill sets (tech, data, etc.)
 │
 ├── output/                     # Excel & log outputs
-│   ├── all\_candidates\_ranked.xlsx
-│   ├── filtered\_candidates.xlsx
+│   ├── all_candidates_ranked.xlsx
+│   ├── filtered_candidates.xlsx
 │   └── logs/
-│       ├── {Resume\_name}\_Raw\.txt
-│       └── {Resume\_name}\_Segmented.txt
+│       ├── {Resume_name}_Raw.txt
+│       └── {Resume_name}_Segmented.txt
 │
 ├── main.py                     # Pipeline entry point
 ├── requirements.txt            # Python dependencies

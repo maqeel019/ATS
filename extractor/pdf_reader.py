@@ -1,26 +1,40 @@
+import sys
+import contextlib
 from pdfminer.high_level import extract_text as extract_text_pdfminer
 import pdfplumber
-import fitz                 # PyMuPDF
+import fitz  # PyMuPDF
 from pdf2image import convert_from_path
 import pytesseract
+
+# Context manager to suppress stderr
+@contextlib.contextmanager
+def suppress_stderr():
+    with open('/dev/null', 'w') as devnull:
+        old_stderr = sys.stderr
+        sys.stderr = devnull
+        try:
+            yield
+        finally:
+            sys.stderr = old_stderr
 
 
 def extract_text_pdfplumber(path):
     """Try to extract text using pdfplumber (for text-based PDFs)."""
     try:
-        with pdfplumber.open(path) as pdf:
-            return "\n".join([p.extract_text() or "" for p in pdf.pages]).strip()
+        with suppress_stderr():
+            with pdfplumber.open(path) as pdf:
+                return "\n".join([p.extract_text() or "" for p in pdf.pages]).strip()
     except Exception as e:
         print(f"pdfplumber failed: {e}")
         return None
 
 
-
 def extract_text_fitz(path):
     """Fallback text extraction using PyMuPDF."""
     try:
-        doc = fitz.open(path)
-        return "\n".join([p.get_text("text") for p in doc]).strip()
+        with suppress_stderr():
+            doc = fitz.open(path)
+            return "\n".join([p.get_text("text") for p in doc]).strip()
     except Exception as e:
         print(f"PyMuPDF failed: {e}")
         return None
@@ -29,8 +43,9 @@ def extract_text_fitz(path):
 def extract_text_ocr(path):
     """OCR extraction for scanned or image-heavy PDFs."""
     try:
-        images = convert_from_path(path, dpi=300)
-        return "\n".join([pytesseract.image_to_string(img) for img in images]).strip()
+        with suppress_stderr():
+            images = convert_from_path(path, dpi=300)
+            return "\n".join([pytesseract.image_to_string(img) for img in images]).strip()
     except Exception as e:
         print(f"OCR failed: {e}")
         return None
@@ -38,7 +53,8 @@ def extract_text_ocr(path):
 
 def extract_text_pdfminer_wrapper(path):
     try:
-        return extract_text_pdfminer(path)
+        with suppress_stderr():
+            return extract_text_pdfminer(path)
     except Exception as e:
         print(f"[pdfminer] Failed to extract text: {e}")
         return ""

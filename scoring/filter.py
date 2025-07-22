@@ -1,5 +1,5 @@
-from extractor.info_extractor import extract_matched_skills, extract_missing_skills
-
+from extractor.info_extractor import extract_matched_skills, extract_missing_skills ,extract_skills
+import re
 def apply_filtering(
     df,
     required_skills,
@@ -9,19 +9,24 @@ def apply_filtering(
     output_filtered_excel,
 ):
     
+        # Score filtering
+    # filtered_df = df[df["Score"] >= MIN_SCORE].copy() 
     
-    # filtered_df = df[df["Score"] >= MIN_SCORE]  # Only keep candidates with score >= 70
+        # Education filtering
+    # filtered_df = df[df["Education"].isin(min_education)].copy()
     
-    # Education filtering
-    # filtered_df = df[df["Education"].isin(min_education)]     
+        # Min Experince Filtering
+    filtered_df = df[df["Experience (Years)"] >= min_experience].copy()
     
-    # Filter by score
-    filtered_df = df[df["Experience (Years)"] >= min_experience]  # Only keep candidates with score >= min_score
-    
+        # Skills filtering (Only candidates who has all required skills)
+    # filtered_df = df[
+    #     df["Skills"].apply(
+    #         lambda s: set(required_skills).issubset(
+    #             set(x.strip().lower() for x in re.split(r"[,\|;]+", s))
+    #         )
+    #     )
+    # ].copy()
 
-
-
-    required_skills_lower = {skill.lower().strip() for skill in required_skills}
 
     filtered_df["Matched Skills"] = filtered_df["Skills"].apply(
     lambda s: extract_matched_skills(s, required_skills)
@@ -30,7 +35,6 @@ def apply_filtering(
     filtered_df["Missing Skills"] = filtered_df["Skills"].apply(
         lambda s: extract_missing_skills(s, required_skills)
     )
-
 
     filtered_df.to_excel(
         output_filtered_excel,

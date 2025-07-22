@@ -39,9 +39,8 @@ def log_candidate_score(
     with suppress(Exception):
         with open(raw_txt_path, "w", encoding="utf-8") as f:
             f.write(full_text)
-    print(f"✅ Raw extracted text saved: {raw_txt_path}")
 
-    # === Save segmented ===
+    # === Save segmented text===
     sections = segment_sections(full_text)
     
     segmented_txt_path = os.path.join(log_dir, f"{safe_name}_Segmented.txt")
@@ -51,6 +50,5 @@ def log_candidate_score(
                 f.write(f"\n===== {sec_name.upper()} =====\n")
                 f.write(sec_content.strip())
                 f.write("\n\n")
-    print(f"✅ Segmented text saved: {segmented_txt_path}")
 
     return round(score, 2)
