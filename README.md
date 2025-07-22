@@ -1,159 +1,188 @@
-# 🧠 ATS  – Intelligent Resume Filtering System
+```markdown
+# 🧠 ATS – Intelligent Resume Filtering System
 
 A smart **Applicant Tracking System (ATS)** designed to parse, extract, rank, and filter PDF resumes using keyword matching, profile completeness, and text analysis. Built to handle thousands of CVs — even those with complex or non-ATS-friendly layouts.
----
-## 🚀 Features
-- 📄 Extract text from scanned or structured PDFs using:
-  - `pdfplumber` (layout-aware text extraction)
-  - `PyMuPDF` (`fitz`) for reliable text layer reading
-  - `pdfminer.six` for fallback or additional structured extraction
-  - OCR fallback with `pytesseract` + `pdf2image` for scanned images
 
-- 🔍 Robust Information Extraction:
+---
+
+## 🚀 Features
+
+- 📄 **Advanced PDF Extraction:**
+  - `pdfplumber` (layout-aware)
+  - `PyMuPDF` (`fitz`) for text layer
+  - `pdfminer.six` fallback
+  - OCR fallback (`pytesseract` + `pdf2image`) for scanned images
+
+- 🔍 **Robust Information Extraction:**
   - Name, Email, Phone
   - LinkedIn, GitHub
-  - Skills (auto-extracted from text, supports comma/pipe/semicolon-separated formats)
-  - Calculate total work experience from both:
-        Explicit sentences ("4+ years of experience")
-        Job timelines ("May 2021 — Apr 2022")
-  - Education (raw & filtered highest degree)
+  - Skills (auto-extracted)
+  - Calculate work experience from:
+    - Explicit statements ("4+ years of experience")
+    - Job timelines (date ranges)
+  - Education (raw & highest degree)
 
-- 📊 Smart Scoring & Ranking:
+- 📊 **Smart Scoring & Ranking:**
   - Experience Score
   - Skill Match Score
   - Education Score
   - Profile Completeness Score
 
-- 🔎 Flexible Candidate Filtering:
-  - `REQUIRED_SKILLS`
-  - `MIN_EDUCATION`
-  - `MIN_EXPERIENCE`
+- 🔎 **Flexible Candidate Filtering:**
+  - REQUIRED_SKILLS
+  - MIN_EDUCATION
+  - MIN_EXPERIENCE
+  - MIN_SCORE
 
-- ⚙️ Configurable Scoring & Filtering:
-  - All filters and scoring weights are adjustable via config.py
-  - Recruiters can tweak criteria without touching core logic
+- ⚙️ **Configurable & Extensible:**
+  - All filters, paths, and skill sets in `config/config.py` and `config/skills_config.py`
+  - Add or change skills easily for different hiring fields
 
-- 📥 Resume Input Handling:
-  - Supports thousands of PDFs inside `/candidates/`
-  - Handles structured and non-ATS-friendly resumes
+- 📥 **Resume Input Handling:**
+  - Drop thousands of PDFs in `/candidates/`
+  - Handles ATS-friendly and messy resumes
 
-- 📤 Output Reports:
-  - `all_candidates.xlsx` — complete list
-        - Filename	Name	Email	Phone	LinkedIn	GitHub	Skills	Experience	Education	RawEducation	Score Rank														
-  - `filtered_candidates.xlsx` — only matching candidates
-        - Name	Email	Phone	LinkedIn	GitHub	MatchedSkills	Experience	RawEducation	Education	Score	Rank	MissingSkills
+- 📤 **Clear Output:**
+  - `all_candidates_ranked.xlsx` — full processed list
+  - `filtered_candidates.xlsx` — only qualified candidates
 
-- 📂 Logging for debugging purposes:
-  - Each candidate gets a `logs/{name}_Raw.txt` and `logs/{name}_Segmented.txt` with:
-    -`logs/{name}_Raw.txt` contain Scores (experience, skills, education, profile) and Raw text from their PDF.
-    - `logs/{name}_Segmented.txt` contain segmented sections of text like Summary,Education,Experince,Skills and Unknown.
-```bash
+- 🗂️ **Detailed Logs:**
+  - `logs/{name}_Raw.txt`: scores and raw text
+  - `logs/{name}_Segmented.txt`: segmented text sections
+
+---
+
 ## 📁 Folder Structure
-ATS/
-│
-├── candidates/                  # Folder containing all resume PDFs
-│
-├── extractor/                  # Resume content & metadata extraction
-│   ├── education.py
-│   ├── experience.py
-│   ├── info_extractor.py
-│   ├── pdf_reader.py
-│   ├── section_segmenter.py
-│   └── __init__.py
-│
-├── scoring/                    # Scoring and filtering logic
-│   ├── scoring.py
-│   ├── filter.py
-│   ├── log_candidate.py
-│   └── __init__.py
-│
-├── utils/                      # Utility functions
-│   ├── common.py
-│   ├── file_utils.py
-│   └── __init__.py
-│
-├── output/                     # Output results (Excel + Logs)
-│   ├── all_candidates_ranked.xlsx
-│   ├── filtered_candidates.xlsx
-│   └── logs/                   # Text logs for each candidate
-│     └── {Resume_name}_Segmented.txt
-│     └── {Resume_name}_Raw.txt
-├── config.py                   # Global config for filters, skill sets, etc.
-├── main.py                     # Main pipeline entry point
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-└── __pycache__/                # Compiled Python cache files
+
 ```
 
+ATS/
+│
+├── candidates/                 # All resume PDFs
+│
+├── extractor/                  # Extraction logic
+│   ├── education.py
+│   ├── experience.py
+│   ├── info\_extractor.py
+│   ├── pdf\_reader.py
+│   ├── section\_segmenter.py
+│   └── **init**.py
+│
+├── scoring/                    # Scoring & filtering
+│   ├── scoring.py
+│   ├── filter.py
+│   ├── log\_candidate.py
+│   └── **init**.py
+│
+├── utils/                      # Utilities
+│   ├── common.py
+│   ├── file\_utils.py
+│   └── **init**.py
+│
+├── config/                     # Config files
+│   ├── config.py               # Global paths & thresholds And Configuration
+│   ├── skills\_config.py        # Master skill sets (tech, data, etc.)
+│
+├── output/                     # Excel & log outputs
+│   ├── all\_candidates\_ranked.xlsx
+│   ├── filtered\_candidates.xlsx
+│   └── logs/
+│       ├── {Resume\_name}\_Raw\.txt
+│       └── {Resume\_name}\_Segmented.txt
+│
+├── main.py                     # Pipeline entry point
+├── requirements.txt            # Python dependencies
+├── README.md                   # Project docs
+└── **pycache**/
+
+````
+
+---
 
 ## 🔧 Setup Instructions
-### 1. Clone the repo
 
+### 1️⃣ Clone the Repo
 ```bash
 git clone https://github.com/maqeel019/ATS
 cd ATS
-2. Install dependencies
-⚠️ Python ≥ 3.8 required
+````
 
+### 2️⃣ Install Dependencies
+
+Python 3.8+
+
+```bash
 pip install -r requirements.txt
-If using OCR features:
+```
 
-Install Tesseract OCR engine:
+**If using OCR:**
 
+```bash
 sudo apt install tesseract-ocr
-For pdf2image:
-
 sudo apt install poppler-utils
+```
 
+---
 
-🛠️ How to Use
-Add Resumes
-Place all resume PDFs inside the candidates/ folder.
+## ⚙️ How to Use
 
-Run the Program
-From the project root, run:
-  python main.py
-  View Output in the output/ folder:
+### 📥 Add Resumes
 
-📄 all_candidates.xlsx – all processed resumes with extracted data
+Put all resume PDFs in the `candidates/` folder.
 
-🎯 filtered_candidates.xlsx – only candidates who meet your custom filters (skills, education, experience)
+### ▶️ Run the Pipeline
 
-📝 logs/{name}_raw.txt – per-candidate score breakdown and raw resume text for debugging
+```bash
+python main.py
+```
 
-📝 logs/{name}_segmented.txt – per-candidate score breakdown and raw resume text for debugging
+### 📊 View Results in `output/`
 
+* `all_candidates_ranked.xlsx`: every processed resume
+* `filtered_candidates.xlsx`: only resumes matching your filters
+* `logs/{name}_Raw.txt`: raw text & scores
+* `logs/{name}_Segmented.txt`: segmented sections
 
+---
 
-⚙️ Configuration
-You can customize the scoring and filtering behavior by modifying the config.py file:
+## 🛠️ Configuration
 
-🎯 Recruiter Filters
-Parameter   	                     Description	                                            Example
-MIN_EXPERIENCE	      Minimum required experience (in years)	                              0.5
-MIN_SCORE	            Minimum total score to pass filter	                                  60
-REQUIRED_SKILLS     	Skills candidate must have	                                          {"python", "mysql", "power bi"}
-MIN_EDUCATION	        Accepted degrees (lowercased match)	                                  {"bachelor", "master", "phd"}
+All settings are in `config/config.py` and `config/skills_config.py`.
 
-🧠 Scoring Weights
-Customize how the final score is calculated using:
+| Parameter         | Description                                | Example                           |
+| ----------------- | ------------------------------------------ | --------------------------------- |
+| `MIN_EXPERIENCE`  | Minimum required experience (years)        | `0.5`                             |
+| `MIN_SCORE`       | Minimum total score to pass filter         | `60`                              |
+| `REQUIRED_SKILLS` | Required skills (matches extracted skills) | `{"python", "mysql", "power bi"}` |
+| `MIN_EDUCATION`   | Minimum degree(s) accepted                 | `{"bachelor", "master", "phd"}`   |
 
+### 🔢 Scoring Weights
+
+```py
 RANKING_WEIGHTS = {
-    "experience": 30,   # % weight for experience
-    "skills": 40,       # % weight for skill match
-    "education": 20,    # % weight for education level
-    "profiles": 10      # % for Email,LinkedIn, GitHub,phoneNumber.
+    "experience": 30,  # %
+    "skills": 40,      # %
+    "education": 20,   # %
+    "profiles": 10     # %
 }
+```
 
-📁 File & Folder Paths
-Change I/O paths if needed:
+### 📦 File & Folder Paths
 
-PDF_FOLDER              = "candidates/"                     # Folder containing PDF resumes
-OUTPUT_DIR              = "output/"                         # Main output directory
+```py
+PDF_FOLDER              = "candidates/"
+OUTPUT_DIR              = "output/"
 OUTPUT_ALL_EXCEL        = "output/all_candidates_ranked.xlsx"
 OUTPUT_FILTERED_EXCEL   = "output/filtered_candidates.xlsx"
-LOG_DIR                 = "output/logs/"                    # Per-candidate logs
+LOG_DIR                 = "output/logs/"
+```
 
-🧪 Skill Matching
-The DEFAULT_SKILL_SET contains a wide list of industry skills used during skill extraction. You can:
-Trim/extend it to match your domain (Data Science, DevOps, Web, etc.)
+### 🧩 Skills Configuration
+
+All core tech skills live in `config/skills_config.py` — you can:
+
+* Expand with backend, data science, devops, etc.
+* Keep separate skill sets for different roles
+* Easily plug into your pipeline via `DEFAULT_SKILL_SET`
+
+---

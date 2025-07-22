@@ -1,6 +1,6 @@
 from .section_segmenter import segment_sections
 import re
-from config import _DEGREE_KEYWORDS
+from config.config import _DEGREE_KEYWORDS
 
 _CONTEXT_CLUES = [
     "university", "college", "school","higher" ,"institute", "academy",

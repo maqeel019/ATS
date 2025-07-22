@@ -3,7 +3,7 @@ import re
 from typing import Tuple, List
 import os
 from datetime import datetime
-from config import _MONTH_MAP
+from config.config import _MONTH_MAP
 from dateutil.relativedelta import relativedelta
 from extractor.section_segmenter import segment_sections  # make sure this is imported
 

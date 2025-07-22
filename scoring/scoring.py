@@ -1,7 +1,7 @@
 import re
 from scoring.log_candidate import log_candidate_score
 from extractor.experience import extract_experience
-from config import LOG_DIR, MIN_EXPERIENCE
+from config.config import LOG_DIR, MIN_EXPERIENCE
 
 
 def calculate_score(

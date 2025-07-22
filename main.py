@@ -9,8 +9,7 @@ from extractor.pdf_reader import (
     extract_text_ocr,
     extract_text_pdfminer_wrapper,
 )
-from config import (
-    DEFAULT_SKILL_SET,
+from config.config import (
     MIN_EDUCATION,
     PDF_FOLDER,
     OUTPUT_ALL_EXCEL,
@@ -20,6 +19,7 @@ from config import (
     MIN_SCORE,
     LOG_DIR,
 )
+from config.skills_config import (DEFAULT_SKILL_SET)
 from utils.file_utils import load_resumes_from_folder, save_to_excel
 from utils.common import update_links
 from extractor.experience import extract_experience

@@ -1,7 +1,7 @@
 import os
 import re
 from contextlib import suppress
-from config import LOG_DIR
+from config.config import LOG_DIR
 from extractor.section_segmenter import post_process_sections, segment_sections
 
 
