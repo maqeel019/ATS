@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 ATS – Intelligent Resume Filtering System
 
 A smart **Applicant Tracking System (ATS)** designed to parse, extract, rank, and filter PDF resumes using keyword matching, profile completeness, and text analysis. Built to handle thousands of CVs — even those with complex or non-ATS-friendly layouts.
@@ -54,8 +54,7 @@ A smart **Applicant Tracking System (ATS)** designed to parse, extract, rank, an
 
 ## 📁 Folder Structure
 
-```
-
+```bash
 ATS/
 │
 ├── candidates/                 # All resume PDFs
@@ -94,8 +93,7 @@ ATS/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project docs
 └── **pycache**/
-
-````
+```
 
 ---
 
