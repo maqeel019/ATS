@@ -1,4 +1,6 @@
 import re
+from scoring.log_candidate import log_candidate_score
+from config.config import LOG_DIR
 
 def assign_scores_and_ranks(
     df,
@@ -57,6 +59,22 @@ def assign_scores_and_ranks(
         score += profile_score
         score = round(score ,2)
         scores.append(score)
+        
+          # === 5. Log everything ===
+        log_candidate_score(
+            candidate=candidate,
+            exp_score=exp_score,
+            skill_score=skill_score,
+            skill_matches=skill_matches,
+            edu_score=edu_score,
+            profile_score=profile_score,
+            score=score,
+            exp_method="rule",
+            full_text=candidate.get("Text", ""),
+            pdf_filename=candidate.get("Filename", "unknown.pdf"),
+            log_dir=LOG_DIR
+        )
+
 
     df["Score"] = scores
     df = df.sort_values(by="Score", ascending=False).reset_index(drop=True)

@@ -1,0 +1,374 @@
+Nezuko
+PROFESSIONAL EXPERIENCE
+Kamado Associate Lead
+CenturyLink Technology India
+01/2018 – present | Bangalore, India
+Data Scientist Experience in Data Analysis, visualization, statistics,
+programming and Machine Learning techniques.
+Extensive Model building experience with Machine
+hello.ineuron@gmail.com
+Learning algorithms for Product
+9923312341 Telangana Experience in creating mature Data science pipelines
+encompassing Data standardization, Feature extraction,
+https://github.com/ model validation and optimization Exploring and
+visualizing data to drive insights Importing data from
+various sources and using numerous APIs.
+PROFILE Experienced in feature selection using filter methods,
+wrapper methods, Embedded methods and feature
+I have 6+ years of work experience in importance.
+Data Science with a proven ability and Advance knowledge of ML algorithms such as Ensemble
+history of developing full-stack data Models, Ada-boost, Gradient-Boosting, Kernel-KNN, Grid
+science projects. Hands-on experience search, Random Forest, Decision Tree, SVM, Linear
+leveraging machine learning, deep Regression, Ridge, Lasso, Pipeline, Feature Union, Cross
+learning, and transfer learning models Validation, KFold and Extensive knowledge and
+to solve challenging business problems. implementation experience in XGBoost algorithm Hyper-
+parameter tuning to improve the model ,Validation metric
+SKILLS for Regression and classification algorithms including
+classification report
+Machine Learning In-depth expertise with a rich repertoire of Regression,
+scikit learn, Dask , Pyspark, Pandas , Classification, Clustering and Dimensionality reduction
+Numpy, Seaborn, Matplotlib algorithms
+Deep Learning Software Engineer
+Hovorod, Pytorch, Tensorflow, keras , iNeuron Intelligence
+Mxnet 07/2016 – 05/2018 | Bangalore, India
+CUSTOMER SEGMENTS
+Cloud
+Aws, Azure, GCP In this project, I analysed a dataset containing data on
+various customers' annual spending amounts of diverse
+Rest Api product categories for internal structure using PCA and
+FastApi, Flask, Django, Grpc Gaussian Mixture Model clustering algorithm to best
+describe the variation in the different types of
+Mlops customers that a wholesale distributor interacts with to
+Docker, Kubernetes, Prometheus, provide insight into how to best structure their delivery
+Grafana, Seldon Core, Kubeflow, service to meet the needs of each customer. (GitHub)
+Sagemaker, kibana
+Software Engineer
+Microservice Thales
+08/2020 – 05/2021 | Hyderabad, India
+INTERESTS One checkout Platform – Real time streaming application
+for Financial data
+Playing Badminton, Tennis, Football, Tech Stack – Flink, Python, Kafka, Oracle, Kafka Connect,
+Writing Tech Blogs, Traveling, Movies Docker, AWS, Airflow
+Building one checkout platform for different business
+AWARDS domains of Expedia i.e; Vrbo, Hotels, Car Rentals,
+Lodging
+ICASSP Outstanding Paper Award, For Real time streaming platform captures & process
+‘Slow-Fast Auditory Streams For Audio financial data for Accounting and helps suppliers to track
+Recognition’ total amount to be paid via Auto Pay or Request Pay model
+ICASSP Crafted a scalable streaming solution using Flink
+01/01/2021 StateFun to handle ~800k booking streams each day.
+Google PhD Fellowship, In Machine
+Perception, Speech Technology and
+Computer Vision
+Google PhD Fellowship
+CERTIFICATES EDUCATION
+Elastic Search Silver contributor Bachelor Of Technology in Computer Science
+(06/2020 - Present) Jaypee Institute Of Information Technology
+01/2013 – 08/2017 | Noida, Uttar Pradesh
+Kaggle Grand Master
+Cumulative GPA : 8.1/10.0
+Python iNeuorn Relevant Coursework : Algorithms and Data Structure,
+Machine Learning Database Management System, Operating System,
+Computer Network, Linear Algebra, Discrete
+Deep Learning Masters Mathematics, Fuzzy Logic and Neural Network, Big Data
+AiOps
+Information Technology
+SASTRA University Thanjavur
+05/2005 – 04/2009 | Thanjavur, India
+Cumulative GPA : 9.05/10.0
+Relevant Coursework : Machine Learning, Deep Learning,
+Probability and Applied Statistics, Advance Data
+Structure and Algorithms, Natural Language Processing,
+Medical Image Processing
+Nezuko 
+Kamado
+Data Scientist
+hello.ineuron@gmail.com
+9923312341
+Telangana
+https://github.com/
+PROFILE
+I have 6+ years of work experience in
+Data Science with a proven ability and
+history of developing full-stack data
+science projects. Hands-on experience
+leveraging 
+machine 
+learning, 
+deep
+learning, and transfer learning models
+to solve challenging business problems.
+SKILLS
+Machine Learning
+scikit learn, Dask , Pyspark, Pandas , 
+Numpy, Seaborn, Matplotlib
+Deep Learning
+Hovorod, Pytorch, Tensorflow, keras , 
+Mxnet
+Cloud
+Aws, Azure, GCP
+Rest Api
+FastApi, Flask, Django, Grpc
+Mlops
+Docker, Kubernetes, Prometheus, 
+Grafana, Seldon Core, Kubeflow, 
+Sagemaker, kibana
+Microservice
+INTERESTS
+Playing Badminton, Tennis, Football, 
+Writing Tech Blogs, Traveling, Movies
+AWARDS
+ICASSP Outstanding Paper Award, For 
+‘Slow-Fast Auditory Streams For Audio 
+Recognition’
+ICASSP
+01/01/2021
+Google PhD Fellowship, In Machine 
+Perception, Speech Technology and 
+Computer Vision
+Google PhD Fellowship
+PROFESSIONAL EXPERIENCE
+Associate Lead
+CenturyLink Technology India
+01/2018 – present | Bangalore, India
+Experience in Data Analysis, visualization, statistics, 
+programming and Machine Learning techniques.
+Extensive Model building experience with Machine 
+Learning algorithms for Product
+Experience in creating mature Data science pipelines 
+encompassing Data standardization, Feature extraction, 
+model validation and optimization Exploring and 
+visualizing data to drive insights Importing data from 
+various sources and using numerous APIs.
+Experienced in feature selection using filter methods, 
+wrapper methods, Embedded methods and feature 
+importance.
+Advance knowledge of ML algorithms such as Ensemble 
+Models, Ada-boost, Gradient-Boosting, Kernel-KNN, Grid 
+search, Random Forest, Decision Tree, SVM, Linear 
+Regression, Ridge, Lasso, Pipeline, Feature Union, Cross 
+Validation, KFold and Extensive knowledge and 
+implementation experience in XGBoost algorithm Hyper-
+parameter tuning to improve the model ,Validation metric 
+for Regression and classification algorithms including 
+classification report
+In-depth expertise with a rich repertoire of Regression, 
+Classification, Clustering and Dimensionality reduction 
+algorithms
+Software Engineer
+iNeuron Intelligence
+07/2016 – 05/2018 | Bangalore, India
+CUSTOMER SEGMENTS
+In this project, I analysed a dataset containing data on 
+various customers' annual spending amounts of diverse 
+product categories for internal structure using PCA and 
+Gaussian Mixture Model clustering algorithm to best 
+describe the variation in the different types of 
+customers that a wholesale distributor interacts with to 
+provide insight into how to best structure their delivery 
+service to meet the needs of each customer. (GitHub)
+Software Engineer
+Thales
+08/2020 – 05/2021 | Hyderabad, India
+One checkout Platform – Real time streaming application 
+for Financial data
+Tech Stack – Flink, Python, Kafka, Oracle, Kafka Connect, 
+Docker, AWS, Airflow
+Building one checkout platform for different business 
+domains of Expedia i.e; Vrbo, Hotels, Car Rentals, 
+Lodging
+Real time streaming platform captures & process 
+financial data for Accounting and helps suppliers to track 
+total amount to be paid via Auto Pay or Request Pay model
+Crafted a scalable streaming solution using Flink 
+StateFun to handle ~800k booking streams each day.
+
+CERTIFICATES
+Elastic Search Silver contributor 
+(06/2020 - Present)
+Kaggle Grand Master
+Python iNeuorn
+Machine Learning
+Deep Learning Masters
+AiOps
+EDUCATION
+Bachelor Of Technology in Computer Science
+Jaypee Institute Of Information Technology
+01/2013 – 08/2017 | Noida, Uttar Pradesh
+Cumulative GPA : 8.1/10.0
+Relevant Coursework : Algorithms and Data Structure, 
+Database Management System, Operating System, 
+Computer Network, Linear Algebra, Discrete 
+Mathematics, Fuzzy Logic and Neural Network, Big Data
+Information Technology
+SASTRA University Thanjavur
+05/2005 – 04/2009 | Thanjavur, India
+Cumulative GPA : 9.05/10.0
+Relevant Coursework : Machine Learning, Deep Learning, 
+Probability and Applied Statistics, Advance Data 
+Structure and Algorithms, Natural Language Processing, 
+Medical Image Processing
+Nezuko 
+Kamado
+Data Scientist
+
+hello.ineuron@gmail.com
+
+9923312341
+
+Telangana
+
+https://github.com/
+
+PROFILE
+
+I  have  6+  years  of  work  experience  in
+Data  Science  with  a  proven  ability  and
+history  of  developing  full-stack  data
+science  projects.  Hands-on  experience
+learning,  deep
+leveraging  machine 
+learning,  and  transfer  learning  models
+to solve challenging business problems.
+
+SKILLS
+
+Machine Learning
+scikit learn, Dask , Pyspark, Pandas , 
+Numpy, Seaborn, Matplotlib
+
+Deep Learning
+Hovorod, Pytorch, Tensorflow, keras , 
+Mxnet
+
+Cloud
+Aws, Azure, GCP
+
+Rest Api
+FastApi, Flask, Django, Grpc
+
+Mlops
+Docker, Kubernetes, Prometheus, 
+Grafana, Seldon Core, Kubeflow, 
+Sagemaker, kibana
+
+Microservice
+
+INTERESTS
+
+Playing Badminton, Tennis, Football, 
+Writing Tech Blogs, Traveling, Movies
+
+AWARDS
+
+ICASSP Outstanding Paper Award, For 
+‘Slow-Fast Auditory Streams For Audio 
+Recognition’
+ICASSP
+01/01/2021
+
+Google PhD Fellowship, In Machine 
+Perception, Speech Technology and 
+Computer Vision
+Google PhD Fellowship
+
+PROFESSIONAL EXPERIENCE
+
+Associate Lead
+CenturyLink Technology India
+01/2018 – present | Bangalore, India
+
+Experience in Data Analysis, visualization, statistics, 
+programming and Machine Learning techniques.
+Extensive Model building experience with Machine 
+Learning algorithms for Product
+Experience in creating mature Data science pipelines 
+encompassing Data standardization, Feature extraction, 
+model validation and optimization Exploring and 
+visualizing data to drive insights Importing data from 
+various sources and using numerous APIs.
+Experienced in feature selection using filter methods, 
+wrapper methods, Embedded methods and feature 
+importance.
+Advance knowledge of ML algorithms such as Ensemble 
+Models, Ada-boost, Gradient-Boosting, Kernel-KNN, Grid 
+search, Random Forest, Decision Tree, SVM, Linear 
+Regression, Ridge, Lasso, Pipeline, Feature Union, Cross 
+Validation, KFold and Extensive knowledge and 
+implementation experience in XGBoost algorithm Hyper-
+parameter tuning to improve the model ,Validation metric 
+for Regression and classification algorithms including 
+classification report
+In-depth expertise with a rich repertoire of Regression, 
+Classification, Clustering and Dimensionality reduction 
+algorithms
+
+Software Engineer
+iNeuron Intelligence
+07/2016 – 05/2018 | Bangalore, India
+CUSTOMER SEGMENTS
+
+In this project, I analysed a dataset containing data on 
+various customers' annual spending amounts of diverse 
+product categories for internal structure using PCA and 
+Gaussian Mixture Model clustering algorithm to best 
+describe the variation in the different types of 
+customers that a wholesale distributor interacts with to 
+provide insight into how to best structure their delivery 
+service to meet the needs of each customer. (GitHub)
+
+Software Engineer
+Thales
+08/2020 – 05/2021 | Hyderabad, India
+
+One checkout Platform – Real time streaming application 
+for Financial data
+Tech Stack – Flink, Python, Kafka, Oracle, Kafka Connect, 
+Docker, AWS, Airflow
+Building one checkout platform for different business 
+domains of Expedia i.e; Vrbo, Hotels, Car Rentals, 
+Lodging
+Real time streaming platform captures & process 
+financial data for Accounting and helps suppliers to track 
+total amount to be paid via Auto Pay or Request Pay model
+Crafted a scalable streaming solution using Flink 
+StateFun to handle ~800k booking streams each day.
+
+CERTIFICATES
+
+Elastic Search Silver contributor 
+(06/2020 - Present)
+
+Kaggle Grand Master
+
+Python iNeuorn
+
+Machine Learning
+
+Deep Learning Masters
+
+AiOps
+
+EDUCATION
+
+Bachelor Of Technology in Computer Science
+Jaypee Institute Of Information Technology
+01/2013 – 08/2017 | Noida, Uttar Pradesh
+
+Cumulative GPA : 8.1/10.0
+Relevant Coursework : Algorithms and Data Structure, 
+Database Management System, Operating System, 
+Computer Network, Linear Algebra, Discrete 
+Mathematics, Fuzzy Logic and Neural Network, Big Data
+
+Information Technology
+SASTRA University Thanjavur
+05/2005 – 04/2009 | Thanjavur, India
+
+Cumulative GPA : 9.05/10.0
+Relevant Coursework : Machine Learning, Deep Learning, 
+Probability and Applied Statistics, Advance Data 
+Structure and Algorithms, Natural Language Processing, 
+Medical Image Processing
+
+

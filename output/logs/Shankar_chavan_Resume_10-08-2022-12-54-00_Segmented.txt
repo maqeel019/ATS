@@ -1,0 +1,155 @@
+
+===== EXPERIENCE =====
+11/2021 – present
+Banglore, India
+Jr. Data Scientist, iNeuron.ai
+Processing, cleansing and verifying the integrity of data used for analysis.
+Doing analysis and presenting results in a clear manner.
+Working on building and optimizing the state-of-the-art Machine learning and Deep
+learning models.
+Working and learning on how to create and automate the project lifecycle with the help of
+creating data pipelines.
+04/2021 – 11/2021
+Banglore, India
+Data Science Intern, iNeuron.ai
+Data Science Intern, iNeuron.ai
+11/2021 – present Jr. Data Scientist, iNeuron.ai
+04/2021 – 11/2021 Data Science Intern, iNeuron.ai
+
+
+===== PROJECTS =====
+Jr. Data Scientist, iNeuron.ai
+
+Processing, cleansing and verifying the integrity of data used for analysis.
+Doing analysis and presenting results in a clear manner.
+Working on building and optimizing the state-of-the-art Machine learning and Deep
+learning models.
+Working and learning on how to create and automate the project lifecycle with the help of
+creating data pipelines.
+
+
+Aerial Image Mismatch, iNeuron.ai
+
+The objective of this project is to detect the changes in the geographical co-ordinates in the different areas of the earth.
+We used Instance segmentation to extract the mask and polygons of the objects present in the satellite images.
+Decided to use U-net architecture and Detectron 2's Mask_RCNN_R_50_FPN_3x model for image segmentation.
+There were 5 objects I have segmented using Detectron 2 library.
+
+Mask Detection
+
+The objective of the project is to determine whether a person has worn a mask or not.
+Collected 500 + 500 (Mask, No mask) images to train the model.
+Firstly, trained Faster RCNN model, but the FPS was very low (i.e. < 1 FPS) then used SSD with Mobilenet to get better
+accuracy and achieved good FPS rate i.e. 5 FPS.
+In this project I am detecting the person in the frame first. For this I have used pre-trained model – SSD-Mobilenet, then I
+am detecting whether the person is wearing a mask or not.
+For training the model used Nvidia Quadro P-4000 GPU.
+
+Face Recognition, iNeuron.ai
+
+The objective of this project is to use face recognition for door security.
+Most doors are controlled by persons with the use of keys, security cards, password or pattern to open the door. The
+purpose of building this kind of system for improvement of the door security of sensitive locations by using face detection
+and recognition.
+The Database used in the project was MonogDB.
+Custom CNN model and transfer learning algorithm was used during this project.
+Companies Data was used to create this project.
+
+Brand Measure
+
+The objective of this project is to give exact Marketing solution to a company.
+We collected data in the form of Surveys. (Voice call data).
+We then converted those recordings into text form and applied spelling corrector.
+Then we used Key-word spotting to extract the meaning of the sentence.
+Finally on the basis of the key words, we are generating BI report to show in which area/region company should more
+focus on spending.
+
+
+Machine learning algorithms :
+Linear regression, Logistic regression, Decision tree,
+Random forest, XGBoost
+
+Computer Vision :
+Image Classification, Object Detection, Image
+Segmentation, OpenCV
+
+Frameworks
+Tensorflow, PyTorch
+
+MLops
+Docker, Kubernetes
+
+
+===== SKILLS =====
+Programming languages :
+Python
+Deep learning algorithms :
+ANN, CNN, RNN
+Database
+MySQL, MongoDB, Cassandra
+Cloud
+Heroku, AWS
+Machine learning algorithms :
+Linear regression, Logistic regression, Decision tree,
+Random forest, XGBoost
+Computer Vision :
+Image Classification, Object Detection, Image
+Segmentation, OpenCV
+Frameworks
+Tensorflow, PyTorch
+MLops
+Docker, Kubernetes
+
+
+===== EDUCATION =====
+2015 – 2017
+Pune, India
+Master Degree, SPPU University
+2012 – 2015
+Pune, India
+Bachelors Degree, SPPU University
+Certificates
+HackerRank Problem Solving
+Data Science (DLCVNLP)
+iNeuron.ai
+Achievements
+Conducted 7 days workshop on Python Programming language in KIET college, Kakinada, Andhra Pradesh.
+Successfully conducted career guidance drive multiple times in current organization as a community event.
+Shankar chavan
+Data Scientist
+
+
+9921xxxxxx
+
+GitHub
+
+HackerRank
+
+Linkedin
+
+Profile
+
+Data Scientist with 1.5+ years of experience comprising Deep learning, Computer vision and Machine learning. Strong
+willingness to exhibit my proficiency in Deep learning and Machine Learning Algorithms in professional environment.
+2015 – 2017 Master Degree, SPPU University
+2012 – 2015 Bachelors Degree, SPPU University
+
+
+===== CONTACT =====
+shankar.chavan@gmail.com
+
+
+===== UNKNOWN =====
+shankar.chavan@gmail.com 9921xxxxxx GitHub HackerRank Linkedin
+Professional Experience
+Banglore, India Processing, cleansing and verifying the integrity of data used for analysis.
+Projects
+Skills
+Programming languages : Machine learning algorithms :
+Python Linear regression, Logistic regression, Decision tree,
+ANN, CNN, RNN Computer Vision :
+Database Segmentation, OpenCV
+Cloud Tensorflow, PyTorch
+Education
+HackerRank Problem Solving Data Science (DLCVNLP)
+

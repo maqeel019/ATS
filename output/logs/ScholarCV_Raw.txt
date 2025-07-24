@@ -1,0 +1,279 @@
+Muhammad Aqeel
+Database Administrator & Data Analyst
+Phone: +92 341 9905547 Email: maqeelcs09@gmail.com
+LinkedIn: linkedin.com/in/aqeelkhan09/
+GitHub: github.com/maqeel019
+Summary
+Aspiring Data Scientist and Database Administrator with a strong academic foundation in Computer
+Science and hands-on experience in data analysis, machine learning, and database optimization. Proven
+ability to leverage tools like Python, SQL, and Power BI to solve real-world problems, particularly in
+healthcare and business analytics. Passionate about advancing my knowledge in data-driven decision-
+making and contributing to innovative research in predictive modeling and database systems. Seeking a
+master’s degree to further develop my expertise and make a meaningful impact in the field of data
+science.
+Education
+University of Swabi Bachelor of Computer Science
+CGPA: 3.5/4 Sep 2020 – Jul 2024
+Glorious College of Science & Technology Pre-Engineering
+Percentage: 79% Aug 2018 – May 2020
+Professional Experience
+Database Administrator ObsidianPM – Abbottabad, Pakistan
+Dec 2024 – Present
+• Designed and deployed healthcare database schema for the ObsidianPM project, ensuring
+scalability and efficiency.
+• Optimized SQL queries, stored procedures, triggers, and views to meet dynamic project
+requirements and improve query performance.
+• Implemented MySQL InnoDB Cluster for disaster recovery and high availability, ensuring
+minimal downtime.
+• Configured MySQL Master-to-Master and Client-to-Master replication for load balancing and
+performance optimization.
+• Monitored database performance, resolved bottlenecks, and ensured smooth operations during
+peak loads.
+• Collaborated with cross-functional teams to deliver database solutions within tight deadlines.
+Data Science Intern MeriSkill (Remote)
+Jul 2024 – Oct 2024
+• Conducted sales trend analysis and developed interactive Power BI dashboards with slicers and
+filters for data-driven decision-making.
+• Built a diabetes prediction model using logistic regression and visualized key insights for
+stakeholders.
+• Created HR analytics dashboards to analyze attrition rates, job roles, and demographic factors.
+• Cleaned and transformed datasets, addressing missing values and ensuring data quality for
+accurate reporting.
+Data Analysis Intern PlacementDost (Remote)
+Feb 2024 – Apr 2024
+• Designed and populated SQL databases, implemented dynamic stored procedures, and
+optimized queries for efficient data retrieval.
+• Developed interactive Power BI dashboards with drill-down functionality and geographic
+analysis.
+• Performed data analysis in Excel using pivot tables, conditional formatting, and advanced
+formulas to uncover key insights.
+Independent Projects
+1. Price Prediction System
+• Developed a machine learning-based house price prediction application using Streamlit.
+• Designed a user-friendly interface for seamless interaction, allowing users to input features (e.g
+area, bedrooms) and receive real-time predictions.
+• Predicted house prices using a trained machine learning model, providing accurate and reliable
+estimates.
+2. Health Risk Prediction
+• Designed a health risk prediction system using a decision tree model to classify risks like Heart
+Disease, Diabetes, Osteoporosis (High/Not High Risk), and No Significant Risk.
+• Built an interactive Streamlit application for real-time predictions.
+• Implemented Preprocessing pipelines for scaling and feature encoding to ensure model
+accuracy
+3. Hotel Booking Analysis
+• Analyzed booking data using Python, Pandas, and Matplotlib.
+• Found higher prices and longer waits increase cancellations.
+• Resort hotels had more cancellations than city hotels.
+• Average daily rate peaked in January and July.
+4. Animated Movies Analysis
+• Analyzed animated movies using Python, Pandas, and Matplotlib.
+• Explored popularity, revenue trends, production countries, and top-grossing companies.
+• Visualized insights to uncover trends in box office performance and genres.
+Skills
+Programming Languages:
+Python, SQL, JavaScript, HTML/CSS
+Database Management:
+MySQL, MS SQL Server, SQL Server Management Studio, Adminer
+Data Analytics & Visualization:
+Power BI, Excel (Advanced Functions, Dashboards)
+Libraries:
+Pandas, NumPy, Matplotlib, Seaborn
+Machine Learning & Preprocessing:
+Logistic Regression, Decision Trees, Train-Test Split, Data Cleaning,
+Handling missing values, feature scaling, label encoding
+Statistical Analysis:
+Hypothesis testing, correlation analysis, trend analysis
+Version Control:
+Git, GitHub
+Frameworks & Tools:
+Streamlit, WordPress, Jupyter Notebook, VS Code
+Research Skills:
+Research Methodology, Academic Writing, Literature Review, Data
+Collection Tools
+Additional Skills:
+Time Management, Effective Googling for Technical Solutions, Team
+Collaboration & Communication,Critical Thinking,Adaptability and
+Leadership
+Awards & Certifications:
+- Awarded the PM's National Laptop Scheme (2023) for academic excellence.
+- Ranked 4th in my batch during Bachelor of Computer Science at the University of Swabi.
+- Python for Data Science, AI & Development – Coursera
+- Programming with Python – Coursera
+- What is Data Science – Coursera
+- Introduction to Software Project Management – Coursera
+- Meta Front-End Development Specialization – Coursera
+LANGUAGES
+- English (Professional Working Proficiency)
+- Urdu (Professional Working Proficiency)
+- Hindi (Conversational Proficiency)
+- Pashto (Native Proficiency)
+REFERENCES
+Dr. Shah Nazir
+Head of Department | University of Swabi
+Email: shahnazir@uoswabi.edu.pk
+Phone: +92 346 966210
+Mr. Anwar Hussain
+Lecturer | University of Swabi
+Email: anwar@uoswabi.edu.pk
+Phone: +92 315 7280087
+Muhammad Aqeel
+ Database Administrator & Data Analyst
+Phone:  +92 341 9905547   Email:  maqeelcs09@gmail.com
+LinkedIn:  linkedin.com/in/aqeelkhan09/
+ 
+  
+GitHub:  github.com/maqeel019
+ 
+     
+Summary
+Aspiring Data Scientist and Database Administrator with a strong academic foundation in Computer 
+Science and hands-on experience in data analysis, machine learning, and database optimization. Proven 
+ability to leverage tools like Python, SQL, and Power BI to solve real-world problems, particularly in 
+healthcare and business analytics. Passionate about advancing my knowledge in data-driven decision-
+making and contributing to innovative research in predictive modeling and database systems. Seeking a 
+master’s degree to further develop my expertise and make a meaningful impact in the field of data 
+science.
+Education
+University of Swabi
+         Bachelor of Computer Science 
+CGPA: 3.5/4
+   Sep 2020 – Jul 2024
+Glorious College of Science & Technology
+         Pre-Engineering 
+Percentage: 79%
+           Aug 2018 – May 2020
+Professional Experience
+Database Administrator
+ObsidianPM – Abbottabad, Pakistan
+   Dec 2024 – Present
+•
+Designed and deployed  healthcare database schema  for the ObsidianPM project, ensuring 
+scalability and efficiency.
+•
+Optimized  SQL queries,  stored  procedures,  triggers,  and  views  to  meet  dynamic  project 
+requirements and improve query performance.
+•
+Implemented  MySQL InnoDB Cluster  for disaster recovery and high availability, ensuring 
+minimal downtime.
+•
+Configured MySQL Master-to-Master and Client-to-Master replication for load balancing and 
+performance optimization.
+•
+Monitored database performance, resolved bottlenecks, and ensured smooth operations during 
+peak loads.
+•
+Collaborated with cross-functional teams to deliver database solutions within tight deadlines.
+
+Data Science Intern
+    MeriSkill (Remote)
+              Jul 2024 – Oct 2024
+•
+Conducted sales trend analysis and developed interactive Power BI dashboards with slicers and 
+filters for data-driven decision-making.
+•
+Built a  diabetes prediction model  using logistic regression and visualized key insights for 
+stakeholders.
+•
+Created HR analytics dashboards to analyze attrition rates, job roles, and demographic factors.
+•
+Cleaned and transformed datasets, addressing missing values and ensuring data quality for 
+accurate reporting.
+Data Analysis Intern
+   
+       PlacementDost (Remote)
+ Feb 2024 – Apr 2024
+•
+Designed  and  populated  SQL  databases,  implemented  dynamic  stored  procedures,  and 
+optimized queries for efficient data retrieval.
+•
+Developed  interactive Power BI dashboards  with drill-down functionality and geographic 
+analysis.
+•
+Performed  data analysis in Excel  using pivot tables, conditional formatting, and advanced 
+formulas to uncover key insights.
+Independent Projects
+1. Price Prediction System
+•
+Developed a machine learning-based house price prediction application using Streamlit.
+•
+Designed a user-friendly interface for seamless interaction, allowing users to input features (e.g 
+area, bedrooms) and receive real-time predictions.
+•
+Predicted house prices using a trained machine learning model, providing accurate and reliable 
+estimates.
+2. Health Risk Prediction
+•
+Designed a health risk prediction system using a decision tree model to classify risks like Heart 
+Disease, Diabetes, Osteoporosis (High/Not High Risk), and No Significant Risk.
+•
+Built an interactive Streamlit application for real-time predictions.
+•
+Implemented  Preprocessing  pipelines  for  scaling  and  feature  encoding  to  ensure  model 
+accuracy
+3. Hotel Booking Analysis
+•
+Analyzed booking data using Python, Pandas, and Matplotlib.
+•
+Found higher prices and longer waits increase cancellations.
+•
+Resort hotels had more cancellations than city hotels.
+•
+Average daily rate peaked in January and July.
+
+4. Animated Movies Analysis
+•
+Analyzed animated movies using Python, Pandas, and Matplotlib.
+•
+Explored popularity, revenue trends, production countries, and top-grossing companies.
+•
+Visualized insights to uncover trends in box office performance and genres.
+Skills
+Programming Languages:
+ Python, SQL, JavaScript, HTML/CSS
+Database Management: 
+MySQL, MS SQL Server, SQL Server Management Studio, Adminer
+Data Analytics & Visualization: 
+Power BI, Excel (Advanced Functions, Dashboards)
+Libraries:
+Pandas, NumPy, Matplotlib, Seaborn
+Machine Learning & Preprocessing: 
+Logistic Regression, Decision Trees, Train-Test Split, Data Cleaning, 
+Handling missing values, feature scaling, label encoding
+Statistical Analysis: 
+Hypothesis testing, correlation analysis, trend analysis
+Version Control: 
+Git, GitHub
+Frameworks & Tools: 
+Streamlit, WordPress, Jupyter Notebook, VS Code
+Research Skills:
+                                
+Research Methodology, Academic Writing, Literature Review, Data 
+Collection Tools
+Additional Skills: 
+Time Management, Effective Googling for Technical Solutions, Team 
+Collaboration & Communication,Critical Thinking,Adaptability and
+Leadership
+Awards & Certifications:
+- Awarded the PM's National Laptop Scheme (2023) for academic excellence.
+- Ranked 4th in my batch during Bachelor of Computer Science at the University of Swabi.
+- Python for Data Science, AI & Development – Coursera
+- Programming with Python – Coursera
+- What is Data Science – Coursera
+- Introduction to Software Project Management – Coursera
+- Meta Front-End Development Specialization – Coursera
+
+LANGUAGES
+- English (Professional Working Proficiency)
+- Urdu (Professional Working Proficiency)
+- Hindi (Conversational Proficiency)
+- Pashto (Native Proficiency)
+REFERENCES
+Dr. Shah Nazir
+Head of Department | University of Swabi
+Email: shahnazir@uoswabi.edu.pk
+Phone: +92 346 966210
+Mr. Anwar Hussain
+Lecturer | University of Swabi
+Email: anwar@uoswabi.edu.pk
+Phone: +92 315 7280087
+Muhammad Aqeel Database Administrator & Data AnalystPhone:  +92 341 9905547   Email:  maqeelcs09@gmail.comLinkedIn:  linkedin.com/in/aqeelkhan09/     GitHub:  github.com/maqeel019      SummaryAspiring Data Scientist and Database Administrator with a strong academic foundation in Computer Science and hands-on experience in data analysis, machine learning, and database optimization. Proven ability to leverage tools like Python, SQL, and Power BI to solve real-world problems, particularly in healthcare and business analytics. Passionate about advancing my knowledge in data-driven decision-making and contributing to innovative research in predictive modeling and database systems. Seeking a master’s degree to further develop my expertise and make a meaningful impact in the field of data science.EducationUniversity of Swabi         Bachelor of Computer Science CGPA: 3.5/4   Sep 2020 – Jul 2024Glorious College of Science & Technology         Pre-Engineering Percentage: 79%           Aug 2018 – May 2020Professional ExperienceDatabase AdministratorObsidianPM – Abbottabad, Pakistan   Dec 2024 – Present•Designed and deployed healthcare database schema for the ObsidianPM project, ensuring scalability and efficiency.•Optimized SQL queries, stored procedures, triggers, and views to meet dynamic project requirements and improve query performance.•Implemented  MySQL InnoDB Cluster for disaster recovery and high availability, ensuring minimal downtime.•Configured MySQL Master-to-Master and Client-to-Master replication for load balancing and performance optimization.•Monitored database performance, resolved bottlenecks, and ensured smooth operations during peak loads.•Collaborated with cross-functional teams to deliver database solutions within tight deadlines.Data Science Intern    MeriSkill (Remote)              Jul 2024 – Oct 2024•Conducted sales trend analysis and developed interactive Power BI dashboards with slicers and filters for data-driven decision-making.•Built a diabetes prediction model using logistic regression and visualized key insights for stakeholders.•Created HR analytics dashboards to analyze attrition rates, job roles, and demographic factors.•Cleaned and transformed datasets, addressing missing values and ensuring data quality for accurate reporting.Data Analysis Intern          PlacementDost (Remote) Feb 2024 – Apr 2024•Designed and populated SQL databases, implemented dynamic stored procedures, and optimized queries for efficient data retrieval.•Developed interactive Power BI dashboards with drill-down functionality and geographic analysis.•Performed data analysis in Excel using pivot tables, conditional formatting, and advanced formulas to uncover key insights.Independent Projects1. Price Prediction System•Developed a machine learning-based house price prediction application using Streamlit.•Designed a user-friendly interface for seamless interaction, allowing users to input features (e.g area, bedrooms) and receive real-time predictions.•Predicted house prices using a trained machine learning model, providing accurate and reliable estimates.2. Health Risk Prediction•Designed a health risk prediction system using a decision tree model to classify risks like Heart Disease, Diabetes, Osteoporosis (High/Not High Risk), and No Significant Risk.•Built an interactive Streamlit application for real-time predictions.•Implemented Preprocessing pipelines for scaling and feature encoding to ensure model accuracy3. Hotel Booking Analysis•Analyzed booking data using Python, Pandas, and Matplotlib.•Found higher prices and longer waits increase cancellations.•Resort hotels had more cancellations than city hotels.•Average daily rate peaked in January and July.4. Animated Movies Analysis•Analyzed animated movies using Python, Pandas, and Matplotlib.•Explored popularity, revenue trends, production countries, and top-grossing companies.•Visualized insights to uncover trends in box office performance and genres.SkillsProgramming Languages: Python, SQL, JavaScript, HTML/CSSDatabase Management: MySQL, MS SQL Server, SQL Server Management Studio, AdminerData Analytics & Visualization: Power BI, Excel (Advanced Functions, Dashboards)Libraries:Pandas, NumPy, Matplotlib, SeabornMachine Learning & Preprocessing: Logistic Regression, Decision Trees, Train-Test Split, Data Cleaning, Handling missing values, feature scaling, label encodingStatistical Analysis: Hypothesis testing, correlation analysis, trend analysisVersion Control: Git, GitHubFrameworks & Tools: Streamlit, WordPress, Jupyter Notebook, VS CodeResearch Skills:                                Research Methodology, Academic Writing, Literature Review, Data Collection ToolsAdditional Skills: Time Management, Effective Googling for Technical Solutions, Team Collaboration & Communication,Critical Thinking,Adaptability andLeadershipAwards & Certifications:- Awarded the PM's National Laptop Scheme (2023) for academic excellence.- Ranked 4th in my batch during Bachelor of Computer Science at the University of Swabi.- Python for Data Science, AI & Development – Coursera- Programming with Python – Coursera- What is Data Science – Coursera- Introduction to Software Project Management – Coursera- Meta Front-End Development Specialization – CourseraLANGUAGES- English (Professional Working Proficiency)- Urdu (Professional Working Proficiency)- Hindi (Conversational Proficiency)- Pashto (Native Proficiency)REFERENCESDr. Shah NazirHead of Department | University of SwabiEmail: shahnazir@uoswabi.edu.pkPhone: +92 346 966210Mr. Anwar HussainLecturer | University of SwabiEmail: anwar@uoswabi.edu.pkPhone: +92 315 7280087

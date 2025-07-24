@@ -1,0 +1,197 @@
+
+===== SUMMARY =====
+TrinityPad by utilizing technologies like Next.js, MongoDB, and Node.js. My expertise includes crafting responsive, SEO-optimized web
+
+applications, integrating third-party APIs, and enhancing user experiences through seamless front-end designs in React and
+
+TypeScript.
+
+
+===== EXPERIENCE =====
+I am a full-stack web developer with over three years of experience, proficient in both frontend and backend development,
+specializing in the MERN stack and React Native Expo. I have successfully built and launched platforms such as RoboDialog and
+Contact
+Website: https://shayanalibakhsh.online
+Location: Islamabad Pakistan ( Willing to Relocate )
+I am a full-stack web developer with over three years of experience, proficient in both frontend and backend development,
+specializing in the MERN stack and React Native Expo. I have successfully built and launched platforms such as RoboDialog and
+TrinityPad by utilizing technologies like Next.js, MongoDB, and Node.js. My expertise includes crafting responsive, SEO-optimized web
+applications, integrating third-party APIs, and enhancing user experiences through seamless front-end designs in React and
+TypeScript.
+Authornate
+Mid-Senior Full Stack Developer
+Pakistan, Islamabad (Onsite)
+Nov 2024 - Present
+D Contributed in TrinityPad, a web and mobile platform for blockchain-based project investments, implementing Privy for
+authentication, ethers.js for web3 transactions, and a TypeScript-based backend using Express.js and Firebase)
+D Played a crucial role in GameGPT, implementing frontend designs and integrating Web3 smart contracts, including successful
+deployment on the Ethereum testnet, facilitating an auction feature used by 1,000+ users)
+D Led web3 authentication and secure transaction handling, ensuring seamless integration with blockchain technology)
+D Actively collaborated on UI/UX design in Figma, contributing to user-friendly and visually engaging interfaces.
+RoboDialog
+Founder
+Pakistan Remote
+Feb 2024 - Present
+D Developed a full-stack web platform using Next.js, Node.js, and MongoDB, ensuring seamless integration of AI chatbot services)
+D Architected scalable back-end systems with MongoDB, utilizing indexing, reducing database query times by 40% under heavy
+load)
+D Implemented Vector Database using FAISS, Hugging Face Vector Model and Langchain for RAG Model in Node.j
+D Designed highly responsive, pixel-perfect frontend interfaces using React and Next.js)
+D Implemented secure authentication and tokenization, protecting user data and enhancing application security in compliance
+with industry standards)
+D Deployed and managed the platform on VPS hosting, optimizing server performance and maintaining 99.9% uptime.
+SMB DigitalZone
+Lead Full Stack Web Developer
+UAE, Dubai Remote
+Oct 2023 - Feb 2024
+D Built scalable web applications using Next.js, Cloudinary, Node.js, and MongoDB, ensuring smooth frontend-backend
+synchronization and a 20% improvement in page load speed)
+D Integrated Major social media for connecting accounts and posting to their platforms like Facebook, Youtube, TikTok , Twitter, etc)
+D Implemented JWT-based authentication and OAuth for third-party logins, significantly enhancing user security and data
+protection)
+D Designed and developed E-commerce, blog, company, and other websites with improved security and SEO optimization)
+D Collaborated closely with product managers and designers, delivering detailed and highly optimized UI/UX experiences.
+SUMIAKA HR
+Junior Full Stack Web Developer
+United States Remote
+August 2023 – September 2023
+D Developed comprehensive HR management tools, ensuring an intuitive user interface with React and Material-UI for enhanced
+productivity)
+D Collaborated with the design team on Figma to create user-friendly interfaces.
+CERTIFIED BY
+GOOGLE META
+Mid-Senior Full Stack Developer Nov 2024 - Present
+Founder Feb 2024 - Present
+Lead Full Stack Web Developer Oct 2023 - Feb 2024
+Junior Full Stack Web Developer August 2023 – September 2023
+Mid Senior Full Stack Web and Mobile Developer January 2023 – July 2023
+Junior Frontend Web Developer June 2022– January 2023
+Software Developer Feb 2021– June 2022
+January 2023 – Aug 2023
+January 2023 – July 2023
+
+
+===== EDUCATION =====
+Microverse
+
+United States Remote
+
+Full Stack Development Bootcamp January 2023 – Aug 2023
+Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects
+with Ruby, Rails, JavaScript, React, and Redux.
+Fazaia Degree Collage
+
+Pakistan
+
+Higher school January 2020– March 2022
+June 2022– January 2023
+Feb 2021– June 2022
+2 Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects
+
+
+===== SKILLS =====
+Frontend: React, React Native, Next.js , Typescript
+
+
+Backend: Node.js, Express , Socket.io
+
+
+Database: Firebase, MongoDB, AWS, Cloudinary, Vector FAISS
+
+
+Pakistan
+
+January 2020– March 2022
+
+Other Tools & Methods: Ethers.js, Shopify, Figma , GitHub, Context-API, Stripe, Material UI, Styled-components, Graph API, Third party
+
+integrations, Google Maps API, Hostinger VPS hosting.
+
+
+===== CONTACT =====
+Phone / Whatsapp : +92-3168104861
+Linkedin: https://www.linkedin.com/in/shayan-khan20/
+Email : kshayan091@gmail.com
+
+
+===== UNKNOWN =====
+MUHAMMAD SHAYAN
+MERN Full Stack Developer
+Summary
+Experience
+Contributed in TrinityPad, a web and mobile platform for blockchain-based project investments, implementing Privy for
+authentication, ethers.js for web3 transactions, and a TypeScript-based backend using Express.js and Firebase
+Played a crucial role in GameGPT, implementing frontend designs and integrating Web3 smart contracts, including successful
+deployment on the Ethereum testnet, facilitating an auction feature used by 1,000+ users
+Led web3 authentication and secure transaction handling, ensuring seamless integration with blockchain technology
+Actively collaborated on UI/UX design in Figma, contributing to user-friendly and visually engaging interfaces.
+Developed a full-stack web platform using Next.js, Node.js, and MongoDB, ensuring seamless integration of AI chatbot services
+Architected scalable back-end systems with MongoDB, utilizing indexing, reducing database query times by 40% under heavy
+load
+Implemented Vector Database using FAISS, Hugging Face Vector Model and Langchain for RAG Model in Node.j
+Designed highly responsive, pixel-perfect frontend interfaces using React and Next.js
+Implemented secure authentication and tokenization, protecting user data and enhancing application security in compliance
+with industry standards
+Deployed and managed the platform on VPS hosting, optimizing server performance and maintaining 99.9% uptime.
+Built scalable web applications using Next.js, Cloudinary, Node.js, and MongoDB, ensuring smooth frontend-backend
+synchronization and a 20% improvement in page load speed
+Integrated Major social media for connecting accounts and posting to their platforms like Facebook, Youtube, TikTok , Twitter, etc
+Implemented JWT-based authentication and OAuth for third-party logins, significantly enhancing user security and data
+protection
+Designed and developed E-commerce, blog, company, and other websites with improved security and SEO optimization
+Collaborated closely with product managers and designers, delivering detailed and highly optimized UI/UX experiences.
+Developed comprehensive HR management tools, ensuring an intuitive user interface with React and Material-UI for enhanced
+productivity
+Collaborated with the design team on Figma to create user-friendly interfaces.
+CARMED
+Developed a cross-platform mobile application using React Native, integrating Firebase for real-time updates, resulting in a 30%
+reduction in response times for live user interactions
+Collaborated closely with the design team on Figma, iterating on UI/UX to deliver a highly intuitive and visually compelling mobile
+experience
+Proactively identified and addressed security vulnerabilities in Next.js, Express, and React Native, reducing potential security risks
+by 25%
+Integrated cloud-based solution to enhance application scalability.
+SKUPREME
+Developed responsive and visually engaging user interfaces using Next.js and styled-component
+Received recognition from project managers for consistently delivering high-quality UI/UX solutions ahead of deadlines,
+contributing to the overall success of multiple projects
+Actively participated in team code reviews, identifying potential issues early on and contributing to a 15% improvement in code
+quality and maintainability
+Created reusable frontend components in React, accelerating development speed and improving design consistency across the
+platform.
+Fiverr and Other Projects
+Developed responsive and visually engaging user interfaces using Next.js, React Native Expo, Node.js, MongoDB, Cloudinary,
+Typescript and styled-component
+Maintained clean and sustainable codebases, ensuring project maintainability and delivering on time with a 100% success rate
+for project deadlines
+Used MongoDB indexing and optimized queries to improve database performance, leading to a 30% increase in app
+responsiveness
+Designed and developed full-stack applications with a focus on frontend precision and backend scalability
+Education
+Skills
+2 Developed a cross-platform mobile application using React Native, integrating Firebase for real-time updates, resulting in a 30%
+reduction in response times for live user interactions
+2 Collaborated closely with the design team on Figma, iterating on UI/UX to deliver a highly intuitive and visually compelling mobile
+experience
+2 Proactively identified and addressed security vulnerabilities in Next.js, Express, and React Native, reducing potential security risks
+by 25%
+2 Integrated cloud-based solution to enhance application scalability.
+Junior Frontend Web Developer
+Software Developer
+Full Stack Development Bootcamp
+Higher school
+2 Developed responsive and visually engaging user interfaces using Next.js and styled-componentÜ
+2 Received recognition from project managers for consistently delivering high-quality UI/UX solutions ahead of deadlines,
+contributing to the overall success of multiple projects
+2 Actively participated in team code reviews, identifying potential issues early on and contributing to a 15% improvement in code
+quality and maintainability
+2 Created reusable frontend components in React, accelerating development speed and improving design consistency across the
+2 Developed responsive and visually engaging user interfaces using Next.js, React Native Expo, Node.js, MongoDB, Cloudinary,
+Typescript and styled-componentÜ
+2 Maintained clean and sustainable codebases, ensuring project maintainability and delivering on time with a 100% success rate
+for project deadlines
+2 Used MongoDB indexing and optimized queries to improve database performance, leading to a 30% increase in app
+responsiveness
+2 Designed and developed full-stack applications with a focus on frontend precision and backend scalability
+Mid Senior Full Stack Web and Mobile Developer
+

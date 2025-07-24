@@ -1,0 +1,171 @@
+
+===== EXPERIENCE =====
+CEDRUS GROUP (PVT) LTD.
+Mern-Stack Developer
+Abbottabad, KPK
+Dec 2024–Present
+
+Develop robust web applications using Node.js framework, focusing on efficiency and user experience
+enhancement
+
+Collaborate with team members to design, develop, and optimize software solutions.
+
+Implement strategies to ensure minimal risk in software development process, achieving high accuracy in
+online paper checking system.
+
+Upwards.Io
+Mern-Stack Intern
+Abbottabad, KPK
+Aug 2024–Dec 2024
+
+Developed and maintained web applications using MongoDB, Express.js, React.js, and Node.js, ensuring
+efficient and scalable solutions.
+
+Built and integrated RESTful APIs to enhance application functionality, enabling seamless data exchange
+between frontend and backend.
+
+Improved application performance by optimizing database queries, implementing caching strategies, and
+refining backend logic for faster response times.
+Synccare Web App: A healthcare management system designed to streamline patient data, appointments, and
+Learning Management System: Developed the front-end for an Online Assessment System, designing an intuitive
+Mern stack Developer with 1 years of experience delivering software development services. Proven success in developing
+Mern-Stack Developer
+Mern-Stack Intern
+  Developed and maintained web applications using MongoDB, Express.js, React.js, and Node.js, ensuring
+  Built and integrated RESTful APIs to enhance application functionality, enabling seamless data exchange
+Mern-Stack Developer Dec 2024–Present
+Mern-Stack Intern Aug 2024–Dec 2024
+
+
+===== EDUCATION =====
+COMSATS UNIVERSITY OF SCIENCE & TECHNOLOGY
+Bachelor of Computer Science
+
+Abbottabad, KPK
+March 2024
+Bachelor of Computer Science March 2024
+
+
+===== PROJECTS =====
+
+communication using the MERN stack.
+
+and responsive UI for efficient learning management.
+
+
+ADDITIONAL SKILLS
+
+
+React.Js
+
+Node.js
+
+API
+Integration
+
+
+
+Material Ui
+
+CSS
+
+HTML
+
+
+
+Java Script
+
+Mongo Db
+
+Version
+Control
+
+
+
+Jira
+
+Problem
+Handling
+Ibrahim Ahmed
+
+
+robust web Websites, driving efficiency, and enhancing user experience through skilful strategic planning, consulting, and
+software development services.
+
+PRO FESS IONAL EXPERIENCE
+
+CEDRUS GROUP (PVT) LTD.
+
+Abbottabad, KPK
+Dec 2024–Present
+
+  Develop  robust  web  applications  using  Node.js  framework,  focusing  on  efficiency  and  user  experience
+
+enhancement
+
+  Collaborate with team members to design, develop, and optimize software solutions.
+
+
+
+Implement strategies to ensure minimal risk in software development process, achieving high accuracy in
+online paper checking system.
+
+Upwards.Io
+
+Abbottabad, KPK
+Aug 2024–Dec 2024
+
+
+efficient and scalable solutions.
+
+
+between frontend and backend.
+
+
+
+Improved application performance by optimizing database queries, implementing caching strategies, and
+refining backend logic for faster response times.
+
+
+===== CONTACT =====
+(+92) 343-1938944
+ibrahimahmed12333@gmail.com
+https://www.linkedin.com/in/ibrahim-ahmed-8b8961254/
+
+
+===== PORTFOLIO =====
+https://github.com/IbrahimAhmed413/IbrahimAhmed413
+
+
+===== UNKNOWN =====
+PROFESSIONAL EXPERIENCE
+CEDRUS GROUP (PVT) LTD. Abbottabad, KPK
+ Develop robust web applications using Node.js framework, focusing on efficiency and user experience
+ Collaborate with team members to design, develop, and optimize software solutions.
+ Implement strategies to ensure minimal risk in software development process, achieving high accuracy in
+Upwards.Io Abbottabad, KPK
+ Developed and maintained web applications using MongoDB, Express.js, React.js, and Node.js, ensuring
+ Built and integrated RESTful APIs to enhance application functionality, enabling seamless data exchange
+ Improved application performance by optimizing database queries, implementing caching strategies, and
+EDUCATION
+COMSATS UNIVERSITY OF SCIENCE & TECHNOLOGY Abbottabad, KPK
+PROJECTS
+ Synccare Web App: A healthcare management system designed to streamline patient data, appointments, and
+ Learning Management System: Developed the front-end for an Online Assessment System, designing an intuitive
+ React.Js  Material Ui  Java Script  Jira
+ Node.js  CSS  Mongo Db  Problem
+ API  HTML  Version Handling
+Integration Control
+  Synccare Web App: A healthcare management system designed to streamline patient data, appointments, and
+  Learning Management System: Developed the front-end for an Online Assessment System, designing an intuitive
+ADDITIONAL SK ILLS
+  React.Js
+  Node.js
+  API
+  Material Ui
+  CSS
+  HTML
+  Mongo Db
+  Version
+  Problem
+

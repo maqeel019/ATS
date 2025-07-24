@@ -1,0 +1,231 @@
+
+===== SUMMARY =====
+Analytical and results-oriented Database Administrator and Data Analyst with proven expertise in SQL
+Server, Python, Power BI, and Excel. Skilled in designing and optimizing databases, writing dynamic
+queries, and developing efficient ETL pipelines. Strong background in performing complex data
+analysis, building predictive models, and delivering clear visual insights through interactive dashboards
+and reports. Adept at transforming raw data into actionable information that drives informed decision-
+making and improves business performance.
+
+
+===== EDUCATION =====
+University of Swabi
+Bachelor of Computer Science
+CGPA: 3.51/4
+Sep 2020 – Jul 2024
+Glorious College of Science & Technology
+Pre-Engineering
+Percentage: 79%
+Aug 2018 – May 2020
+Bachelor of Computer Science
+MySQL, MS SQL Server, Adminer, Replication, Backup & Recovery
+CGPA: 3.51/4 Sep 2020 – Jul 2024
+Percentage: 79% Aug 2018 – May 2020
+
+
+===== EXPERIENCE =====
+Database Administrator
+
+
+Pre-Engineering
+
+ObsidianPM – Abbottabad, Pakistan
+Dec 2024 – Present
+
+• Optimized complex SQL queries, stored procedures, triggers, and views, reducing query time
+
+•
+
+by 30%.
+Implemented MySQL InnoDB Cluster for disaster recovery and high availability (99.99%
+uptime readiness).
+
+• Configured Master-to-Master and Client-to-Master replication for load balancing and
+
+performance testing.
+
+• Automated database backups and maintenance using Bash scripts and Linux system time
+
+services.
+
+• Designed and developed tables, schemas, triggers, and procedures to support application
+
+development and ensure data integrity.
+
+Data Science Intern
+
+• Collaborated with cross-functional teams to deliver robust database solutions on tight deadlines.
+MeriSkill (Remote)
+Jul 2024 – Oct 2024
+
+• Analyzed sales trends and built interactive Power BI dashboards with slicers and filters.
+• Developed a Python logistic regression model to predict diabetes and visualize key insights.
+• Designed HR dashboards to track attrition, roles, and workforce demographics.
+• Cleaned and transformed datasets, handling missing data to ensure reporting accuracy.
+
+Data Analysis Intern
+
+PlacementDost (Remote)
+Feb 2024 – Apr 2024
+
+
+
+
+
+
+
+• Designed SQL databases, stored procedures, and optimized queries for efficient reporting.
+• Built an end-to-end pipeline combining SQL, Power BI, and Excel for analysis and visuals.
+• Developed interactive Power BI dashboards with slicers, drill-downs, and geographic mapping.
+• Analyzed and validated data in Excel using pivot tables, formatting, and advanced formulas.
+Built a Python ATS to extract candidate information from scanned or complex PDF resumes, rank them
+Built Python machine learning apps to predict house prices and health risks, with user-friendly
+• Designed intuitive Streamlit front-ends for easy interaction and instant predictions.
+
+
+===== PROJECTS =====
+Applicant Tracking System (ATS):
+with smart scoring, and save results to Excel.
+
+• Extracts basic information (name, contacts, skills, education) and calculates total experience
+
+from explicit mentions or by date range.
+Scores each resume on experience, skills match, education, and profile completeness with fully
+adjustable logic.
+Filters candidates based on Scoring,experience, education, or skills criteria.
+Saves all candidates and filtered lists to Excel and creates per-candidate logs for debugging.
+
+•
+
+•
+•
+
+Prediction Systems
+Streamlit interfaces for real-time results.
+
+• Predicted house prices
+• Classified health risks
+• Ensured clean preprocessing pipelines for accurate, reliable outputs.
+
+based on user input features using trained regression models.
+(e.g., heart disease, diabetes) using a decision tree model.
+
+Data Analyses
+Performed exploratory data analysis on diverse domains to uncover patterns, trends, and insights using
+Python and visualizations.
+
+• Explored Los Angeles crime data to reveal trends by location, time, and victim demographics,
+using bar charts, pie charts, and heatmaps to highlight hotspots and crime status breakdowns.
+Investigated hotel booking data and animated movie trends to find drivers of cancellations and
+box office performance.
+
+•
+
+• Analyzed UK fruit and vegetable prices to detect seasonality and market risks.
+• Used pandas, Matplotlib, Seaborn, and Plotly to communicate findings effectively.
+
+
+===== SKILLS =====
+Programming Languages:
+
+Database Management:
+
+Python, SQL, JavaScript, HTML/CSS
+
+Data Analytics & Visualization:
+
+
+Power BI, Excel (Advanced Functions,Pivot Tables, Dashboards), ETL
+Pipelines, Report Automation
+
+Libraries:
+
+Statistical & ML:
+
+Pandas, NumPy, Matplotlib, Seaborn, Plotly,
+
+
+
+
+Version Control:
+
+Frameworks & Tools:
+
+Additional Skills:
+
+Probability, Hypothesis Testing, Linear Regression, Decision Trees,
+Supervised & Unsupervised Learning, Clustering, Dimensionality
+Reduction (PCA), Cross-Validation, Hyperparameter Tuning, Feature
+Engineering,Time Series Analysis
+
+Git, GitHub
+
+VS Code, Streamlit,, Jupyter Notebook, WordPress
+
+Visual Storytelling, Report Writing, Effective Googling for Technical
+Solutions, Team Collaboration & Communication
+
+
+===== CERTIFICATIONS =====
+Python for Data Science, AI & Development – Coursera
+Programming with Python – Coursera
+What is Data Science – Coursera
+Introduction to Software Project Management – Coursera
+Meta Front-End Development Specialization – Coursera
+Muhammad Aqeel
+Database Administrator & Data Analyst
+
+
+===== CONTACT =====
+Phone:  +923419905547   Email:  maqeelcs09@gmail.com
+LinkedIn:  linkedin.com/in/aqeelkhan09/
+
+
+===== PORTFOLIO =====
+GitHub:  github.com/maqeel019
+
+
+===== UNKNOWN =====
+Phone: +923419905547 Email: maqeelcs09@gmail.com
+LinkedIn: linkedin.com/in/aqeelkhan09/
+GitHub: github.com/maqeel019
+Summary
+Education
+University of Swabi Bachelor of Computer Science
+Glorious College of Science & Technology Pre-Engineering
+Experience
+Database Administrator ObsidianPM – Abbottabad, Pakistan
+• Implemented MySQL InnoDB Cluster for disaster recovery and high availability (99.99%
+Data Science Intern MeriSkill (Remote)
+Data Analysis Intern PlacementDost (Remote)
+Projects
+• Scores each resume on experience, skills match, education, and profile completeness with fully
+• Filters candidates based on Scoring,experience, education, or skills criteria.
+• Saves all candidates and filtered lists to Excel and creates per-candidate logs for debugging.
+• Predicted house prices based on user input features using trained regression models.
+• Classified health risks (e.g., heart disease, diabetes) using a decision tree model.
+• Investigated hotel booking data and animated movie trends to find drivers of cancellations and
+Skills
+Certifications
+Optimized complex SQL queries, stored procedures, triggers, and views, reducing query time
+Configured Master-to-Master and Client-to-Master replication for load balancing and
+Automated database backups and maintenance using Bash scripts and Linux system time
+Designed and developed tables, schemas, triggers, and procedures to support application
+Collaborated with cross-functional teams to deliver robust database solutions on tight deadlines.
+Analyzed sales trends and built interactive Power BI dashboards with slicers and filters.
+Developed a Python logistic regression model to predict diabetes and visualize key insights.
+Designed HR dashboards to track attrition, roles, and workforce demographics.
+Cleaned and transformed datasets, handling missing data to ensure reporting accuracy.
+Designed SQL databases, stored procedures, and optimized queries for efficient reporting.
+Built an end-to-end pipeline combining SQL, Power BI, and Excel for analysis and visuals.
+Developed interactive Power BI dashboards with slicers, drill-downs, and geographic mapping.
+Analyzed and validated data in Excel using pivot tables, formatting, and advanced formulas.
+Extracts basic information (name, contacts, skills, education) and calculates total experience
+Predicted house prices
+Classified health risks
+Designed intuitive Streamlit front-ends for easy interaction and instant predictions.
+Ensured clean preprocessing pipelines for accurate, reliable outputs.
+Explored Los Angeles crime data to reveal trends by location, time, and victim demographics,
+Analyzed UK fruit and vegetable prices to detect seasonality and market risks.
+Used pandas, Matplotlib, Seaborn, and Plotly to communicate findings effectively.
+

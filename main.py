@@ -79,6 +79,7 @@ def extract_and_save_candidate_info_to_excel(
             {
                 "Filename": fn,
                 "Name": info["name"],
+                "Role": info["role"],
                 "Email": info["email"],
                 "Phone": info["phone"],
                 "LinkedIn": info["linkedin"],

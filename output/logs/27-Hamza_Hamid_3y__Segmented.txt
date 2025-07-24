@@ -1,0 +1,132 @@
+
+===== EXPERIENCE =====
+Software Engineer
+
+aSimplify
+
+Full Time, On-site, Islamabad
+
+04/2024 - Current
+
+• Developed and maintained responsive, high-quality frontend interfaces using JavaScript (JS) and modern frameworks (i-e., Next, Vue.js,
+
+React), contributing to diverse projects and full-stack solutions with ASP.NET Core MVC.
+
+• Worked and enhanced a Chrome extension using JavaScript, integrating AI-driven features powered by OpenAI and Gemini to optimize
+
+system configurations and improve user workflows.
+
+• Maintain scalable, JS-driven web applications widely utilized in live market environments, ensuring top-tier performance and reliability
+
+through frontend optimizations and seamless backend integration.
+
+• Optimized JS-based web application performance, focusing on frontend scalability and responsiveness to ensure reliability in high-traffic
+
+live market scenarios.
+
+• Guided junior developers and interns, sharing JavaScript expertise and best practices to ensure efficient delivery of frontend and
+
+extension-based projects.
+
+• Collaborated with cross functional teams including design and marketing, to create comprehensive onboarding processes detail videos.
+
+Frontend Developer
+
+Stem Wizards
+Academia
+
+Full Time, Hybrid, Abbottabad  09/2023 - 12/2023
+
+•Led the development and deployment of the AirAcademic LMS system as the lead Frontend Engineer, utilizing JavaScript to create a
+
+robust, user-friendly interface for a widely-used educational platform.
+•Translated complex requirements into intuitive UI designs using JavaScript, crafted mobile-responsive features, and collaborated with
+
+teams to enhance usability and meet user needs effectively.
+
+• Worked in a hybrid capacity, balancing on-site and remote responsibilities to deliver frontend solutions for the AirAcademic system and
+
+related projects.
+
+MERN Stack Trainee
+
+Contour Software
+
+Full Time, on-site, Islamabad
+
+04/2023 - 06/2023
+
+•Gain hands-on expertise in MERN Stack development under the guidance of top market developers.
+• Participate in a training program sponsored by TECH Lift, designed to enhance technical and professional skills.
+
+• Earn a certification from Contour Software upon successful completion of the training program.
+
+• Learn current market trends and best practices in software development, focusing on the MERN Stack (MongoDB, Express.js, React,
+
+Node.js).
+•Developed a comprehensive remote healthcare management system using the MERN Stack.
+• Implemented Stripe payment gateway for seamless transactions, supporting various payment methods
+• Developed an intuitive dashboard for admin and doctors, providing key insights through graphs and metrics.
+• Implemented admin-exclusive features like doctors management and other configurations.
+• Implemented front-end functionality with React.js for a responsive and dynamic user interface.
+•   Major in Software Engineering (3.32 CGPA)
+LinkedIn | GitHub | thedev.hamza@gmail.com | 0316-8767587 | Islamabad, Pakistan
+Software Engineer aSimplify Full Time, On-site, Islamabad 04/2024 - Current
+Stem Wizards Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
+MERN Stack Trainee Contour Software Full Time, on-site, Islamabad 04/2023 - 06/2023
+LinkedIn |  GitHub |  thedev.hamza@gmail.com |  0316-8767587 |  Islamabad, Pakistan
+Abbottabad, Paskitan  03/2019 - 07/2023
+
+
+===== PROJECTS =====
+  Remote HMS System
+
+04/2023- 06/2023
+
+
+• Enabled users to consult with doctors and schedule private appointments conveniently.
+
+
+
+  Asaan Movers
+
+03/2022 - 12/2022
+
+• Logistic Application with real-time tracking, build by using React.Js, Express.js, Node.js and MongoDB (MERN Stack).
+
+• Integrated MongoDB for efficient data storage and real-time tracking and route optimization capabilities.
+
+
+===== SKILLS =====
+• C | C++ | Java | HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | Flowbite CSS | jQuery | Ajax | Alpine JS | Azure DevOps | Chakra UI
+• GCP | AWS S3 | Docker | Generative AI | LangChain | Llama Index | Ollama | Web Scraping | Web Automation | Desktop Automation
+
+
+===== EDUCATION =====
+Bachelor of Science
+COMSATS UNIVERSITY
+Abbottabad, Paskitan
+03/2019 - 07/2023
+Hamza Hamid
+
+• NEXT | React | NUXT | MS SQL | PostgreSQL | Node.js | Express.js | MongoDB | Git | Frontend | Backend | Performance Optimization
+ Remote HMS System 04/2023- 06/2023
+ Asaan Movers 03/2022 - 12/2022
+Bachelor of Science COMSATS UNIVERSITY Abbottabad, Paskitan 03/2019 - 07/2023
+Full Time, Hybrid, Abbottabad 09/2023 - 12/2023
+
+
+===== CONTACT =====
+LinkedIn |   GitHub |   thedev.hamza@gmail.com |  0316-8767587 |  Islamabad, Pakistan
+
+
+===== UNKNOWN =====
+Experience _______________________________________________________________________________________
+Frontend Developer Academia
+Projects __________________________________________________________________________________________
+Skills ____________________________________________________________________________________________
+Education ________________________________________________________________________________________
+• Major in Software Engineering (3.32 CGPA)
+ Remote HMS System
+ Asaan Movers
+

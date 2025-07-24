@@ -44,6 +44,34 @@ def extract_name(text: str, filename: str = "") -> str:
     return base.title()
 
 
+def extract_role(text):
+    """
+    Extract probable role/job title from text.
+    Matches up to 3 words + suffix.
+    """
+    role_suffixes = [
+        "developer", "engineer", "designer", "manager",
+        "analyst", "consultant", "administrator", "architect",
+        "scientist", "specialist", "officer", "technician",
+        "operator", "coordinator", "lead", "intern", "assistant"
+    ]
+
+    pattern = re.compile(
+        r"(?i)\b((?:senior|junior|lead|principal)?\s*(?:[a-zA-Z0-9&+/.\-]+\s*){0,1})\s*(" +
+        "|".join(role_suffixes) +
+        r")\b"
+    )
+
+    matches = pattern.findall(text)
+    if matches:
+        for prefix, suffix in matches:
+            role = f"{prefix.strip()} {suffix}".strip()
+            role = re.sub(r"\s+", " ", role)
+            if len(role) > 1:
+                return role.title()
+    return "Unknown"
+
+
 def extract_email(text):
     m = re.search(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[A-Za-z]{2,}", text)
     if m:
@@ -172,6 +200,7 @@ def extract_missing_skills(skill_text, required_skills):
 def extract_candidate_info(text, skill_set, filename, pdf_path=None):
     info = {
         "name": extract_name(text, filename),
+        "role" : extract_role(text),
         "email": extract_email(text),
         "phone": extract_phone(text),
         "linkedin": "",
